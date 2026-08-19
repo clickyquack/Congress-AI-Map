@@ -14,12 +14,12 @@ Production build: `npm run build` → `dist/`.
 
 ## GitHub Pages
 
-The app is configured for a project site at `/congress-ai-map/`.
+The app is configured for a project site at `/Congress-AI-Map/`.
 
-1. Push this repo to GitHub as `congress-ai-map`.
-2. `npm run build`
-3. Deploy the `dist/` folder to the `gh-pages` branch (or Pages → Deploy from a branch / GitHub Actions).
-4. Site URL: `https://<user>.github.io/congress-ai-map/`
+1. Push this repo to GitHub.
+2. In repo **Settings → Pages**, set **Source** to **GitHub Actions**.
+3. Pushes to `main` run `.github/workflows/deploy.yml` (build + deploy `dist/`).
+4. Site URL: `https://<user>.github.io/Congress-AI-Map/`
 
 `public/.nojekyll` is copied into `dist/` so GitHub does not process the site with Jekyll.
 
