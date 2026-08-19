@@ -1,0 +1,47 @@
+[
+  {
+    "id": "hr9925-119",
+    "congress": 119,
+    "billType": "hr",
+    "number": 9925,
+    "title": "FRONTIER Act",
+    "category": "strong_risk",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925"
+  },
+  {
+    "id": "hr9917-119",
+    "congress": 119,
+    "billType": "hr",
+    "number": 9917,
+    "title": "AI Kill Switch Act",
+    "category": "strong_risk",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9917"
+  },
+  {
+    "id": "s2081-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 2081,
+    "title": "RISE Act of 2025",
+    "category": "strong_risk",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2081"
+  },
+  {
+    "id": "s1367-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 1367,
+    "title": "NO FAKES Act of 2025",
+    "category": "mundane",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "id": "chip-security",
+    "congress": 118,
+    "billType": "hr",
+    "number": 0,
+    "title": "Chip Security Act (national security / export controls)",
+    "category": "natsec_excluded",
+    "congressGovUrl": "https://www.congress.gov/"
+  }
+]

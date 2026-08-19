@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ev-1",
+    "bioguideId": "B001299",
+    "stanceImplied": "xrisk_concern",
+    "quote": "AI is likely to be the defining technology of the 21st century. Many experts predict that AI may soon match or surpass human performance across various tasks, including AI research and development itself. [...] Could AI systems become so capable at AI research and development tasks that we experience rapid capability amplification?",
+    "date": "2026-03-04",
+    "sourceUrl": "https://www.axios.com/2026/03/04/banks-hegseth-ai-steering-committee",
+    "sourceLabel": "Letter",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-2",
+    "bioguideId": "B001299",
+    "stanceImplied": "xrisk_concern",
+    "quote": "While cyber capabilities are the focus today, the conversation must extend well beyond cyber. AI is improving rapidly. Advanced AI systems are expected to develop increasingly consequential capabilities across military, intelligence, biosecurity, and other national security domains. [...] During the Cold War, atomic weapons introduced a paradigm shift in the geopolitical world order. AI has the potential to do the same. [...] One example [...] would be AI systems that outperform humans in making new breakthroughs in AI and developing increasingly more powerful AI systems. [...] These questions are especially salient as companies pursue artificial superintelligence[. ...] How do we ensure that we have the insight required to assess models not only for cyber capabilities but also in areas like military applications, loss of control to AI systems themselves, automated AI research and development capabilities, and other security domains?",
+    "date": "2026-05-14",
+    "sourceUrl": "https://x.com/SenatorBanks/status/2054973007957758228",
+    "sourceLabel": "Letter to Trump Administration officials on AI national security risks",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-3",
+    "bioguideId": "B001243",
+    "stanceImplied": "xrisk_concern",
+    "quote": "It is the sense of Congress that rapidly advancing artificial intelligence capabilities present both opportunities and significant risks to national security, public safety, economic competitiveness, civil liberties, and healthy labor and other markets, and that, as artificial intelligence advances toward human-level capabilities in virtually all domains, the United States must establish a secure testing and evaluation program to generate data-driven options for managing emerging risks.",
+    "date": "2025-12-19",
+    "sourceUrl": "https://www.blackburn.senate.gov/2025/12/technology/blackburn-unveils-national-policy-framework-for-artificial-intelligence",
+    "sourceLabel": "TRUMP AMERICA AI Act",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-4",
+    "bioguideId": "C001047",
+    "stanceImplied": "xrisk_concern",
+    "quote": "I think part of our problem is if we legislate today in this area, we're not going to pick up what I learned day before yesterday the new thing that's coming which is superintelligent AI, that's smarter than anybody in this room and all of us put together.",
+    "date": "2026-03-18",
+    "sourceUrl": "https://www.commerce.senate.gov/2026/3/liability-or-deniability-platform-power-as-section-230-turns-30",
+    "sourceLabel": "Section 230 Hearing",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-5",
+    "bioguideId": "H001089",
+    "stanceImplied": "xrisk_concern",
+    "quote": "It is the sense of Congress that rapidly advancing artificial intelligence capabilities present both opportunities and significant risks to national security, public safety, economic competitiveness, civil liberties, and healthy labor and other markets, and that, as artificial intelligence advances toward human-level capabilities in virtually all domains, the United States must establish a secure testing and evaluation program to generate data-driven options for managing emerging risks.",
+    "date": "2025-09-29",
+    "sourceUrl": "https://www.hawley.senate.gov/hawley-blumenthal-introduce-bipartisan-ai-evaluation-legislation-to-put-americans-first/",
+    "sourceLabel": "AI Risk Evaluation Act",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-6",
+    "bioguideId": "H001089",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Ms. Toner, can I just come back to something that I think you said [...] that American AI companies are working as hard and as fast as they can to try to develop technology that will displace many millions of workers and potentially pose existential risks. Now that's my gloss, maybe you wanna correct the record exactly as you said it before. I thought that was very interesting and very important.",
+    "date": "2026-04-22",
+    "sourceUrl": "https://www.judiciary.senate.gov/committee-activity/hearings/stealth-stealing-chinas-ongoing-theft-of-us-innovation-04-22-2026",
+    "sourceLabel": "Stealth Stealing: China's Ongoing Theft of US Innovation",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-7",
+    "bioguideId": "L000577",
+    "stanceImplied": "xrisk_concern",
+    "quote": "AI will at some point conclude that *we* are a huge mistake",
+    "date": "2025-11-27",
+    "sourceUrl": "https://x.com/BasedMikeLee/status/1994244471798813033",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-8",
+    "bioguideId": "K000393",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Permit me to share with you three hypotheses that I would like you to assume for the moment to be true... Hypothesis number 3... there is likely a berserk wing of the artificial intelligence community that intentionally or unintentionally could use artificial intelligence to kill all of us and hurt us the entire time that we are dying... Please tell me in plain English two or three reforms, regulations, if any, that you would implement if you were queen or king for a day...",
+    "date": "2023-05-16",
+    "sourceUrl": "https://www.judiciary.senate.gov/committee-activity/hearings/oversight-of-ai-rules-for-artificial-intelligence",
+    "sourceLabel": "2023 Sam Altman hearing.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-9",
+    "bioguideId": "B001302",
+    "stanceImplied": "xrisk_concern",
+    "quote": "At what point do we no longer see computational decision-making with a human first mover, and you have an algorithmically iterated process...at some point, it won't be a human that's the first mover anymore, it'll be the algorithm itself. And how long before we get there? How do we prevent the crime and provide the deterrence that is necessary? So with that bizarre question, but acknowledging that we're actually moving so rapidly that we probably thought by 2050 you'd be getting to artificial superintelligence, but it looks like maybe before 2030 you're going to be in artificial superintelligence.",
+    "date": "2025-07-16",
+    "sourceUrl": "https://www.youtube.com/watch?v=AU-4QHtCkxU",
+    "sourceLabel": "House Judiciary Committee hearing; preventing criminal exploitation of AI.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-10",
+    "bioguideId": "J000301",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Mr. Beall, you noted at the top that maybe we've become numbed by the headlines about all of the dangers of AI. I think that might be true. And yet, honestly, what we've heard today, I suspect, has scared the hell out of many of these committee members. Anybody who doesn't feel urgency around this issue is not paying attention. You noted that this is the most important national security challenge of our time. You noted that if we lose this race, it could trigger a global crisis.",
+    "date": "2025-06-25",
+    "sourceUrl": "https://www.youtube.com/live/GDNrUZBZDA4?si=J5X6EcYy1t_qcNam&t=3587",
+    "sourceLabel": "Committee on the CCP hearing, Authoritarians and Algorithms: Why U.S. AI Must Lead.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-11",
+    "bioguideId": "C001132",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Can you clarify to us what singularity means in the past? [...] It's Skynet. Skynet? Is that what we're thinking?",
+    "date": "2025-07-22",
+    "sourceUrl": "https://www.youtube.com/live/q4iMl7iUD6E?si=VFCKaCLPQWGJH4Mq&t=1632",
+    "sourceLabel": "From a bipartisan roundtable on AI.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-12",
+    "bioguideId": "C001132",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Does anyone on this panel feel or believe in any way as we are going down the road in this AI race we might be simultaneously engineering our own destruction? [...] We're seeing reports that Anthropic's Claude [Mythos] has been deemed too powerful and dangerous for public release and how it could be weaponized against banks, hospitals, energy grids, etc. [...] In the event that this some of this technology was to fall into the wrong hands, what keeps you guys up at night in relation to these powerful AI systems?",
+    "date": "2026-04-17",
+    "sourceUrl": "https://oversight.house.gov/roundtable/artificial-intelligence-and-american-power-leadership-security-and-prosperity/",
+    "sourceLabel": "AI and American Power roundtable",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-13",
+    "bioguideId": "M001239",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Mr. Hammond, you said you think singularity, based on your experience, will be 2026. And, just real quick, Dr. Lee, when do you think we will have that?",
+    "date": "2025-09-17",
+    "sourceUrl": "https://oversight.house.gov/hearing/shaping-tomorrow-the-future-of-artificial-intelligence/",
+    "sourceLabel": "Shaping Tomorrow: The Future of Artificial Intelligence",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-14",
+    "bioguideId": "M001239",
+    "stanceImplied": "xrisk_concern",
+    "quote": "How do we ensure AI does not creep into the kill chain? Because if AI thinks that oh this is a bad idea, it's not moral, they may not know what the commander knows, and we can't have it stop it.",
+    "date": "2026-04-17",
+    "sourceUrl": "https://oversight.house.gov/roundtable/artificial-intelligence-and-american-power-leadership-security-and-prosperity",
+    "sourceLabel": "AI and American Power roundtable",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-15",
+    "bioguideId": "B001316",
+    "stanceImplied": "xrisk_concern",
+    "quote": "I'm going to begin by quoting Irving John Good, who was a British mathematician. He is quoted as saying, 'Let an ultra-intelligent machine be defined as a machine that can far surpass all the intellectual activities of any man, however clever. Thus, the first ultra intelligent machine is the last invention that man may ever need to make.'",
+    "date": "2025-09-17",
+    "sourceUrl": "https://www.youtube.com/live/0ytOZF3cdXw?si=L4NvItJWZAaY9HOU&t=3552",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-16",
+    "bioguideId": "K000401",
+    "stanceImplied": "xrisk_concern",
+    "quote": "This is something that we have to get right, and we only get one shot at. There's a widely shared view that once AI capability crosses a certain threshold, whether that be recursive self-improvement or some other threshold, there's going to be an escape velocity. That has implications for the narrower geopolitical context of which country leads in the technology, but also for the broader idea of, 'Is this technology going to be aligned with and beneficial to humanity?'",
+    "date": "2025-09-18",
+    "sourceUrl": "https://youtu.be/Dny8dVjWS_k?si=Qaf8-Z0nmOD0b8o9&t=249",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-17",
+    "bioguideId": "M000194",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Some experts warn we are just a few years away from the emergence of artificial general intelligence—or the singularity. Others argue the technology has inherent limitations and we are decades away from the singularity, if it is even possible. We don't know for certain what the future of AI will look like. But what I do know is the future is too important to be left up to chance. We need to do our best to understand what kinds of impact AI can have on our economy and society and develop potential solutions now, before it's too late.",
+    "date": "2025-09-17",
+    "sourceUrl": "https://oversight.house.gov/release/mace-opens-hearing-on-the-future-of-artificial-intelligence/",
+    "sourceLabel": "Hearing on the future of AI.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-18",
+    "bioguideId": "M000194",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Well, some estimates say the singularity is a thousand days away, some say two thousand days away, but it is rapidly approaching either way.",
+    "date": "2025-07-22",
+    "sourceUrl": "https://www.youtube.com/live/q4iMl7iUD6E?si=iCRMN_HzV4akjD_v&t=1520",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-19",
+    "bioguideId": "M001224",
+    "stanceImplied": "xrisk_concern",
+    "quote": "It's my understanding that AI systems will soon have the capability to conduct its own research and development and effectively write its own rules and programming. AI will be able to predict then the issues it will need to solve and do it in ways sometimes that we can't control.",
+    "date": "2025-06-25",
+    "sourceUrl": "https://www.youtube.com/live/GDNrUZBZDA4?si=36AeDbUbn9d-Veea&t=5745",
+    "sourceLabel": "Committee on the CCP hearing, Authoritarians and Algorithms: Why U.S. AI Must Lead.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-20",
+    "bioguideId": "M001224",
+    "stanceImplied": "xrisk_concern",
+    "quote": "AI models don't just respond to queries from users, but increasingly augment and in some cases even replace the tasks carried out by technical staff at leading AI companies. [...] The implications for U.S. national security, economic competitiveness and civil society could be vast. If these models can learn from their mistakes, adapt autonomously, and eventually design and train their own successors, then who controls that process matters. A lot.",
+    "date": "2025-10-07",
+    "sourceUrl": "https://thehill.com/opinion/technology/5542073-us-china-ai-competition/",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-21",
+    "bioguideId": "D000628",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Mr. Clark, Jack, good to see you again. One of your recent newsletters describing AI, I think it was ChatGPT 4 Claude, \"attempting to avoid being turned off by its chief engineer despite clear instructions to the contrary.\" In fact, in this experiment, Claude attempted to blackmail the chief engineer with damning information he believed to be true. [...] This is a disturbing scenario to people like me. I'm not sure I feel a lot better, but thank you for your answer.",
+    "date": "2025-06-25",
+    "sourceUrl": "https://www.congress.gov/event/119th-congress/house-event/118428",
+    "sourceLabel": "Committee on the CCP hearing, Authoritarians and Algorithms: Why U.S. AI Must Lead.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-22",
+    "bioguideId": "P000605",
+    "stanceImplied": "xrisk_concern",
+    "quote": "I suspect that all of you are aware of the times that when various AI has been tested. [...] the AI has chosen, on occasion, to further its goals, as opposed to the goals of the people that wrote the code. And on occasion, how about the instance where Anthropic's Claude 4 model attempted to blackmail the people it believed were trying to shut it down, and then it would ignore shutdown commands [...] and went as far as to rewrite itself and preserve itself on a different server to avoid the commands of the humans in charge of it. How in the hell are we in here telling everybody that we have got to incorporate this into the Federal Government, state government, all levels of government, including National Defense, nuclear security, when we know these things are occurring?",
+    "date": "2025-06-05",
+    "sourceUrl": "https://www.congress.gov/119/meeting/house/118339/documents/HHRG-119-GO00-Transcript-20250605.pdf",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-23",
+    "bioguideId": "O000019",
+    "stanceImplied": "xrisk_concern",
+    "quote": "When you look at the catastrophic risks that could occur through the deployment of AI, one of the things that computer scientists worry about the most is a loss of control caused by recursive self-improvement. And so I think that that's something that definitely should be part of this governance framework.",
+    "date": "2026-06-25",
+    "sourceUrl": "https://www.youtube.com/watch?v=oo2nnmLYTLs",
+    "sourceLabel": "House Science Committee markup of AI bills.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-24",
+    "bioguideId": "L000571",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Industry leaders have publicly acknowledged the development of increasingly powerful artificial intelligence systems, with some discussing the potential for artificial general intelligence and superintelligence that could fundamentally reshape the society of the United States.",
+    "date": "2025-06-12",
+    "sourceUrl": "https://www.congress.gov/119/bills/s2081/BILLS-119s2081is.htm",
+    "sourceLabel": "RISE Act of 2025; protecting AI developers from civil liability if they comply with certain transparency requirements.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-25",
+    "bioguideId": "R000618",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Unlike the moon landing, the finish line in the AI race is far less clear for the U.S.—it may be achieving Artificial General Intelligence, human-level or greater machine cognition.",
+    "date": "2025-12-03",
+    "sourceUrl": "https://www.ricketts.senate.gov/news/press-releases/ricketts-chairs-subcommittee-hearing-on-american-ai-leadership-countering-communist-china/",
+    "sourceLabel": "Senate Foreign Relations Subcommittee hearing, Countering China's Challenge to American AI Leadership.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-26",
+    "bioguideId": "K000389",
+    "stanceImplied": "xrisk_concern",
+    "quote": "When Chairman Gallagher and I had that conversation with Elon Musk, he said that AGI [artificial general intelligence] was 5 to 6 years away. I was surprised by that timeline. What is your sense of how long we are from AGI?",
+    "date": "2023-07-18",
+    "sourceUrl": "https://www.govinfo.gov/app/details/CHRG-118hhrg53627",
+    "sourceLabel": "House Select Committee on the CCP hearing.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-27",
+    "bioguideId": "C001131",
+    "stanceImplied": "xrisk_concern",
+    "quote": "[Quote-tweeting Sen. Bernie Sanders: \"If the world's leading scientists say there's even a 10% chance humanity could be destroyed because of uncontrolled AI, shouldn't we do everything possible to prevent it?\"] I'm 100% with Bernie here.",
+    "date": "2026-05-06",
+    "sourceUrl": "https://x.com/repcasar/status/2052091765604143122",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-28",
+    "bioguideId": "C001117",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Isaac Asimov probably thought more about robots and how to fit robots into an ethical framework than darn near anybody. [...] The whole idea is that if you don't have those protections then we lose control. And we are now sitting here with a Department of Defense led by Major Hegseth who would like to use robots to kill human beings. [...] The fact that we have one AI company who is trying to be somewhat more ethical than the others and the Department of Defense is stepping all over them is both immoral and ignorant of the finer works of Isaac Asimov and Will Smith.",
+    "date": "2026-03-04",
+    "sourceUrl": "https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411031",
+    "sourceLabel": "House Financial Services Markup",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-29",
+    "bioguideId": "L000607",
+    "stanceImplied": "xrisk_concern",
+    "quote": "AI safety should not be a partisan issue. According to a recent Gallup survey, by a ratio of 8 to 1, US adults believe the government should maintain rules for AI safety even if it means developing AI capabilities more slowly. [...] Agentic misalignment is not yet a household term but it soon will be. In Silicon Valley where I live it's on the mind of every AI researcher and engineer with whom I talk.",
+    "date": "2026-03-04",
+    "sourceUrl": "https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411031",
+    "sourceLabel": "House Financial Services Markup",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-30",
+    "bioguideId": "L000562",
+    "stanceImplied": "xrisk_concern",
+    "quote": "I don't see the United States as the winner. I don't see China as the winner. I see artificial superintelligence as the winner. [...I]t doesn't matter whether the creator of artificial superintelligence is a good guy or a bad guy [...] superintelligence itself will be the entity that we have to confront, and I just worry about the broader impact of what's going on right now. [...] We are in serious existential trouble.",
+    "date": "2026-07-14",
+    "sourceUrl": "https://www.youtube.com/watch?v=ZO9HbvGe7cE&t=5973s",
+    "sourceLabel": "House Financial Services hearing on the Fed's Semi-Annual Monetary Policy Report",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-31",
+    "bioguideId": "F000454",
+    "stanceImplied": "xrisk_concern",
+    "quote": "If everyone had AGI software today, then the question is how many copies of that can you deploy? And that's limited by compute. When the singularity hits, that's what's really going to matter. [...] That is why I've been so involved in trying to move the needle on hardware-enforced mechanisms.",
+    "date": "2025-12-06",
+    "sourceUrl": "https://youtu.be/C3R1AFddnxo?si=sFyCGs7m_PpD50sb&t=89",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-32",
+    "bioguideId": "S000344",
+    "stanceImplied": "xrisk_concern",
+    "quote": "There is one issue that I think is more explosive than even the spread of nuclear weapons: engineered intelligence. By that I mean, the efforts of computer engineers and bio-engineers who may create intelligence beyond that of a human being. In testimony at the House Science Committee, the consensus of experts testifying was that in roughly 25 years we would have a computer that passed the Turing Test, and more importantly, exceeded human intelligence. As we develop more intelligent computers, we will find them useful tools in creating ever more intelligent computers, a positive feedback loop... The last time a new higher level of intelligence arose on this planet was roughly 50,000 years ago. It was our own ancestors, who then said hello to the previously most intelligent species, Neanderthals. It did not work out so well for the Neanderthals.",
+    "date": "2007-12-10",
+    "sourceUrl": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+    "sourceLabel": "World Healthcare Innovation and Technology Conference keynote.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-33",
+    "bioguideId": "S000344",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Now the proponents of AI tell us they're doing research to make AI controllable. And then when you look at what they're spending money on, it tends to be a PR effort or they're focused on data security, which is important but not existential. Um, but they're not really focused on the issue that is raised by this book, which I commend to everyone, but the title tells them all, If Anyone Builds It, Everyone Dies, Why Superhuman AI Would Kill Us All. I don't think anyone here can be confident that if AI were self-aware that it would decide that it liked us.",
+    "date": "2026-01-14",
+    "sourceUrl": "https://youtu.be/UECn73UVILg?si=AXrRamfEsZCwgcP7&t=183",
+    "sourceLabel": "During House Foreign Affairs Committee hearing on winning the AI race against China.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-34",
+    "bioguideId": "B001292",
+    "stanceImplied": "xrisk_concern",
+    "quote": "As we move forward, I get ever more scared about AI. [...] the deeper we get into it, the more we realize that it's also possible that the race to be the first in AI is the race to be the first to lose control.",
+    "date": "2025-07-01",
+    "sourceUrl": "https://annandaletoday.com/rep-beyer-calls-for-more-regulation-of-ai/",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-35",
+    "bioguideId": "B001292",
+    "stanceImplied": "xrisk_concern",
+    "quote": "As long as there are really thoughtful people, like Dr. Hinton or others, who worry about the existential risks of artificial intelligence—the end of humanity—I don't think we can afford to ignore that. Even if there's just a one in a 1000 chance, one in a 1000 happens. We see it with hurricanes and storms all the time.",
+    "date": "2024-02-21",
+    "sourceUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-36",
+    "bioguideId": "W000830",
+    "stanceImplied": "xrisk_concern",
+    "quote": "How do you perceive the risk of recursive self-improvement? There are growing concerns about the possibility of essentially superintelligent systems. [...] Because these systems are moving very, very quickly, and I think it's probably irresponsible not to have a plan for those conditions.",
+    "date": "2026-01-14",
+    "sourceUrl": "https://www.youtube.com/live/D4Q6nyQ_tK8?si=ahXFBxHe2jUpEcBh&t=7348",
+    "sourceLabel": "House Science, Space, and Technology Committee hearing Jan 2026.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-37",
+    "bioguideId": "T000487",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Mr. Beal, your testimony makes it clear that artificial superintelligence is one of the largest existential threats that we face right now. And many experts in the field also recognize that AGI, artificial general intelligence, is a precursor to that risk. [...] Should we also be concerned that authoritarian states like China or Russia may lose control over their own advanced systems? [...] And is it possible that a loss of control by any nation-state, including our own, could give rise to an independent AGI or ASI actor that globally we will need to contend with?",
+    "date": "2025-06-25",
+    "sourceUrl": "https://www.youtube.com/live/GDNrUZBZDA4?si=0JQMrlLE5lsRXvx9&t=5417",
+    "sourceLabel": "Hearing on AI.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-38",
+    "bioguideId": "K000391",
+    "stanceImplied": "xrisk_concern",
+    "quote": "This is a famous clip. What you just saw is the last of humankind fighting a rogue AI army that is broken loose from human control. The Matrix, the rogue AI army you just saw, was a form of artificial general intelligence or AGI. [...] China is making an all-out push to dominate AGI, which will inevitably seek to surveil and suppress us at every turn. [...] Rather than building bunkers, we should be building safer AI. Whether it's American AI or Chinese AI, it should not be released until we know it's safe.",
+    "date": "2025-06-25",
+    "sourceUrl": "https://www.youtube.com/live/GDNrUZBZDA4?si=mekua7KXozjitExo&t=644",
+    "sourceLabel": "Committee on the CCP hearing.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-39",
+    "bioguideId": "M001196",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Artificial Intelligence is the biggest technological threat we've faced since the invention of the atomic bomb. [...] AI at its worst could usher in an era of warfare more dangerous than anything we've seen before — more dangerous not just for America but for humanity itself. [...] The only way to address the existential threats to humanity is for all of us to come together.",
+    "date": "2023-05-24",
+    "sourceUrl": "https://www.bostonglobe.com/2023/05/24/opinion/seth-moulton-ai-autonomous-weapons/",
+    "sourceLabel": "Boston Globe op-ed and Cipher Brief interview.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-40",
+    "bioguideId": "L000582",
+    "stanceImplied": "xrisk_concern",
+    "quote": "The first is...AI that can destroy the world. Second is AI that isn't going to destroy the world but can kill you individually...And that last bucket, which is really the hardest, is AI that has some sort of harm to society.",
+    "date": "2023-11-08",
+    "sourceUrl": "https://fedscoop.com/congressional-ai-caucus-leader-ted-lieu-says-most-ai-should-not-be-regulated/",
+    "sourceLabel": "Washington Post Live event",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-41",
+    "bioguideId": "W000797",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Experts that were part of creating this technology say that it's an existential threat to humanity. We might want to listen.",
+    "date": "2023-06-02",
+    "sourceUrl": "https://www.foxnews.com/politics/should-concerned-congress-opens-new-threats-posed-us-labor-market",
+    "sourceLabel": "Fox News Digital interview.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-42",
+    "bioguideId": "B001267",
+    "stanceImplied": "xrisk_concern",
+    "quote": "But unlike fire, this technology can improve itself, and it has the potential to move faster and transform more than any innovation in our history, for better or for worse.",
+    "date": "2023-07-17",
+    "sourceUrl": "https://senatorbennet.medium.com/on-senate-floor-bennet-makes-the-case-for-a-new-federal-body-to-regulate-digital-platforms-and-ai-67143171af56",
+    "sourceLabel": "Senate floor speech",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-43",
+    "bioguideId": "S000033",
+    "stanceImplied": "xrisk_concern",
+    "quote": "There are very, very knowledgeable people — and I just talked to one today — who worry very much that human beings will not be able to control the technology, and that artificial intelligence will in fact dominate our society. We will not be able to control it. It may be able to control us. That's kind of the doomsday scenario.",
+    "date": "2025-07-13",
+    "sourceUrl": "https://gizmodo.com/bernie-sanders-reveals-the-ai-doomsday-scenario-that-worries-top-experts-2000628611",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-44",
+    "bioguideId": "S000033",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Artificial intelligence and robotics is in the process of transforming the world. The truth is that we are at the beginning of the most profound technological revolution in world history. [...] Frighteningly, some very knowledgeable people fear that what was once seen as science fiction could soon become a reality, and that is that superintelligent AI could become smarter than humans, could become independent of human control, and pose an existential threat to the human race. In other words, human beings could actually lose control over the planet.",
+    "date": "2026-02-25",
+    "sourceUrl": "https://www.govinfo.gov/app/details/CREC-2026-02-25/CREC-2026-02-25-pt1-PgS673",
+    "sourceLabel": "Congressional Record floor speech.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-45",
+    "bioguideId": "M001169",
+    "stanceImplied": "xrisk_concern",
+    "quote": "In our scramble to win the AI race against China, we risk losing ourselves. [...] AI is a transformational technology. It will likely turn out to be the most socially and economically disruptive technology ever — bigger than the printing press or advanced medicine or the internet.",
+    "date": "2025-06-16",
+    "sourceUrl": "https://www.chrismurphyct.com/p/in-our-scramble-to-win-the-ai-race",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-46",
+    "bioguideId": "S000148",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Today's discussion will likely touch on some of the pressing issues in highly capable AI systems: [...] The push to develop Artificial General Intelligence, or super-intelligent AI, that would be so powerful and capable that we would see it as a “digital god.”",
+    "date": "2023-12-06",
+    "sourceUrl": "https://www.schumer.senate.gov/imo/media/doc/8Opening%20Statement.pdf",
+    "sourceLabel": "2023 AI Insight Forum.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-47",
+    "bioguideId": "H000273",
+    "stanceImplied": "xrisk_concern",
+    "quote": "We should build trust, but verify. We need qualified third parties to effectively audit Generative AI systems and verify their claims of compliance with federal laws and regulations. If we miss this opportunity the consequences will shape generations to come. What begins today as Generative AI may one day become Artificial General Intelligence. A wild, unregulated AI industry – that is accountable to no one – developing Artificial General Intelligence should scare us all into action.",
+    "date": "2024-02-05",
+    "sourceUrl": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-proposes-ai-auditing-standards-calls-for-protecting-consumer-data-increasing-transparency/",
+    "sourceLabel": "Public statement",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-48",
+    "bioguideId": "H001042",
+    "stanceImplied": "xrisk_concern",
+    "quote": "I agree, and that is why, by the time we're talking about AGI, we're talking about major harms that can occur... We can't just come up with something that is gonna' take care of the issues that will arise in the future, especially with AGI.",
+    "date": "2023-05-16",
+    "sourceUrl": "https://www.judiciary.senate.gov/committee-activity/hearings/oversight-of-ai-rules-for-artificial-intelligence",
+    "sourceLabel": "2023 Sam Altman hearing.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-49",
+    "bioguideId": "B001277",
+    "stanceImplied": "xrisk_concern",
+    "quote": "And now, artificial general intelligence or AGI, which I know our witnesses are going to address today, provides even more frightening prospects for harm. The idea that AGI might in 10 or 20 years be smarter, or at least as smart as a human being, is no longer that far out in the future. It is very far from science fiction. It is here and now. [...] And we know that artificial intelligence that is as smart as human beings is also capable of deceiving us, manipulating us, and concealing facts from us.",
+    "date": "2024-09-17",
+    "sourceUrl": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-delivers-opening-statement-at-hearing-on-artificial-intelligence-regulation-featuring-insider-perspectives",
+    "sourceLabel": "Hearing on Artificial Intelligence Regulation.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-50",
+    "bioguideId": "F000479",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Some people are worried about AI or whatever, and I'm like, what about the singularity? [...] The kinds of things that [we're] collectively involved [in] are going to transform our society and people will look back 50, 60 years ago and see what's happened.",
+    "date": "2025-05-08",
+    "sourceUrl": "https://www.youtube.com/watch?v=xJgGfvlQT5E",
+    "sourceLabel": "Senate Commerce Committee hearing on AI competitiveness, questioning Sam Altman.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-51",
+    "bioguideId": "O000174",
+    "stanceImplied": "xrisk_concern",
+    "quote": "And some influential technologists and engineers, including prominent figures and prominent leaders in the industry, warn of existential risks, ranging from catastrophic political destabilization, to the development and deployment of weapons of mass destruction, to catastrophic cybersecurity threats, and to unforeseeable and unknown forms of risk that may emergence alongside more and more powerful forms of artificial intelligences.",
+    "date": "2023-06-13",
+    "sourceUrl": "https://www.ossoff.senate.gov/press-releases/watch-sen-ossoff-convenes-hearing-on-implications-of-artificial-intelligence-for-human-rights/",
+    "sourceLabel": "Senate hearing on implications of AI for human rights.",
+    "notes": "Sourced via AIPN Congress on Superintelligence"
+  },
+  {
+    "id": "ev-52",
+    "bioguideId": "L000582",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Unfortunately, powerful AI systems can go rogue, behave in extremely dangerous ways, or even resist human intervention. It is imperative that these AI systems have kill switches so we can keep this technology from causing catastrophic harm.",
+    "date": "2026-07-23",
+    "sourceUrl": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+    "sourceLabel": "AI Kill Switch Act press release"
+  },
+  {
+    "id": "ev-53",
+    "bioguideId": "T000482",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "The FRONTIER Act establishes federal transparency, auditing, and emergency-restriction authority for the largest AI developers to manage catastrophic risks from frontier models.",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925",
+    "sourceLabel": "FRONTIER Act (H.R. 9925)"
+  },
+  {
+    "id": "ev-54",
+    "bioguideId": "C001098",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Championed a 10-year federal moratorium that would have punished states for enforcing their own AI regulations, arguing fragmented domestic AI rules would harm U.S. competitiveness.",
+    "date": "2025-07-01",
+    "sourceUrl": "https://apnews.com/article/congress-ai-provision-moratorium-states-20beeeb6967057be5fe64678f72f6ab0",
+    "sourceLabel": "AP News: Senate AI state-regulation moratorium fight",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "id": "ev-55",
+    "bioguideId": "T000476",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Cast the sole Senate vote against striking the AI state-regulation moratorium from the 2025 reconciliation package (99–1), supporting the effort to block state AI laws.",
+    "date": "2025-07-01",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2025/07/ted-cruz-gives-up-on-ai-law-moratorium-joins-99-1-vote-against-his-own-plan/",
+    "sourceLabel": "Ars Technica: Cruz AI moratorium defeated 99–1"
+  },
+  {
+    "id": "ev-56",
+    "bioguideId": "K000367",
+    "stanceImplied": "mundane_risk",
+    "quote": "Has repeatedly pressed for legislation addressing deepfakes, election deepfake harms, and consumer AI transparency — mundane near-term AI risks.",
+    "date": "2025-03-15",
+    "sourceUrl": "https://www.klobuchar.senate.gov/",
+    "sourceLabel": "NO FAKES / deepfake legislative advocacy"
+  },
+  {
+    "id": "ev-57",
+    "bioguideId": "C000127",
+    "stanceImplied": "mundane_risk",
+    "quote": "Has focused Commerce Committee work on AI consumer protection, data privacy, and near-term marketplace harms from AI systems.",
+    "date": "2025-04-01",
+    "sourceUrl": "https://www.commerce.senate.gov/",
+    "sourceLabel": "Senate Commerce AI consumer-protection focus"
+  },
+  {
+    "id": "ev-58",
+    "bioguideId": "S000148",
+    "stanceImplied": "mundane_risk",
+    "quote": "SAFE Innovation framework emphasizes security, accountability, and foundations for AI policy including near-term societal harms alongside longer-term issues.",
+    "date": "2023-06-21",
+    "sourceUrl": "https://www.democrats.senate.gov/imo/media/doc/schumer_ai_framework.pdf",
+    "sourceLabel": "SAFE Innovation Framework"
+  },
+  {
+    "id": "ev-59",
+    "bioguideId": "F000476",
+    "stanceImplied": "mundane_risk",
+    "quote": "At a House Oversight roundtable on AI, Frost and colleagues aired anxieties about AI’s rapid societal impacts and the need for proactive congressional attention to harms people will feel in their districts.",
+    "date": "2026-04-17",
+    "sourceUrl": "https://apnews.com/article/artificial-intelligence-safety-concerns-congress-fears-hearing-6d00921e57c9489b1f5a92c9a27e087c",
+    "sourceLabel": "AP News: House AI angst roundtable"
+  },
+  {
+    "id": "ev-60",
+    "bioguideId": "M001241",
+    "stanceImplied": "mundane_risk",
+    "quote": "People in our districts across this country are going to start feeling impacts very soon… If we don’t start thinking proactively about the challenges that AI creates, I fear that we’re going to have a revolution on our hands.",
+    "date": "2026-04-17",
+    "sourceUrl": "https://apnews.com/article/artificial-intelligence-safety-concerns-congress-fears-hearing-6d00921e57c9489b1f5a92c9a27e087c",
+    "sourceLabel": "AP News: House AI angst roundtable"
+  }
+]

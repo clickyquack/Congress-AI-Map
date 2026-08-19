@@ -1,0 +1,135 @@
+[
+  {
+    "bioguideId": "T000482",
+    "billId": "hr9925-119",
+    "action": "sponsor",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925"
+  },
+  {
+    "bioguideId": "O000019",
+    "billId": "hr9925-119",
+    "action": "cosponsor",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925"
+  },
+  {
+    "bioguideId": "L000582",
+    "billId": "hr9917-119",
+    "action": "sponsor",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9917"
+  },
+  {
+    "bioguideId": "M001224",
+    "billId": "hr9917-119",
+    "action": "cosponsor",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9917"
+  },
+  {
+    "bioguideId": "L000571",
+    "billId": "s2081-119",
+    "action": "sponsor",
+    "date": "2025-06-12",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2081"
+  },
+  {
+    "bioguideId": "C001088",
+    "billId": "s1367-119",
+    "action": "sponsor",
+    "date": "2025-04-09",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "B001243",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-04-09",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "K000367",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-04-09",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "T000476",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-04-09",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "C001075",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-05-14",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "S001150",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-05-14",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "H000601",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-05-14",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "D000563",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-05-14",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "H001042",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-06-03",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "M001244",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-06-03",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "S001208",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-11-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "L000575",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2025-11-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "W000800",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2026-04-14",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  },
+  {
+    "bioguideId": "B001319",
+    "billId": "s1367-119",
+    "action": "cosponsor",
+    "date": "2026-04-14",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
+  }
+]
