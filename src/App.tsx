@@ -87,28 +87,18 @@ export default function App() {
     return (
       <div className="app">
         <header className="hero">
-          <p className="brand">
-            <a href="#map">AI Risk in Congress</a>
-          </p>
+          <div className="hero-top">
+            <p className="brand">
+              <a href="#map">AI Risk in Congress</a>
+            </p>
+            <a href="#map" className="hero-nav-link">
+              Map
+            </a>
+          </div>
         </header>
         <main className="main about-main">
           <AboutPage />
         </main>
-        <footer className="footer">
-          <a href="#map">Map</a>
-          {' · '}
-          <a href="#about" aria-current="page">
-            About
-          </a>
-          {' · '}
-          <a
-            href="https://github.com/clickyquack/Congress-AI-Map/issues"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Submit a correction
-          </a>
-        </footer>
       </div>
     )
   }
@@ -116,7 +106,12 @@ export default function App() {
   return (
     <div className={`app ${selected ? 'has-panel' : ''}`}>
       <header className="hero">
-        <p className="brand">AI Risk in Congress</p>
+        <div className="hero-top">
+          <p className="brand">AI Risk in Congress</p>
+          <a href="#about" className="hero-nav-link">
+            About
+          </a>
+        </div>
         <h1>Where members stand on AI risk and regulation</h1>
         <p className="sub">
           Color-coded map and directory of the 119th Congress. Click a seat or row for
@@ -203,16 +198,6 @@ export default function App() {
           onClose={() => setSelectedId(null)}
         />
       </main>
-
-      <footer className="footer">
-        X-risk quotes primarily from{' '}
-        <a href="https://theaipn.org/issue/quotes/" target="_blank" rel="noreferrer">
-          AIPN Congress on Superintelligence
-        </a>
-        . Roster from unitedstates/congress-legislators.
-        {' · '}
-        <a href="#about">About & methodology</a>
-      </footer>
     </div>
   )
 }
