@@ -4,8 +4,8 @@ import { STANCE_ORDER } from './types'
 const RANK: Record<Stance, number> = {
   xrisk_concern: 5,
   strong_risk_reg: 4,
-  mundane_risk: 3,
-  opposes_domestic: 2,
+  opposes_domestic: 3,
+  mundane_risk: 2,
   unknown: 1,
 }
 
@@ -13,12 +13,11 @@ function stanceFromAction(
   action: LegislativeAction,
   bill: Bill | undefined,
 ): Stance | null {
-  if (!bill || bill.category === 'natsec_excluded' || bill.category === 'other') {
+  if (!bill || bill.category === 'other' || bill.category === 'chip_security' || bill.category === 'international') {
     return null
   }
   if (action.action === 'vote_nay') {
-    // Voting against strong/mundane regulation → opposition signal
-    if (bill.category === 'strong_risk' || bill.category === 'mundane') {
+    if (bill.category === 'strong_risk' || bill.category === 'ethics') {
       return 'opposes_domestic'
     }
     return null
@@ -29,12 +28,12 @@ function stanceFromAction(
     action.action === 'vote_yea'
   ) {
     if (bill.category === 'strong_risk') return 'strong_risk_reg'
-    if (bill.category === 'mundane') return 'mundane_risk'
+    if (bill.category === 'ethics') return 'mundane_risk'
   }
   return null
 }
 
-/** Highest-priority stance wins. Natsec-only bills never classify. */
+/** Highest-priority stance wins. Chip/compute and international bills do not classify stance. */
 export function classifyMember(
   bioguideId: string,
   evidence: Evidence[],

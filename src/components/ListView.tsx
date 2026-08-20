@@ -1,16 +1,36 @@
 import { useMemo } from 'react'
+import {
+  billSupportCount,
+  billsByGroup,
+  memberSupportsBillFilter,
+  shortBillTitle,
+  supportedBillIds,
+} from '../lib/bills'
 import { stateName } from '../lib/geo'
 import type {
+  Bill,
   ChamberFilter,
+  LegislativeAction,
   Member,
   Party,
   PartyFilter,
   Stance,
 } from '../lib/types'
-import { STANCE_COLORS, STANCE_ORDER, STANCE_SHORT } from '../lib/types'
+import {
+  BILL_GROUP_LABELS,
+  BILL_GROUP_ORDER,
+  STANCE_COLORS,
+  STANCE_ORDER,
+  STANCE_SHORT,
+} from '../lib/types'
+import { stanceRank } from '../lib/classify'
+
+export type ListSort = 'name' | 'stance' | 'bills'
 
 interface Props {
   members: Member[]
+  bills: Bill[]
+  actions: LegislativeAction[]
   stanceById: Map<string, Stance>
   selectedId: string | null
   onSelect: (memberId: string) => void
@@ -24,6 +44,10 @@ interface Props {
   onStateFilter: (s: string) => void
   partyFilter: PartyFilter
   onPartyFilter: (p: PartyFilter) => void
+  billFilter: string
+  onBillFilter: (v: string) => void
+  sort: ListSort
+  onSort: (v: ListSort) => void
 }
 
 const PARTY_LABEL: Record<Party, string> = {
@@ -74,6 +98,8 @@ function matchesSearch(m: Member, raw: string): boolean {
 
 export function ListView({
   members,
+  bills,
+  actions,
   stanceById,
   selectedId,
   onSelect,
@@ -87,25 +113,58 @@ export function ListView({
   onStateFilter,
   partyFilter,
   onPartyFilter,
+  billFilter,
+  onBillFilter,
+  sort,
+  onSort,
 }: Props) {
   const states = useMemo(() => {
     const set = new Set(members.map((m) => m.state))
     return [...set].sort((a, b) => stateName(a).localeCompare(stateName(b)))
   }, [members])
 
+  const groupedBills = useMemo(() => billsByGroup(bills), [bills])
+  const billById = useMemo(() => new Map(bills.map((b) => [b.id, b])), [bills])
+
   const rows = useMemo(() => {
-    return members
-      .filter((m) => {
-        const stance = stanceById.get(m.bioguideId) || 'unknown'
-        if (stanceFilter !== 'All' && stance !== stanceFilter) return false
-        if (chamberFilter !== 'All' && m.chamber !== chamberFilter) return false
-        if (stateFilter !== 'All' && m.state !== stateFilter) return false
-        if (partyFilter !== 'All' && m.party !== partyFilter) return false
-        if (!matchesSearch(m, search)) return false
-        return true
-      })
-      .sort((a, b) => a.name.localeCompare(b.name))
-  }, [members, stanceById, stanceFilter, chamberFilter, stateFilter, partyFilter, search])
+    const filtered = members.filter((m) => {
+      const stance = stanceById.get(m.bioguideId) || 'unknown'
+      if (stanceFilter !== 'All' && stance !== stanceFilter) return false
+      if (chamberFilter !== 'All' && m.chamber !== chamberFilter) return false
+      if (stateFilter !== 'All' && m.state !== stateFilter) return false
+      if (partyFilter !== 'All' && m.party !== partyFilter) return false
+      if (!matchesSearch(m, search)) return false
+      const supported = supportedBillIds(m.bioguideId, actions)
+      if (!memberSupportsBillFilter(supported, bills, billFilter)) return false
+      return true
+    })
+
+    return filtered.sort((a, b) => {
+      if (sort === 'stance') {
+        const cmp = stanceRank(stanceById.get(a.bioguideId) || 'unknown')
+          - stanceRank(stanceById.get(b.bioguideId) || 'unknown')
+        if (cmp !== 0) return cmp
+      }
+      if (sort === 'bills') {
+        const aN = billSupportCount(supportedBillIds(a.bioguideId, actions), bills, billFilter)
+        const bN = billSupportCount(supportedBillIds(b.bioguideId, actions), bills, billFilter)
+        if (bN !== aN) return bN - aN
+      }
+      return a.name.localeCompare(b.name)
+    })
+  }, [
+    members,
+    stanceById,
+    stanceFilter,
+    chamberFilter,
+    stateFilter,
+    partyFilter,
+    search,
+    actions,
+    bills,
+    billFilter,
+    sort,
+  ])
 
   return (
     <div className="list-wrap">
@@ -131,6 +190,30 @@ export function ListView({
                 {STANCE_SHORT[s]}
               </option>
             ))}
+          </select>
+        </label>
+        <label>
+          Bill support
+          <select value={billFilter} onChange={(e) => onBillFilter(e.target.value)}>
+            <option value="All">All tracked bills</option>
+            {BILL_GROUP_ORDER.map((g) => (
+              <optgroup key={g} label={BILL_GROUP_LABELS[g]}>
+                <option value={`group:${g}`}>Any {BILL_GROUP_LABELS[g].toLowerCase()} bill</option>
+                {(groupedBills.get(g) || []).map((b) => (
+                  <option key={b.id} value={b.id}>
+                    {b.title}
+                  </option>
+                ))}
+              </optgroup>
+            ))}
+          </select>
+        </label>
+        <label>
+          Sort
+          <select value={sort} onChange={(e) => onSort(e.target.value as ListSort)}>
+            <option value="name">Name</option>
+            <option value="stance">Stance</option>
+            <option value="bills">Bill support</option>
           </select>
         </label>
         <label>
@@ -171,6 +254,7 @@ export function ListView({
 
       <p className="list-count">
         {rows.length} of {members.length} members
+        {sort === 'bills' ? ' · sorted by tracked bill support' : ''}
       </p>
 
       <div className="list-table-scroll">
@@ -182,18 +266,22 @@ export function ListView({
               <th>State</th>
               <th>Seat</th>
               <th>Stance</th>
+              <th>Tracked bills</th>
             </tr>
           </thead>
           <tbody>
             {rows.length === 0 ? (
               <tr>
-                <td colSpan={5} className="list-empty">
+                <td colSpan={6} className="list-empty">
                   No members match these filters.
                 </td>
               </tr>
             ) : (
               rows.map((m) => {
                 const stance = stanceById.get(m.bioguideId) || 'unknown'
+                const supported = [...supportedBillIds(m.bioguideId, actions)]
+                  .map((id) => billById.get(id))
+                  .filter((b): b is Bill => Boolean(b))
                 return (
                   <tr
                     key={m.bioguideId}
@@ -221,6 +309,19 @@ export function ListView({
                         />
                         {STANCE_SHORT[stance]}
                       </span>
+                    </td>
+                    <td>
+                      {supported.length === 0 ? (
+                        <span className="muted">—</span>
+                      ) : (
+                        <span className="bill-tags">
+                          {supported.map((b) => (
+                            <span key={b.id} className={`bill-tag bill-tag-${b.category}`}>
+                              {shortBillTitle(b.title)}
+                            </span>
+                          ))}
+                        </span>
+                      )}
                     </td>
                   </tr>
                 )

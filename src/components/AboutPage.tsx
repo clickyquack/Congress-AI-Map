@@ -32,9 +32,12 @@ export function AboutPage() {
       <section>
         <h2>How stance is assigned</h2>
         <p>
-          Each member gets one display stance. When several signals exist, the{' '}
-          <strong>highest-priority</strong> category wins. National-security-only measures
-          such as chip export controls are excluded and never move stance.
+          Each member gets one display stance. The most relevant signal is their position on
+          long-term / existential AI risk. When several signals exist, the{' '}
+          <strong>highest-priority</strong> category wins — so opposition to domestic AI
+          regulation outranks support for addressing only AI ethical concerns such as
+          deepfakes. Chip/compute security and international governance bills are tracked
+          in the list but never move stance.
         </p>
         <ol className="about-taxonomy">
           {STANCE_ORDER.map((s, i) => (
@@ -49,7 +52,7 @@ export function AboutPage() {
                 {s === 'strong_risk_reg' &&
                   ' — sponsor, cosponsor, or support for frontier catastrophic-risk bills (for example the FRONTIER Act, AI Kill Switch Act, or RISE Act) without a public x-risk statement.'}
                 {s === 'mundane_risk' &&
-                  ' — support for addressing deepfakes, consumer harms, likeness protection, and similar issues (for example the NO FAKES Act).'}
+                  ' — support for addressing AI ethical concerns such as deepfakes, consumer harms, likeness protection, and similar issues (for example the NO FAKES Act).'}
                 {s === 'opposes_domestic' &&
                   ' — sourced opposition to domestic AI rulemaking (for example a state AI regulation moratorium). Does not include national-security-only measures.'}
                 {s === 'unknown' &&
@@ -77,7 +80,10 @@ export function AboutPage() {
           </li>
           <li>
             <strong>List</strong> — the same members, filterable by stance, chamber, state,
-            and party, and searchable by name or district.
+            party, and support for tracked bills (grouped as AI ethics, stronger-risk
+            regulation, chip/compute security, and international AI governance). Sort by
+            name, stance, or how many of those bills a member has sponsored, cosponsored,
+            or voted for.
           </li>
         </ul>
         <p>Click a seat or row for sourced quotes and tracked bill actions with links.</p>
@@ -105,7 +111,8 @@ export function AboutPage() {
           </li>
           <li>
             Bills and actions: Congress.gov and press (including FRONTIER H.R.9925, Kill
-            Switch H.R.9917, RISE S.2081, NO FAKES S.1367)
+            Switch H.R.9917, RISE S.2081, NO FAKES S.1367 / S.4591, Chip Security S.1705,
+            Future of AI Innovation S.3952)
           </li>
           <li>House geography: Census CD119 shapefile</li>
         </ul>

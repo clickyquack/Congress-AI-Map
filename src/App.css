@@ -489,6 +489,7 @@ a {
   background: #fff;
   border-radius: 8px;
   padding: 0.4rem 0.55rem;
+  max-width: 18rem;
 }
 
 .list-search {
@@ -561,6 +562,39 @@ a {
   color: var(--muted);
   padding: 2rem 1rem !important;
   cursor: default;
+}
+
+.bill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.28rem;
+}
+
+.bill-tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.12rem 0.4rem;
+  border-radius: 999px;
+  background: var(--paper-2);
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+.bill-tag-ethics {
+  background: #efe3c4;
+}
+
+.bill-tag-strong_risk {
+  background: #cfe4de;
+}
+
+.bill-tag-chip_security {
+  background: #d5dde4;
+}
+
+.bill-tag-international {
+  background: #d9d4e8;
 }
 
 @media (max-width: 720px) {

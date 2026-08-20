@@ -103,8 +103,8 @@ export function MemberPanel({
                   ) : (
                     bill?.title || a.billId
                   )}
-                  {bill?.category === 'natsec_excluded' ? (
-                    <span className="tag">natsec — excluded from stance</span>
+                  {bill?.category === 'chip_security' || bill?.category === 'international' ? (
+                    <span className="tag">tracked — does not move stance</span>
                   ) : null}
                   {a.date ? <span className="muted"> ({a.date})</span> : null}
                 </li>

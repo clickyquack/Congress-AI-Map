@@ -36,7 +36,7 @@ export interface Evidence {
   notes?: string
 }
 
-export type BillCategory = 'strong_risk' | 'mundane' | 'natsec_excluded' | 'other'
+export type BillCategory = 'strong_risk' | 'ethics' | 'chip_security' | 'international' | 'other'
 
 export interface Bill {
   id: string
@@ -66,15 +66,15 @@ export interface LegislativeAction {
 export const STANCE_ORDER: Stance[] = [
   'xrisk_concern',
   'strong_risk_reg',
-  'mundane_risk',
   'opposes_domestic',
+  'mundane_risk',
   'unknown',
 ]
 
 export const STANCE_LABELS: Record<Stance, string> = {
   xrisk_concern: 'Long-term / existential risk concern',
   strong_risk_reg: 'Supports stronger-risk regulation',
-  mundane_risk: 'Supports addressing mundane AI risks',
+  mundane_risk: 'AI ethical concerns',
   opposes_domestic: 'Opposes domestic AI regulation',
   unknown: 'Unknown / no sourced signal',
 }
@@ -90,7 +90,22 @@ export const STANCE_COLORS: Record<Stance, string> = {
 export const STANCE_SHORT: Record<Stance, string> = {
   xrisk_concern: 'X-risk concern',
   strong_risk_reg: 'Stronger-risk regs',
-  mundane_risk: 'Mundane risks',
+  mundane_risk: 'Ethical concerns',
   opposes_domestic: 'Opposes regulation',
   unknown: 'Unknown',
+}
+
+export const BILL_GROUP_ORDER: BillCategory[] = [
+  'ethics',
+  'strong_risk',
+  'chip_security',
+  'international',
+]
+
+export const BILL_GROUP_LABELS: Record<BillCategory, string> = {
+  ethics: 'AI ethics',
+  strong_risk: 'Stronger-risk regulation',
+  chip_security: 'Chip / compute security',
+  international: 'International AI governance',
+  other: 'Other',
 }

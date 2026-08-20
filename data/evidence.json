@@ -548,15 +548,25 @@
   },
   {
     "id": "ev-56",
+    "bioguideId": "T000250",
+    "stanceImplied": "opposes_domestic",
+    "quote": "We want to be the leaders in AI and quantum and all these new technologies. And the way to do that is not to come in with a heavy hand of government, it's to come in with a light touch.",
+    "date": "2025-06-25",
+    "sourceUrl": "https://www.axios.com/2025/06/25/thune-ai-moratorium-big-beautiful-bill",
+    "sourceLabel": "Axios: Thune urges light-touch AI rules and state-regulation freeze",
+    "notes": "Supported keeping a freeze on state AI regulations in the 2025 reconciliation package. National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "id": "ev-57",
     "bioguideId": "K000367",
     "stanceImplied": "mundane_risk",
-    "quote": "Has repeatedly pressed for legislation addressing deepfakes, election deepfake harms, and consumer AI transparency — mundane near-term AI risks.",
+    "quote": "Has repeatedly pressed for legislation addressing deepfakes, election deepfake harms, and consumer AI transparency — AI ethical concerns.",
     "date": "2025-03-15",
     "sourceUrl": "https://www.klobuchar.senate.gov/",
     "sourceLabel": "NO FAKES / deepfake legislative advocacy"
   },
   {
-    "id": "ev-57",
+    "id": "ev-58",
     "bioguideId": "C000127",
     "stanceImplied": "mundane_risk",
     "quote": "Has focused Commerce Committee work on AI consumer protection, data privacy, and near-term marketplace harms from AI systems.",
@@ -565,7 +575,7 @@
     "sourceLabel": "Senate Commerce AI consumer-protection focus"
   },
   {
-    "id": "ev-58",
+    "id": "ev-59",
     "bioguideId": "S000148",
     "stanceImplied": "mundane_risk",
     "quote": "SAFE Innovation framework emphasizes security, accountability, and foundations for AI policy including near-term societal harms alongside longer-term issues.",
@@ -574,7 +584,7 @@
     "sourceLabel": "SAFE Innovation Framework"
   },
   {
-    "id": "ev-59",
+    "id": "ev-60",
     "bioguideId": "F000476",
     "stanceImplied": "mundane_risk",
     "quote": "At a House Oversight roundtable on AI, Frost and colleagues aired anxieties about AI’s rapid societal impacts and the need for proactive congressional attention to harms people will feel in their districts.",
@@ -583,12 +593,183 @@
     "sourceLabel": "AP News: House AI angst roundtable"
   },
   {
-    "id": "ev-60",
+    "id": "ev-61",
     "bioguideId": "M001241",
     "stanceImplied": "mundane_risk",
     "quote": "People in our districts across this country are going to start feeling impacts very soon… If we don’t start thinking proactively about the challenges that AI creates, I fear that we’re going to have a revolution on our hands.",
     "date": "2026-04-17",
     "sourceUrl": "https://apnews.com/article/artificial-intelligence-safety-concerns-congress-fears-hearing-6d00921e57c9489b1f5a92c9a27e087c",
     "sourceLabel": "AP News: House AI angst roundtable"
+  },
+  {
+    "id": "ev-62",
+    "bioguideId": "W000817",
+    "stanceImplied": "mundane_risk",
+    "quote": "On December 29, 2025, Elon Musk’s X unveiled a new feature allowing users to use Grok, X’s AI chatbot, to create and edit images with just one click. This tool sparked a wave of users requesting explicit deepfake images, enabling widespread sexual harassment — much of which targeted women and children.",
+    "date": "2026-04-01",
+    "sourceUrl": "https://www.warren.senate.gov/newsroom/press-releases/warren-presses-trade-ambassador-greer-on-trump-admin-special-favors-to-advance-big-techs-dangerous-deregulatory-agenda",
+    "sourceLabel": "Warren letter on Grok deepfakes and AI deregulation"
+  },
+  {
+    "id": "ev-63",
+    "bioguideId": "H001076",
+    "stanceImplied": "mundane_risk",
+    "quote": "In recent years, AI voice-generating tools have enabled global criminal networks to produce deepfake materials to target more people with increasingly personalized and believable digital scams, including fictitious voices and calls used for imposter and romance scams.",
+    "date": "2026-04-01",
+    "sourceUrl": "https://www.jec.senate.gov/public/index.cfm/democrats/2026/4/senator-hassan-presses-leading-ai-voice-cloning-companies-to-prevent-exploitation-by-scammers",
+    "sourceLabel": "Hassan inquiry into AI voice-cloning scams"
+  },
+  {
+    "id": "ev-64",
+    "bioguideId": "D000622",
+    "stanceImplied": "mundane_risk",
+    "quote": "These AI chatbots were never meant to be used by young children, yet they’re being embedded inside toys by the thousands. We’ve already seen far too many instances where AI-enabled toys have imparted information to our children that could put them in immediate danger and have long-term impacts on their development.",
+    "date": "2026-07-01",
+    "sourceUrl": "https://www.duckworth.senate.gov/news/press-releases/duckworth-murkowski-bipartisan-bill-to-protect-children-from-dangers-of-ai-toys-passes-committee",
+    "sourceLabel": "Children’s Artificial Intelligence Toy Safety Act"
+  },
+  {
+    "id": "ev-65",
+    "bioguideId": "M001153",
+    "stanceImplied": "mundane_risk",
+    "quote": "AI-enabled toys have the potential to significantly impact the physical, mental, and emotional development of our children. It is imperative we equip policymakers and America’s families with the knowledge they need to make informed choices about these devices.",
+    "date": "2026-07-01",
+    "sourceUrl": "https://www.duckworth.senate.gov/news/press-releases/duckworth-murkowski-bipartisan-bill-to-protect-children-from-dangers-of-ai-toys-passes-committee",
+    "sourceLabel": "Children’s Artificial Intelligence Toy Safety Act"
+  },
+  {
+    "id": "ev-66",
+    "bioguideId": "G000574",
+    "stanceImplied": "mundane_risk",
+    "quote": "It’s absurd that AI companies are letting their chatbots run unchecked, exposing kids and teens to sexual abuse and encouraging self-harm. I’m proud to work with my colleagues across the aisle to hold Big Tech accountable and put real safeguards in place to protect our children.",
+    "date": "2025-10-31",
+    "sourceUrl": "https://www.gallego.senate.gov/news/press-releases/gallego-backs-bipartisan-bill-protecting-children-from-ai-chatbots/",
+    "sourceLabel": "GUARD Act (AI companions for minors)"
+  },
+  {
+    "id": "ev-67",
+    "bioguideId": "G000555",
+    "stanceImplied": "mundane_risk",
+    "quote": "As policymakers, we are working to address this issue for our constituents. To better understand your current and planned efforts to curb the rise of non-nude sexualized deepfakes on your platforms, we request additional detail on the steps you are taking now and intend to take going forward.",
+    "date": "2026-01-15",
+    "sourceUrl": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-colleagues-demand-tech-giants-take-down-sexualized-ai-images-protect-minors/",
+    "sourceLabel": "Letter to tech platforms on sexualized AI images"
+  },
+  {
+    "id": "ev-68",
+    "bioguideId": "B001230",
+    "stanceImplied": "mundane_risk",
+    "quote": "Joined colleagues in calling on some of America’s largest tech and social media companies to address the rise of non-consensual, sexualized, AI-generated images appearing on their platforms.",
+    "date": "2026-01-15",
+    "sourceUrl": "https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-colleagues-demand-big-tech-remove-sexualized-ai-generated-images",
+    "sourceLabel": "Letter to tech platforms on sexualized AI images"
+  },
+  {
+    "id": "ev-69",
+    "bioguideId": "M001243",
+    "stanceImplied": "mundane_risk",
+    "quote": "Outlined federal child-safety rules for AI, including safeguards against systems designed to exploit or groom minors, alongside a relatively limited domestic regulatory framework.",
+    "date": "2026-07-29",
+    "sourceUrl": "https://www.mccormick.senate.gov/news/press-releases/senator-mccormick-unveils-vision-for-american-ai-leadership-in-major-address-at-manhattan-institute/",
+    "sourceLabel": "Manhattan Institute AI policy address"
+  },
+  {
+    "id": "ev-70",
+    "bioguideId": "B001303",
+    "stanceImplied": "mundane_risk",
+    "quote": "With more Americans using AI every day, we need to do all we can to cut down on AI-related fraud. Our AI Fraud Accountability Act would ensure our statutes are updated to meet this current moment.",
+    "date": "2026-03-04",
+    "sourceUrl": "https://www.bluntrochester.senate.gov/news/press-releases/news-senators-blunt-rochester-and-sheehy-introduce-ai-fraud-accountability-act/",
+    "sourceLabel": "AI Fraud Accountability Act"
+  },
+  {
+    "id": "ev-71",
+    "bioguideId": "K000394",
+    "stanceImplied": "mundane_risk",
+    "quote": "Co-led the CHAT Act 2.0, a federal framework to protect minors from companion AI chatbots that encourage self-harm, generate sexual content, or engage in romantic interactions with children.",
+    "date": "2026-07-30",
+    "sourceUrl": "https://www.husted.senate.gov/media/press-releases/husted-kim-lead-bipartisan-bill-to-protect-children-from-ai-companion-chatbots/",
+    "sourceLabel": "CHAT Act 2.0"
+  },
+  {
+    "id": "ev-72",
+    "bioguideId": "H001104",
+    "stanceImplied": "mundane_risk",
+    "quote": "We need to protect children in the digital world the same way we do in the physical world. The CHAT Act 2.0 would put guardrails in place to keep parents informed, protect children from harm and ensure their safety comes before unchecked technology.",
+    "date": "2026-07-30",
+    "sourceUrl": "https://newyork.news12.com/sens-kim-husted-introduce-bipartisan-bill-to-regulate-ai-companion-chatbots-for-minors",
+    "sourceLabel": "CHAT Act 2.0"
+  },
+  {
+    "id": "ev-73",
+    "bioguideId": "W000802",
+    "stanceImplied": "mundane_risk",
+    "quote": "Joined colleagues urging DOJ and the FTC to investigate whether generative AI features on dominant platforms misappropriate journalism and other creative work in ways that harm competition and local news.",
+    "date": "2024-06-01",
+    "sourceUrl": "https://www.duckworth.senate.gov/news/press-releases/duckworth-durbin-join-klobuchar-colleagues-to-urge-doj-ftc-to-investigate-generative-ai-products-for-potential-antitrust-violations",
+    "sourceLabel": "Letter on generative AI and competition"
+  },
+  {
+    "id": "ev-74",
+    "bioguideId": "W000779",
+    "stanceImplied": "mundane_risk",
+    "quote": "Introduced the Algorithmic Accountability Act of 2025 to require impact assessments of automated decision systems used in housing, employment, credit, insurance, education, and healthcare.",
+    "date": "2025-06-25",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2164",
+    "sourceLabel": "Algorithmic Accountability Act of 2025"
+  },
+  {
+    "id": "ev-75",
+    "bioguideId": "G000386",
+    "stanceImplied": "mundane_risk",
+    "quote": "Today, too many people working in AI feel they’re unable to speak up when they see something wrong. Whistleblowers are one of the best ways to ensure Congress keeps pace as the AI industry rapidly develops.",
+    "date": "2025-05-15",
+    "sourceUrl": "https://www.grassley.senate.gov/news/news-releases/grassley-introduces-ai-whistleblower-protection-act",
+    "sourceLabel": "AI Whistleblower Protection Act"
+  },
+  {
+    "id": "ev-76",
+    "bioguideId": "M000133",
+    "stanceImplied": "mundane_risk",
+    "quote": "The risks are the lived reality of AI for millions of Americans — and they deserve policymakers who are paying attention to their lives, not Big Tech’s bottom line.",
+    "date": "2026-07-10",
+    "sourceUrl": "https://www.markey.senate.gov/news/press-releases/senator-markey-releases-the-ai-accountability-agenda-taking-power-back-from-big-tech",
+    "sourceLabel": "AI Accountability Agenda"
+  },
+  {
+    "id": "ev-77",
+    "bioguideId": "W000805",
+    "stanceImplied": "mundane_risk",
+    "quote": "As the capabilities of GenAI continue to evolve, maliciously manipulated media poses a significant risk to vulnerable communities, public trust, and democratic institutions, particularly during competitive election cycles.",
+    "date": "2026-03-01",
+    "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-pushes-tech-companies-to-take-action-against-deepfakes-maliciously-manipulated-media/",
+    "sourceLabel": "Warner letter on deepfakes and manipulated media"
+  },
+  {
+    "id": "ev-78",
+    "bioguideId": "P000145",
+    "stanceImplied": "mundane_risk",
+    "quote": "As the use of AI spreads rapidly, we must ensure there are guardrails in place to prevent it from becoming a tool to suppress votes, spread disinformation, or purge eligible voters from the rolls.",
+    "date": "2026-06-11",
+    "sourceUrl": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-merkley-seek-new-election-safeguards-amid-growing-misuse-of-ai-to-suppress-voting-and-spread-misinformation/",
+    "sourceLabel": "FAIR Elections Act"
+  },
+  {
+    "id": "ev-79",
+    "bioguideId": "S001203",
+    "stanceImplied": "mundane_risk",
+    "quote": "Joined colleagues urging DOJ and the FTC to investigate whether generative AI features on dominant platforms misappropriate journalism and other creative work in ways that harm competition and local news.",
+    "date": "2024-09-10",
+    "sourceUrl": "https://www.duckworth.senate.gov/news/press-releases/duckworth-durbin-join-klobuchar-colleagues-to-urge-doj-ftc-to-investigate-generative-ai-products-for-potential-antitrust-violations",
+    "sourceLabel": "Letter on generative AI and competition"
+  },
+  {
+    "id": "ev-80",
+    "bioguideId": "K000377",
+    "stanceImplied": "mundane_risk",
+    "quote": "AI tools are increasingly becoming part of older Americans’ daily lives, but we still don’t fully understand their impact. This bill will help us better assess both the opportunities and risks of AI so we can ensure these technologies support older people’s independence, safety, and well-being.",
+    "date": "2026-06-24",
+    "sourceUrl": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-introduces-bipartisan-legislation-to-study-how-ai-tools-impact-older-americans/",
+    "sourceLabel": "Aging with Artificial Intelligence Act"
   }
 ]

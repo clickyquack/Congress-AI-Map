@@ -32,16 +32,106 @@
     "billType": "s",
     "number": 1367,
     "title": "NO FAKES Act of 2025",
-    "category": "mundane",
+    "category": "ethics",
     "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367"
   },
   {
-    "id": "chip-security",
-    "congress": 118,
-    "billType": "hr",
-    "number": 0,
-    "title": "Chip Security Act (national security / export controls)",
-    "category": "natsec_excluded",
-    "congressGovUrl": "https://www.congress.gov/"
+    "id": "s146-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 146,
+    "title": "TAKE IT DOWN Act",
+    "category": "ethics",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/146"
+  },
+  {
+    "id": "s1837-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 1837,
+    "title": "DEFIANCE Act of 2025",
+    "category": "ethics",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1837"
+  },
+  {
+    "id": "s2164-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 2164,
+    "title": "Algorithmic Accountability Act of 2025",
+    "category": "ethics",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2164"
+  },
+  {
+    "id": "s1396-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 1396,
+    "title": "COPIED Act of 2025",
+    "category": "ethics",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1396"
+  },
+  {
+    "id": "s4591-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 4591,
+    "title": "NO FAKES Act of 2026",
+    "category": "ethics",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4591"
+  },
+  {
+    "id": "s4774-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 4774,
+    "title": "FAIR Elections Act of 2026",
+    "category": "ethics",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4774"
+  },
+  {
+    "id": "s4916-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 4916,
+    "title": "Aging with Artificial Intelligence Act of 2026",
+    "category": "ethics",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4916"
+  },
+  {
+    "id": "s1705-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 1705,
+    "title": "Chip Security Act",
+    "category": "chip_security",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1705"
+  },
+  {
+    "id": "s3519-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 3519,
+    "title": "Remote Access Security Act",
+    "category": "chip_security",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3519"
+  },
+  {
+    "id": "s3952-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 3952,
+    "title": "Future of AI Innovation Act of 2026",
+    "category": "international",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3952"
+  },
+  {
+    "id": "s1269-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 1269,
+    "title": "U.S. Leadership in Standards Act of 2025",
+    "category": "international",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1269"
   }
 ]

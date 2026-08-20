@@ -4,7 +4,7 @@ import evidenceData from './data/evidence.json'
 import billsData from './data/bills.json'
 import actionsData from './data/actions.json'
 import { AboutPage } from './components/AboutPage'
-import { ListView } from './components/ListView'
+import { ListView, type ListSort } from './components/ListView'
 import { MapView } from './components/MapView'
 import { MemberPanel } from './components/MemberPanel'
 import { ModeToggle } from './components/ModeToggle'
@@ -43,6 +43,8 @@ export default function App() {
   const [chamberFilter, setChamberFilter] = useState<ChamberFilter>('All')
   const [stateFilter, setStateFilter] = useState('All')
   const [search, setSearch] = useState('')
+  const [billFilter, setBillFilter] = useState('All')
+  const [listSort, setListSort] = useState<ListSort>('name')
   const [selectedId, setSelectedId] = useState<string | null>(null)
 
   useEffect(() => {
@@ -115,8 +117,8 @@ export default function App() {
         <h1>Where members stand on AI risk and regulation</h1>
         <p className="sub">
           Color-coded map and directory of the 119th Congress. Click a seat or row for
-          sourced quotes and bill actions. National-security-only measures (e.g. chip
-          export controls) do not move stance.
+          sourced quotes and bill actions. Chip/compute security and international
+          governance bills are tracked in the list but do not move stance.
         </p>
         <ModeToggle value={layout} onChange={setLayout} />
         {layout === 'map' ? (
@@ -155,7 +157,7 @@ export default function App() {
         <StanceLegend />
         <p className="counts">
           Classified: {counts.xrisk_concern} x-risk · {counts.strong_risk_reg} strong-risk
-          regs · {counts.mundane_risk} mundane · {counts.opposes_domestic} oppose ·{' '}
+          regs · {counts.opposes_domestic} oppose · {counts.mundane_risk} ethics ·{' '}
           {counts.unknown} unknown
         </p>
       </header>
@@ -187,6 +189,12 @@ export default function App() {
             onStateFilter={setStateFilter}
             partyFilter={partyFilter}
             onPartyFilter={setPartyFilter}
+            billFilter={billFilter}
+            onBillFilter={setBillFilter}
+            sort={listSort}
+            onSort={setListSort}
+            bills={bills}
+            actions={actions}
           />
         )}
         <MemberPanel
