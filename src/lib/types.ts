@@ -8,7 +8,10 @@ export type Stance =
 export type Chamber = 'senate' | 'house'
 export type SenateRank = 'junior' | 'senior'
 export type MapView = 'junior' | 'senior' | 'house'
+export type LayoutMode = 'map' | 'list'
 export type Party = 'D' | 'R' | 'I'
+export type PartyFilter = 'All' | Party
+export type ChamberFilter = 'All' | Chamber
 
 export interface Member {
   bioguideId: string

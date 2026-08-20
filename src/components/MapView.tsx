@@ -5,14 +5,14 @@ import { feature } from 'topojson-client'
 import type { Topology, GeometryCollection } from 'topojson-specification'
 import type { ColoredFeatureProps } from '../lib/geo'
 import { joinHouseFeatures, joinSenateFeatures } from '../lib/geo'
-import type { MapView as MapViewMode, Member, Stance } from '../lib/types'
+import type { MapView as MapViewMode, Member, PartyFilter, Stance } from '../lib/types'
 import { STANCE_COLORS, STANCE_SHORT } from '../lib/types'
 
 interface Props {
   view: MapViewMode
   members: Member[]
   stanceById: Map<string, Stance>
-  partyFilter: 'All' | 'D' | 'R'
+  partyFilter: PartyFilter
   stanceFilter: Stance | 'All'
   selectedId: string | null
   onSelect: (memberId: string | null) => void
