@@ -1,13 +1,40 @@
 [
   {
-    "bioguideId": "T000482",
+    "bioguideId": "O000019",
     "billId": "hr9925-119",
     "action": "sponsor",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925"
+  },
+  {
+    "bioguideId": "T000482",
+    "billId": "hr9925-119",
+    "action": "cosponsor",
     "date": "2026-07-23",
     "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925"
   },
   {
-    "bioguideId": "O000019",
+    "bioguideId": "H001093",
+    "billId": "hr9925-119",
+    "action": "cosponsor",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925"
+  },
+  {
+    "bioguideId": "P000608",
+    "billId": "hr9925-119",
+    "action": "cosponsor",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925"
+  },
+  {
+    "bioguideId": "F000472",
+    "billId": "hr9925-119",
+    "action": "cosponsor",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925"
+  },
+  {
+    "bioguideId": "S001230",
     "billId": "hr9925-119",
     "action": "cosponsor",
     "date": "2026-07-23",
@@ -17,7 +44,6 @@
     "bioguideId": "L000582",
     "billId": "hr9917-119",
     "action": "sponsor",
-    "date": "2026-07-23",
     "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9917"
   },
   {
@@ -31,8 +57,280 @@
     "bioguideId": "L000571",
     "billId": "s2081-119",
     "action": "sponsor",
-    "date": "2025-06-12",
     "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2081"
+  },
+  {
+    "bioguideId": "C001067",
+    "billId": "hr5511-119",
+    "action": "sponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "B001318",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "B001300",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "B001324",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "B001313",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "D000096",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "D000530",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "E000296",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "F000481",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "F000477",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "G000586",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "N000147",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "H001068",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "J000309",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "J000305",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "J000298",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "K000385",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "L000602",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "R000617",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "T000481",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "V000131",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "W000808",
+    "billId": "hr5511-119",
+    "action": "cosponsor",
+    "date": "2025-09-19",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
+    "bioguideId": "S000168",
+    "billId": "hr2794-119",
+    "action": "sponsor",
+    "date": "2025-04-09",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2794"
+  },
+  {
+    "bioguideId": "D000631",
+    "billId": "hr2794-119",
+    "action": "cosponsor",
+    "date": "2025-04-09",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2794"
+  },
+  {
+    "bioguideId": "M001224",
+    "billId": "hr2794-119",
+    "action": "cosponsor",
+    "date": "2025-04-09",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2794"
+  },
+  {
+    "bioguideId": "B001318",
+    "billId": "hr2794-119",
+    "action": "cosponsor",
+    "date": "2025-04-09",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2794"
+  },
+  {
+    "bioguideId": "M001206",
+    "billId": "hr2794-119",
+    "action": "cosponsor",
+    "date": "2025-04-09",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2794"
+  },
+  {
+    "bioguideId": "S000168",
+    "billId": "hr8915-119",
+    "action": "sponsor",
+    "date": "2026-05-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "bioguideId": "D000631",
+    "billId": "hr8915-119",
+    "action": "cosponsor",
+    "date": "2026-05-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "bioguideId": "M001224",
+    "billId": "hr8915-119",
+    "action": "cosponsor",
+    "date": "2026-05-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "bioguideId": "M001206",
+    "billId": "hr8915-119",
+    "action": "cosponsor",
+    "date": "2026-05-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "bioguideId": "B001318",
+    "billId": "hr8915-119",
+    "action": "cosponsor",
+    "date": "2026-05-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "bioguideId": "W000804",
+    "billId": "hr8915-119",
+    "action": "cosponsor",
+    "date": "2026-05-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "bioguideId": "M001217",
+    "billId": "hr8915-119",
+    "action": "cosponsor",
+    "date": "2026-05-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "bioguideId": "F000483",
+    "billId": "hr8915-119",
+    "action": "cosponsor",
+    "date": "2026-05-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "bioguideId": "L000590",
+    "billId": "hr8915-119",
+    "action": "cosponsor",
+    "date": "2026-05-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "bioguideId": "L000597",
+    "billId": "hr8915-119",
+    "action": "cosponsor",
+    "date": "2026-05-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "bioguideId": "T000482",
+    "billId": "hr9925-119",
+    "action": "sponsor",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925"
+  },
+  {
+    "bioguideId": "O000019",
+    "billId": "hr9925-119",
+    "action": "cosponsor",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925"
   },
   {
     "bioguideId": "C001088",

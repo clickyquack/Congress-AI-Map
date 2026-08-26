@@ -1,0 +1,2176 @@
+[
+  {
+    "name": "Ted Lieu",
+    "state": "CA",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Unfortunately, powerful AI systems can go rogue, behave in extremely dangerous ways, or even resist human intervention. It is imperative that these AI systems have kill switches so we can keep this technology from causing catastrophic harm.",
+    "date": "2026-07-23",
+    "sourceUrl": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+    "sourceLabel": "AI Kill Switch Act press release"
+  },
+  {
+    "name": "Lori Trahan",
+    "state": "MA",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "The FRONTIER Act establishes federal transparency, auditing, and emergency-restriction authority for the largest AI developers to manage catastrophic risks from frontier models.",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9925",
+    "sourceLabel": "FRONTIER Act (H.R. 9925)"
+  },
+  {
+    "name": "Maxwell Frost",
+    "state": "FL",
+    "stanceImplied": "mundane_risk",
+    "quote": "At a House Oversight roundtable on AI, Frost and colleagues aired anxieties about AI's rapid societal impacts and the need for proactive congressional attention to harms people will feel in their districts.",
+    "date": "2026-04-17",
+    "sourceUrl": "https://apnews.com/article/artificial-intelligence-safety-concerns-congress-fears-hearing-6d00921e57c9489b1f5a92c9a27e087c",
+    "sourceLabel": "AP News: House AI angst roundtable"
+  },
+  {
+    "name": "Dave Min",
+    "state": "CA",
+    "stanceImplied": "mundane_risk",
+    "quote": "People in our districts across this country are going to start feeling impacts very soon… If we don't start thinking proactively about the challenges that AI creates, I fear that we're going to have a revolution on our hands.",
+    "date": "2026-04-17",
+    "sourceUrl": "https://apnews.com/article/artificial-intelligence-safety-concerns-congress-fears-hearing-6d00921e57c9489b1f5a92c9a27e087c",
+    "sourceLabel": "AP News: House AI angst roundtable"
+  },
+  {
+    "name": "Barry Moore",
+    "state": "AL",
+    "stanceImplied": "mundane_risk",
+    "quote": "The American people don't want AI that pushes propaganda, they want tools they can trust. Too often we've seen Big Tech twist facts, rewrite history, and promote political agendas instead of the truth.",
+    "date": "2025-09-11",
+    "sourceUrl": "http://hageman.house.gov/media/press-releases/congresswoman-harriet-hageman-introduces-fair-act-safeguard-truth-and",
+    "sourceLabel": "FAIR Act (H.R. 5315) press release",
+    "notes": "Cosponsored federal AI procurement integrity bill; also supports federal guardrails to protect children online from AI-enabled predation."
+  },
+  {
+    "name": "Barry Moore",
+    "state": "AL",
+    "stanceImplied": "mundane_risk",
+    "quote": "We have to look at some regulations to protect young kids online and I don't know exactly what that looks like. There's something we have to do from a federal level to prevent young kids from being targeted by predators online in blue states. We should put guardrails on to protect our kids in particular.",
+    "date": "2025-10-01",
+    "sourceUrl": "https://washingtonreporter.news/interview-thirteen-house-republicans-debate-a-federal-moratorium-on-ai-and-discuss-lessons-from-the-schumer-shutdown/",
+    "sourceLabel": "Washington Reporter: House Republicans on AI regulation"
+  },
+  {
+    "name": "Terri A. Sewell",
+    "state": "AL",
+    "stanceImplied": "mundane_risk",
+    "quote": "The rate at which these massive data centers are being constructed is simply outpacing our ability to establish meaningful protections for the communities that will host them. Congress has a responsibility to put commonsense federal guardrails in place so that every community—not just a select few—shares in the benefits of this technological revolution.",
+    "date": "2026-07-22",
+    "sourceUrl": "https://sewell.house.gov/2026/7/rep-sewell-cosponsors-legislation-to-pause-ai-data-center-construction-until-federal-guardrails-are-established",
+    "sourceLabel": "AI Data Center Moratorium Act cosponsorship"
+  },
+  {
+    "name": "Gary J. Palmer",
+    "state": "AL",
+    "stanceImplied": "mundane_risk",
+    "quote": "It's been widely reported about a case in Texas where an autistic child was encouraged by a chatbot to commit violence against their parents. What liability would a platform have if they have not taken steps to correct something like that and in the future someone actually carries out violence?",
+    "date": "2026-04-17",
+    "sourceUrl": "https://www.techpolicy.press/transcript-house-hearing-on-the-risks-and-benefits-of-ai-chatbots/",
+    "sourceLabel": "House hearing: Risks and Benefits of AI Chatbots"
+  },
+  {
+    "name": "Steve Womack",
+    "state": "AR",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Bruce Westerman",
+    "state": "AR",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Aumua Amata Coleman Radewagen",
+    "state": "AS",
+    "quote": "Congress acted in bipartisan unity to stop this problem before it grows out of control, give law enforcement the means to prevent and prosecute it, and require when unlawful images of specific people are found, that companies 'take it down'.",
+    "date": "2025-05-03",
+    "sourceUrl": "https://radewagen.house.gov/media-center/press-releases/amata-commends-senate-and-house-passage-take-it-down-act",
+    "sourceLabel": "TAKE IT DOWN Act passage press release",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Sarah McBride",
+    "state": "DE",
+    "quote": "Artificial intelligence is certainly the biggest change in society since the Industrial Revolution… I am someone who believes in what we call sectoral regulation. I think regulation for AI looks different in agriculture than it does in transportation, than it does in education, than it does in healthcare.",
+    "date": "2026-04-19",
+    "sourceUrl": "https://www.delawareonline.com/story/opinion/2026/04/19/delaware-rep-sarah-mcbride-on-iran-immigration-and-more-opinion/89646433007/",
+    "sourceLabel": "Delaware Online interview",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "James C. Moylan",
+    "state": "GU",
+    "quote": "Artificial intelligence is advancing rapidly, and while innovation brings tremendous opportunity, it also comes with real responsibility. Americans deserve transparency when AI-generated content is being used to influence, persuade, or deceive.",
+    "date": "2026-04-24",
+    "sourceUrl": "https://foushee.house.gov/media/press-releases/reps-foushee-beyer-and-moylan-introduce-the-protecting-consumers-from-deceptive-ai-act-to-establish-accountability-and-transparency-standards-for-generative-ai",
+    "sourceLabel": "Protecting Consumers from Deceptive AI Act press release",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Ed Case",
+    "state": "HI",
+    "quote": "All of this should be fairly regulated on a national basis through Congress and the administration to set common expectations and standards, with the rest of the world where we can, without hindering the responsible development of AI.",
+    "date": "2026-07-09",
+    "sourceUrl": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+    "sourceLabel": "Honolulu Star-Advertiser candidate Q&A",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Pablo José Hernández",
+    "state": "PR",
+    "quote": "Artificial Intelligence is not a toy. It's not a trend. It's a revolution on the scale of the personal computer, the internet, the smartphone—even the printing press. We cannot afford to fall behind.",
+    "date": "2026-01-15",
+    "sourceUrl": "http://hernandez.house.gov/media/press-releases/resident-commissioner-highlights-importance-data-centers-ai-development",
+    "sourceLabel": "Data centers / AI development hearing press release",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Stacey E. Plaskett",
+    "state": "VI",
+    "quote": "It is imperative that federal policymakers and AI experts continue to expose and address the dangers of explicit deepfakes and non-consensual intimate imagery (NCII) that profoundly impact women and girls.",
+    "date": "2025-01-22",
+    "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=5397",
+    "sourceLabel": "TAKE IT DOWN Act reintroduction (Dingell press release)",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Julie Fedorchak",
+    "state": "ND",
+    "quote": "AI has been described as not only a powerful tool, but an incredible weapon. And I don't feel like the public necessarily understands that or sees it exactly that way.",
+    "date": "2026-01-15",
+    "sourceUrl": "http://fedorchak.house.gov/media/press-releases/fedorchak-highlights-urgent-need-beat-china-ai-race",
+    "sourceLabel": "E&C AI subcommittee hearing press release",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Julie Fedorchak",
+    "state": "ND",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Harriet M. Hageman",
+    "state": "WY",
+    "quote": "AI is advancing faster than our institutions are prepared for, and we either allow technology to become a tool for propaganda or insist it serves the truth.",
+    "date": "2025-09-16",
+    "sourceUrl": "https://hageman.house.gov/media/press-releases/congresswoman-harriet-hageman-introduces-fair-act-safeguard-truth-and",
+    "sourceLabel": "FAIR Act (H.R. 5315) press release",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Harriet M. Hageman",
+    "state": "WY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Diana DeGette",
+    "state": "CO",
+    "quote": "Artificial intelligence is here, but we need to make sure that it's not used to violate Americans' privacy rights and to take their sensitive data… Congress is right now developing guardrails.",
+    "date": "2026-06-29",
+    "sourceUrl": "https://www.denverpost.com/2026/06/29/diana-degette-ai-privacy/",
+    "sourceLabel": "Denver Post / CD-1 primary coverage",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Lauren Boebert",
+    "state": "CO",
+    "quote": "The advent of deepfakes and technology and AI is really a new frontier… we looked at Chapter 88, Title 18 of the Federal Code of laws and looked at how we can make it a crime.",
+    "date": "2024-02-15",
+    "sourceUrl": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg55181/html/CHRG-118hhrg55181.htm",
+    "sourceLabel": "House Judiciary hearing: Addressing Real Harm Done by Deepfakes",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Lauren Boebert",
+    "state": "CO",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Brittany Pettersen",
+    "state": "CO",
+    "quote": "A state-by-state patchwork of AI rules could be incredibly problematic for an emerging national industry and states don't have the personnel needed to regulate such a complex subject so intricately.",
+    "date": "2025-08-19",
+    "sourceUrl": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions/",
+    "sourceLabel": "The Sum and Substance delegation forum",
+    "stanceImplied": "opposes_domestic"
+  },
+  {
+    "name": "Brittany Pettersen",
+    "state": "CO",
+    "quote": "The rise of AI-driven fraud poses significant risks to older adults… this legislation will help ensure the financial industry and its regulators better understand AI's use to proactively mitigate AI-related threats.",
+    "date": "2025-02-05",
+    "sourceUrl": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1044",
+    "sourceLabel": "Preventing Deep Fake Scams Act press release",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Jeff Hurd",
+    "state": "CO",
+    "quote": "I have heard from business leaders about how intrusive Colorado's law is regarding disclosures and appeals of AI-generated decisions, and I vowed to try to get something through Congress.",
+    "date": "2025-08-19",
+    "sourceUrl": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions/",
+    "sourceLabel": "The Sum and Substance delegation forum",
+    "stanceImplied": "opposes_domestic"
+  },
+  {
+    "name": "Jeff Hurd",
+    "state": "CO",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Jeff Crank",
+    "state": "CO",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Gabe Evans",
+    "state": "CO",
+    "quote": "A patchwork of conflicting, burdensome, and imprudent state regulations threatens U.S. AI leadership… we agree with the president that U.S. AI leadership can be enhanced through a minimally burdensome national policy framework.",
+    "date": "2026-02-19",
+    "sourceUrl": "https://riponadvance.com/featured/evans-urges-administration-to-develop-national-ai-approach/",
+    "sourceLabel": "Letter to Commerce Secretary (Ripon Advance coverage)",
+    "stanceImplied": "opposes_domestic"
+  },
+  {
+    "name": "Gabe Evans",
+    "state": "CO",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Joe Courtney",
+    "state": "CT",
+    "quote": "Clearly, there's a cost here. There's a social cost to AI, which we as a society have to figure out who pays… industry has an obligation here given the fact that there's a direct connection to scaling rapidly… and really, what's also happening rapidly in terms of negative fallout.",
+    "date": "2026-01-15",
+    "sourceUrl": "https://courtney.house.gov/media-center/press-releases/courtney-presses-ai-industry-accountability-amid-avalanche-child",
+    "sourceLabel": "AI industry accountability press release",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Rosa L. DeLauro",
+    "state": "CT",
+    "quote": "I don't know that there's enough of real knowledge in the House about the potential costs of A.I. on working people.",
+    "date": "2024-10-28",
+    "sourceUrl": "https://theinnercitynews.com/a-i-is-the-new-nafta/",
+    "sourceLabel": "InnerCity News trade/AI roundtable",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Chellie Pingree",
+    "state": "ME",
+    "quote": "If a huge segment of people in your district are losing their jobs, they're going to be like, 'Well, what the hell are you doing about me?'",
+    "date": "2025-10-01",
+    "sourceUrl": "https://www.notus.org/perspectives/i-tried-to-document-how-every-member-of-congress-feels-about-ai-the-results-were-strikingly-partisan",
+    "sourceLabel": "NOTUS AI positions survey",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Ryan K. Zinke",
+    "state": "MT",
+    "quote": "Our economy and people have always relied on Montana's clean coal and that is only going to increase with the advancement of AI, data centers and population growth.",
+    "date": "2025-01-15",
+    "sourceUrl": "http://downing.house.gov/media/press-releases/downing-daines-sheehy-zinke-introduce-bicameral-resolution-removing-harmful",
+    "sourceLabel": "Miles City RMPA resolution press release",
+    "stanceImplied": "mundane_risk"
+  },
+  {
+    "name": "Ryan K. Zinke",
+    "state": "MT",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Troy Downing",
+    "state": "MT",
+    "quote": "The folks on the other side tend to want a heavier hand in regulation, and I want a more permissive environment in regulation.",
+    "date": "2025-10-01",
+    "sourceUrl": "https://www.notus.org/perspectives/i-tried-to-document-how-every-member-of-congress-feels-about-ai-the-results-were-strikingly-partisan",
+    "sourceLabel": "NOTUS AI positions survey",
+    "stanceImplied": "opposes_domestic"
+  },
+  {
+    "name": "Troy Downing",
+    "state": "MT",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Carol D. Miller",
+    "state": "WV",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Riley M. Moore",
+    "state": "WV",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Michael K. Simpson",
+    "state": "ID",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Russ Fulcher",
+    "state": "ID",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Gus M. Bilirakis",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Vern Buchanan",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Ken Calvert",
+    "state": "CA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "John R. Carter",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Tom Cole",
+    "state": "OK",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Scott DesJarlais",
+    "state": "TN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mario Diaz-Balart",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Charles J. \"Chuck\" Fleischmann",
+    "state": "TN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Virginia Foxx",
+    "state": "NC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Sam Graves",
+    "state": "MO",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "H. Morgan Griffith",
+    "state": "VA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Brett Guthrie",
+    "state": "KY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Bill Huizenga",
+    "state": "MI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Jim Jordan",
+    "state": "OH",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mike Kelly",
+    "state": "PA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Robert E. Latta",
+    "state": "OH",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Frank D. Lucas",
+    "state": "OK",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Michael T. McCaul",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Tom McClintock",
+    "state": "CA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Harold Rogers",
+    "state": "KY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Steve Scalise",
+    "state": "LA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Austin Scott",
+    "state": "GA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Adrian Smith",
+    "state": "NE",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Christopher H. Smith",
+    "state": "NJ",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Glenn Thompson",
+    "state": "PA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Michael R. Turner",
+    "state": "OH",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Tim Walberg",
+    "state": "MI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Daniel Webster",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Joe Wilson",
+    "state": "SC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mark E. Amodei",
+    "state": "NV",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Andy Barr",
+    "state": "KY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Ann Wagner",
+    "state": "MO",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Richard Hudson",
+    "state": "NC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "David P. Joyce",
+    "state": "OH",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Randy K. Weber, Sr.",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Roger Williams",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Jason Smith",
+    "state": "MO",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Earl L. \"Buddy\" Carter",
+    "state": "GA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Barry Loudermilk",
+    "state": "GA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Rick W. Allen",
+    "state": "GA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mike Bost",
+    "state": "IL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "John R. Moolenaar",
+    "state": "MI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Tom Emmer",
+    "state": "MN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "David Rouzer",
+    "state": "NC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Elise M. Stefanik",
+    "state": "NY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Brian Babin",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Dan Newhouse",
+    "state": "WA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Glenn Grothman",
+    "state": "WI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Trent Kelly",
+    "state": "MS",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Darin LaHood",
+    "state": "IL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "James Comer",
+    "state": "KY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "John H. Rutherford",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Brian J. Mast",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Clay Higgins",
+    "state": "LA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mike Johnson",
+    "state": "LA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Jack Bergman",
+    "state": "MI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Don Bacon",
+    "state": "NE",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Brian K. Fitzpatrick",
+    "state": "PA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Lloyd Smucker",
+    "state": "PA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "David Kustoff",
+    "state": "TN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Jodey C. Arrington",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Ron Estes",
+    "state": "KS",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Ralph Norman",
+    "state": "SC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Michael Cloud",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Troy Balderson",
+    "state": "OH",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Kevin Hern",
+    "state": "OK",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "W. Gregory Steube",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "James R. Baird",
+    "state": "IN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Pete Stauber",
+    "state": "MN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Michael Guest",
+    "state": "MS",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Jefferson Van Drew",
+    "state": "NJ",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Daniel Meuser",
+    "state": "PA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "John Joyce",
+    "state": "PA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Guy Reschenthaler",
+    "state": "PA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "William R. Timmons IV",
+    "state": "SC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Tim Burchett",
+    "state": "TN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "John W. Rose",
+    "state": "TN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Dan Crenshaw",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Lance Gooden",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Chip Roy",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Ben Cline",
+    "state": "VA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Bryan Steil",
+    "state": "WI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Gregory F. Murphy",
+    "state": "NC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Thomas P. Tiffany",
+    "state": "WI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Darrell Issa",
+    "state": "CA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Pete Sessions",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "David G. Valadao",
+    "state": "CA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Young Kim",
+    "state": "CA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Kat Cammack",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Byron Donalds",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Carlos A. Gimenez",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Andrew S. Clyde",
+    "state": "GA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Ashley Hinson",
+    "state": "IA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mariannette Miller-Meeks",
+    "state": "IA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Randy Feenstra",
+    "state": "IA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mary E. Miller",
+    "state": "IL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Victoria Spartz",
+    "state": "IN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Tracey Mann",
+    "state": "KS",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Lisa C. McClain",
+    "state": "MI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Michelle Fischbach",
+    "state": "MN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Nicole Malliotakis",
+    "state": "NY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Stephanie I. Bice",
+    "state": "OK",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Cliff Bentz",
+    "state": "OR",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Diana Harshbarger",
+    "state": "TN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Pat Fallon",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "August Pfluger",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Ronny Jackson",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Troy E. Nehls",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Beth Van Duyne",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Blake D. Moore",
+    "state": "UT",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Burgess Owens",
+    "state": "UT",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Scott Fitzgerald",
+    "state": "WI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Claudia Tenney",
+    "state": "NY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Julia Letlow",
+    "state": "LA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Jake Ellzey",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mike Carey",
+    "state": "OH",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mike Flood",
+    "state": "NE",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Brad Finstad",
+    "state": "MN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Rudy Yakym III",
+    "state": "IN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Aaron Bean",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Cory Mills",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Anna Paulina Luna",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Richard McCormick",
+    "state": "GA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mike Collins",
+    "state": "GA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Zachary Nunn",
+    "state": "IA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "John James",
+    "state": "MI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mark Alford",
+    "state": "MO",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mike Ezell",
+    "state": "MS",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Chuck Edwards",
+    "state": "NC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Thomas H. Kean, Jr.",
+    "state": "NJ",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Nick LaLota",
+    "state": "NY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Michael Lawler",
+    "state": "NY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Nicholas A. Langworthy",
+    "state": "NY",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Max L. Miller",
+    "state": "OH",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Josh Brecheen",
+    "state": "OK",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Russell Fry",
+    "state": "SC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Andrew Ogles",
+    "state": "TN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Keith Self",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Morgan Luttrell",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Monica De La Cruz",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Wesley Hunt",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Jennifer A. Kiggans",
+    "state": "VA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Derrick Van Orden",
+    "state": "WI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Celeste Maloy",
+    "state": "UT",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Vince Fong",
+    "state": "CA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Michael A. Rulli",
+    "state": "OH",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Tony Wied",
+    "state": "WI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Marlin A. Stutzman",
+    "state": "IN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mike Haridopolos",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Brian Jack",
+    "state": "GA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Jefferson Shreve",
+    "state": "IN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mark B. Messmer",
+    "state": "IN",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Derek Schmidt",
+    "state": "KS",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Tom Barrett",
+    "state": "MI",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Robert F. Onder, Jr.",
+    "state": "MO",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Addison P. McDowell",
+    "state": "NC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mark Harris",
+    "state": "NC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Pat Harrigan",
+    "state": "NC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Brad Knott",
+    "state": "NC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Tim Moore",
+    "state": "NC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "David J. Taylor",
+    "state": "OH",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Ryan Mackenzie",
+    "state": "PA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Robert P. Bresnahan, Jr.",
+    "state": "PA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Sheri Biggs",
+    "state": "SC",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Craig A. Goldman",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Brandon Gill",
+    "state": "TX",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mike Kennedy",
+    "state": "UT",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Michael Baumgartner",
+    "state": "WA",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Jimmy Patronis",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Randy Fine",
+    "state": "FL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Robert B. Aderholt",
+    "state": "AL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Eric A. \"Rick\" Crawford",
+    "state": "AR",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Paul A. Gosar",
+    "state": "AZ",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Mike Rogers",
+    "state": "AL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "J. French Hill",
+    "state": "AR",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Dale W. Strong",
+    "state": "AL",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Juan Ciscomani",
+    "state": "AZ",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Nicholas J. Begich III",
+    "state": "AK",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  },
+  {
+    "name": "Abraham J. Hamadeh",
+    "state": "AZ",
+    "quote": "Voted yes on the House-passed reconciliation bill that included a 10-year prohibition on states and political subdivisions from limiting, restricting, or otherwise regulating artificial intelligence models and artificial intelligence systems entered into interstate commerce.",
+    "date": "2025-05-22",
+    "sourceUrl": "https://clerk.house.gov/Votes/2025145",
+    "sourceLabel": "House roll call on reconciliation bill (H.R. 1)",
+    "stanceImplied": "opposes_domestic",
+    "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking moratorium). National-security chip/export controls are excluded from this taxonomy."
+  }
+]

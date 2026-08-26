@@ -7,6 +7,10 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "build:data": "node scripts/build-data.mjs",
+    "fetch:congress": "node scripts/fetch-congress-actions.mjs",
+    "fetch:congress:house": "node scripts/fetch-congress-actions.mjs --house-only",
+    "merge:house-research": "node scripts/merge-house-research.mjs",
+    "apply:hr1-votes": "node scripts/apply-hr1-votes.mjs",
     "lint": "oxlint",
     "preview": "vite preview"
   },

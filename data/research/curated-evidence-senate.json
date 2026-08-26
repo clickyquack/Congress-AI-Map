@@ -1,0 +1,638 @@
+[
+  {
+    "name": "Tommy Tuberville",
+    "state": "AL",
+    "stanceImplied": "opposes_domestic",
+    "quote": "China is on the move and would love nothing more than to make American innovation a thing of the past… This bill gives us the upper hand over China by investing in research and development projects based in the United States.",
+    "date": "2025-04-01",
+    "sourceUrl": "https://www.tuberville.senate.gov/newsroom/press-releases/tuberville-colleagues-introduce-legislation-to-strengthen-american-innovation/",
+    "sourceLabel": "American Innovation and Jobs Act press release",
+    "notes": "Also urged withdrawal of Biden AI Diffusion Rule as overly restrictive and harmful to U.S. competitiveness vs. China."
+  },
+  {
+    "name": "Ted Budd",
+    "state": "NC",
+    "stanceImplied": "opposes_domestic",
+    "quote": "I firmly believe that our country's free-market, private sector-led way of doing things will be key to remaining ahead of Chinese state-backed AI developers… Congress can partner with the administration and industry to remove roadblocks and provide regulatory certainty to let innovators innovate.",
+    "date": "2025-09-10",
+    "sourceUrl": "https://www.budd.senate.gov/2025/09/10/senator-budd-ai-enables-americans-to-make-the-best-and-most-of-themselves-on-daily-basis/",
+    "sourceLabel": "Senate Commerce subcommittee: America's AI Action Plan hearing"
+  },
+  {
+    "name": "Christopher A. Coons",
+    "state": "DE",
+    "stanceImplied": "mundane_risk",
+    "quote": "The United States' prosperity and safety rests on our ability to win the AI race… This bipartisan resolution sets America on a path to win the AI race — one in which AI is built in the United States and our nation is stronger and safer.",
+    "date": "2025-05-14",
+    "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senators-coons-cotton-introduce-resolution-to-affirm-americas-artificial-intelligence-dominance/",
+    "sourceLabel": "AI dominance resolution (with Cotton); also leads NO FAKES Act"
+  },
+  {
+    "name": "Bill Cassidy",
+    "state": "LA",
+    "stanceImplied": "mundane_risk",
+    "quote": "Cosponsored the NO FAKES Act to establish federal protections against unauthorized AI-generated digital replicas of individuals' voice and likeness.",
+    "date": "2025-05-14",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367",
+    "sourceLabel": "NO FAKES Act of 2025 (S. 1367)"
+  },
+  {
+    "name": "Richard J. Durbin",
+    "state": "IL",
+    "stanceImplied": "mundane_risk",
+    "quote": "Introduced the DEFIANCE Act to create a federal civil remedy for victims of non-consensual intimate digital forgeries, including AI-generated deepfake images.",
+    "date": "2025-05-21",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1837",
+    "sourceLabel": "DEFIANCE Act of 2025 (S. 1837)"
+  },
+  {
+    "name": "Cory A. Booker",
+    "state": "NJ",
+    "stanceImplied": "mundane_risk",
+    "quote": "Cosponsored the TAKE IT DOWN Act and Algorithmic Accountability Act to address non-consensual deepfakes and automated decision-system harms.",
+    "date": "2025-01-16",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+    "sourceLabel": "TAKE IT DOWN Act (S. 146)"
+  },
+  {
+    "name": "John Barrasso",
+    "state": "WY",
+    "stanceImplied": "mundane_risk",
+    "quote": "Cosponsored the TAKE IT DOWN Act to criminalize publication of non-consensual intimate images, including AI-generated deepfakes, without consent.",
+    "date": "2025-01-16",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+    "sourceLabel": "TAKE IT DOWN Act (S. 146)"
+  },
+  {
+    "name": "Adam B. Schiff",
+    "state": "CA",
+    "stanceImplied": "mundane_risk",
+    "quote": "Cosponsored the NO FAKES Act to protect individuals from unauthorized AI-generated replicas of their voice and likeness.",
+    "date": "2025-05-14",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367",
+    "sourceLabel": "NO FAKES Act of 2025 (S. 1367)"
+  },
+  {
+    "name": "James Lankford",
+    "state": "OK",
+    "stanceImplied": "mundane_risk",
+    "quote": "Cosponsored the NO FAKES Act to establish federal protections against unauthorized AI-generated digital replicas.",
+    "date": "2025-11-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367",
+    "sourceLabel": "NO FAKES Act of 2025 (S. 1367)"
+  },
+  {
+    "name": "Peter Welch",
+    "state": "VT",
+    "stanceImplied": "mundane_risk",
+    "quote": "Cosponsored the NO FAKES Act to protect Americans from unauthorized AI-generated replicas of voice and likeness.",
+    "date": "2026-04-14",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1367",
+    "sourceLabel": "NO FAKES Act of 2025 (S. 1367)"
+  },
+  {
+    "name": "Jack Reed",
+    "state": "RI",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Artificial intelligence models are being adopted at a rapid pace. While AI has massive potential to benefit society, we must recognize AI's security threats and ethical issues to ensure it's adopted in a manner that recognizes and mitigates these risks. This bipartisan framework addresses key catastrophic challenges posed by AI and the security protocols needed to safeguard against them.",
+    "date": "2024-04-16",
+    "sourceUrl": "https://www.reed.senate.gov/news/releases/romney-reed-moran-king-unveil-framework-to-mitigate-extreme-ai-risks",
+    "sourceLabel": "Romney-Reed-Moran-King extreme AI risks framework"
+  },
+  {
+    "name": "Darline Graham",
+    "state": "SC",
+    "stanceImplied": "mundane_risk",
+    "quote": "I don't think these data centers should be built in people's backyards without community involvement and guardrails and regulations in place.",
+    "date": "2026-08-18",
+    "sourceUrl": "https://www.wyff4.com/article/sen-darline-graham-data-centers-important/73392137",
+    "sourceLabel": "WYFF4 interview on AI data centers"
+  },
+  {
+    "name": "Tim Scott",
+    "state": "SC",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Fear and trepidation around electricity prices, water utilization, and aesthetics will stop the AI revolution from happening in America first, and it will empower China to beat America on this front if we don't get it right.",
+    "date": "2026-02-01",
+    "sourceUrl": "https://www.scott.senate.gov/media-center/press-releases/sen-tim-scott-honors-lindsey-graham-highlights-banking-committee-wins-at-south-carolina-business-council/",
+    "sourceLabel": "South Carolina Business Council remarks on winning the AI race"
+  },
+  {
+    "name": "Bill Hagerty",
+    "state": "TN",
+    "stanceImplied": "opposes_domestic",
+    "quote": "The last thing I want to see is regulation that would shut down the innovation that AI promises. We need to win in this game. The United States needs to lead in this innovation.",
+    "date": "2026-04-13",
+    "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2026/04/13/icymi-hagerty-joins-mornings-with-maria-on-fox-business-to-discuss-iran-reconciliation-ai/",
+    "sourceLabel": "Fox Business interview on AI and financial system risks"
+  },
+  {
+    "name": "John Cornyn",
+    "state": "TX",
+    "stanceImplied": "mundane_risk",
+    "quote": "Modern predators are exploiting advances in AI to develop new AI-generated child sexual abuse material, and technology companies are often unwittingly giving them the tools to do so.",
+    "date": "2025-07-22",
+    "sourceUrl": "https://www.cornyn.senate.gov/news/cornyn-kim-introduce-bill-to-combat-ai-generated-child-sexual-abuse-material/",
+    "sourceLabel": "PROACTIV AI Data Act introduction"
+  },
+  {
+    "name": "Tim Kaine",
+    "state": "VA",
+    "stanceImplied": "mundane_risk",
+    "quote": "There are valid concerns about A.I.'s potential negative uses—such as the errors it makes, its potential for spreading disinformation, or even whether its capabilities could be used to replace, rather than just supplement, human labor. Given those challenges and the fact that China is trying to replace America as the global leader in A.I., we need to stay one step ahead in the development and management of this technology.",
+    "date": "2023-06-01",
+    "sourceUrl": "https://wset.com/news/local/virginia-lawmakers-senators-mark-warner-tim-kaine-congressman-bob-good-push-proactive-ai-governance-amid-rising-concerns-artificial-intelligence-rists-misuse-attorney-general-jason-miyares-united-states-defence-department-june-2023",
+    "sourceLabel": "WSET interview on proactive AI governance"
+  },
+  {
+    "name": "Patty Murray",
+    "state": "WA",
+    "stanceImplied": "mundane_risk",
+    "quote": "I want America to develop and deploy this technology. But, I want it to be transparent. I want it to be safe. And, I want to make sure that the benefits of AI are there for everyone.",
+    "date": "2026-03-01",
+    "sourceUrl": "https://www.murray.senate.gov/in-seattle-murray-highlights-urgent-need-to-deploy-ai-safely-transparently-and-to-benefit-working-people-murray-says-pro-worker-pro-family-policies-dont-have-to-wait/",
+    "sourceLabel": "Seattle AI policy roundtable press release"
+  },
+  {
+    "name": "Jeff Merkley",
+    "state": "OR",
+    "stanceImplied": "mundane_risk",
+    "quote": "In the face of bad actors abusing AI to spread disinformation about voting to further dangerous voter suppression efforts, the FAIR Elections Act will help take on this 21st-century threat and stand up to the Trump Administration's anti-democratic efforts to target eligible voters they don't like.",
+    "date": "2026-06-11",
+    "sourceUrl": "https://www.merkley.senate.gov/merkley-padilla-lead-effort-to-fight-back-against-voter-suppression-and-misuse-of-artificial-intelligence-in-u-s-elections/",
+    "sourceLabel": "FAIR Elections Act reintroduction press release"
+  },
+  {
+    "name": "Peter Welch",
+    "state": "VT",
+    "stanceImplied": "mundane_risk",
+    "quote": "This is simple: if your work is used to train AI, there should be a way for you, the copyright holder, to determine that it's been used by a training model, and you should get compensated if it was.",
+    "date": "2025-11-01",
+    "sourceUrl": "https://www.welch.senate.gov/welch-leads-bipartisan-bill-to-protect-musicians-artists-and-creators-from-unauthorized-ai-training/",
+    "sourceLabel": "TRAIN Act reintroduction press release"
+  },
+  {
+    "name": "John Barrasso",
+    "state": "WY",
+    "stanceImplied": "mundane_risk",
+    "quote": "Bad actors, like Russia and China, are given the green light to influence policy and keep us from producing American energy. This bill will stop this interference and make sure only the American people have a say in the future of our energy and federal lands policies.",
+    "date": "2025-01-16",
+    "sourceUrl": "https://www.barrasso.senate.gov/barrasso-bill-stops-foreign-and-artificial-intelligence-influence-on-energy-and-federal-lands-policy/",
+    "sourceLabel": "American Voices in Federal Lands Act on AI bots in public comments"
+  },
+  {
+    "name": "Mark R. Warner",
+    "state": "VA",
+    "stanceImplied": "mundane_risk",
+    "quote": "Good policy starts with good data. This bipartisan legislation will finally give us a clear picture of AI's impact on the workforce – what jobs are being eliminated, which workers are being retrained, and where new opportunities are emerging.",
+    "date": "2025-11-05",
+    "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-hawley-to-introduce-bipartisan-legislation-to-track-number-of-jobs-lost-to-ai/",
+    "sourceLabel": "AI-Related Job Impacts Clarity Act announcement"
+  },
+  {
+    "name": "James C. Justice",
+    "state": "WV",
+    "stanceImplied": "mundane_risk",
+    "quote": "A.I. chatbots are an incredible tool for older Americans, but we can't miss the opportunity to protect our seniors who rely on chatbots for support, companionship, and even important decisions during critical times. The Senior Chatbot Protection Act sets transparency standards so our seniors know they are speaking with a chatbot and not a real person.",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-introduces-bipartisan-senior-chatbot-protection-act/",
+    "sourceLabel": "Senior Chatbot Protection Act introduction"
+  },
+  {
+    "name": "Adam B. Schiff",
+    "state": "CA",
+    "stanceImplied": "mundane_risk",
+    "quote": "There are good reasons to use AI technology to advance our national security, however – just as with any tool, we cannot depend on technology alone to guide to us, particularly when the risks of harm can be fatal. My legislation would protect Americans from unlawful domestic surveillance, ensure that humans in the chain of command exercise responsibility for the use of any lethal technology, and maintain strong ethical protections in the deployment of autonomous and semi-autonomous weapons.",
+    "date": "2026-06-08",
+    "sourceUrl": "https://www.schiff.senate.gov/news/press-releases/news-schiff-introduces-comprehensive-legislation-to-enact-commonsense-guardrails-for-defense-departments-use-of-ai/",
+    "sourceLabel": "HALO Act press release"
+  },
+  {
+    "name": "Alex Padilla",
+    "state": "CA",
+    "stanceImplied": "mundane_risk",
+    "quote": "AI-powered chatbots present an unprecedented and unique danger to minors engaged in longer and unsupervised interactions with these systems. This issue is both timely and urgent, as AI is rapidly shaping how Americans – including children – learn, communicate, and seek help.",
+    "date": "2025-10-22",
+    "sourceUrl": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-schiff-urge-federal-trade-commission-to-address-ai-chatbots-risks-to-children-and-teens/",
+    "sourceLabel": "FTC letter on AI chatbot risks to children"
+  },
+  {
+    "name": "Christopher A. Coons",
+    "state": "DE",
+    "stanceImplied": "mundane_risk",
+    "quote": "Everyone deserves the right to own and protect their voice and likeness from AI deepfakes, no matter if you're Taylor Swift or an 8th grader in Wilmington. AI can be used as a tool to foster creativity, but that can't come at the expense of the unauthorized exploitation of anyone's voice or likeness.",
+    "date": "2026-06-18",
+    "sourceUrl": "https://www.blackburn.senate.gov/2026/6/blackburn-coons-bipartisan-bill-to-protect-individuals-and-creators-from-deepfakes-passes-senate-judiciary-committee",
+    "sourceLabel": "NO FAKES Act committee passage"
+  },
+  {
+    "name": "Ashley Moody",
+    "state": "FL",
+    "stanceImplied": "mundane_risk",
+    "quote": "No one should have their voice, image, or likeness stolen and used in a fake video or AI-generated deepfake without their consent. With artificial intelligence advancing at a rapid pace, it is becoming harder for people to know what is real and what is not.",
+    "date": "2026-06-18",
+    "sourceUrl": "https://www.moody.senate.gov/press-releases/video-senator-moody-advances-no-fakes-act-out-of-committee-to-protect-americans-from-deceptive-ai/",
+    "sourceLabel": "NO FAKES Act committee passage"
+  },
+  {
+    "name": "Rick Scott",
+    "state": "FL",
+    "stanceImplied": "mundane_risk",
+    "quote": "AI is opening up our economy and our daily lives to new worlds of possibility, but it's naïve to think only well-intentioned Americans are using it. We have enemies in all corners of the world, and they know how to use AI as well.",
+    "date": "2026-06-24",
+    "sourceUrl": "https://www.rickscott.senate.gov/2026/6/sen-rick-scott-introduces-legislation-to-track-terrorist-organizations-who-use-artificial-intelligence",
+    "sourceLabel": "Generative AI Terrorism Risk Assessment Act"
+  },
+  {
+    "name": "Raphael G. Warnock",
+    "state": "GA",
+    "stanceImplied": "mundane_risk",
+    "quote": "AI is not going anywhere. It has both promise and peril. I just want us to be thinking critically about this from all angles.",
+    "date": "2026-07-16",
+    "sourceUrl": "https://www.warnock.senate.gov/newsroom/press-releases/warnock-pushes-federal-reserve-chair-kevin-warsh-to-implement-artificial-intelligence-policy-that-protects-all-americans-not-just-tech-executives/",
+    "sourceLabel": "Senate Banking Committee hearing on AI"
+  },
+  {
+    "name": "Brian Schatz",
+    "state": "HI",
+    "stanceImplied": "mundane_risk",
+    "quote": "People deserve to know whether or not the videos, photos, and content they see and read online is real or not. Our bill is simple – if any content is made by artificial intelligence, it should be labeled so that people are aware and aren't fooled or scammed.",
+    "date": "2023-10-24",
+    "sourceUrl": "https://www.schatz.senate.gov/news/press-releases/schatz-kennedy-introduce-bipartisan-legislation-to-provide-more-transparency-on-ai-generated-content/",
+    "sourceLabel": "AI Labeling Act"
+  },
+  {
+    "name": "Joni Ernst",
+    "state": "IA",
+    "stanceImplied": "mundane_risk",
+    "quote": "Developing guardrails as outlined in the AI roadmap is the right thing to do, but we need to do so in a way that doesn't hinder the opportunities of the future.",
+    "date": "2024-05-23",
+    "sourceUrl": "https://ari.us/bipartisan-lawmakers-discuss-ai-policy-at-americans-for-responsible-innovation-forum-on-capitol-hill/",
+    "sourceLabel": "ARI AI Policy Impact Forum"
+  },
+  {
+    "name": "Katie Boyd Britt",
+    "state": "AL",
+    "stanceImplied": "mundane_risk",
+    "quote": "If AI can be this brilliant, we certainly can put the proper guardrails in place to where they are not talking to our children about sexual interplay, where they are not talking to our children about illicit drug abuse, where they are not talking to our children about self-harm. This is not hard.",
+    "date": "2025-10-29",
+    "sourceUrl": "https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-joins-josh-hawley-richard-blumenthal-colleagues-in-introducing-bipartisan-legislation-to-protect-minors-from-ai-chatbots/",
+    "sourceLabel": "GUARD Act introduction press conference"
+  },
+  {
+    "name": "Tommy Tuberville",
+    "state": "AL",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Every day this rule remains in place, American companies face mounting uncertainty, stalled investments, and the risk of losing critical global partnerships that cannot be easily regained. Therefore, we urge you to withdraw this rule and propose an alternative that is effective in preventing Communist China from capturing the world market in a leading technology without compromising American advantages.",
+    "date": "2025-04-15",
+    "sourceUrl": "https://www.tuberville.senate.gov/newsroom/press-releases/tuberville-ricketts-fight-for-american-technology-dominance/",
+    "sourceLabel": "Letter urging withdrawal of Biden AI Diffusion Rule"
+  },
+  {
+    "name": "John Boozman",
+    "state": "AR",
+    "stanceImplied": "mundane_risk",
+    "quote": "However, while AI holds great potential, we should also ask tough questions about the potential risks. New regulations may be needed to ensure that consumers are kept safe, especially when it comes to the use of applications that handle sensitive data.",
+    "date": "2023-11-14",
+    "sourceUrl": "https://www.agriculture.senate.gov/newsroom/rep/press/release/ranking-member-boozman-opening-statement-at-hearing-on-leveraging-technology-and-ai-in-agriculture",
+    "sourceLabel": "Senate Agriculture hearing: AI in agriculture"
+  },
+  {
+    "name": "Tom Cotton",
+    "state": "AR",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Winning the AI race will be critical to our national security and economic prosperity for decades to come. We must do everything to protect American AI dominance from adversaries like Communist China.",
+    "date": "2025-11-06",
+    "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senators-coons-cotton-introduce-resolution-to-affirm-americas-artificial-intelligence-dominance/",
+    "sourceLabel": "AI dominance resolution (with Coons)"
+  },
+  {
+    "name": "Mark Kelly",
+    "state": "AZ",
+    "stanceImplied": "mundane_risk",
+    "quote": "But seniors need to know when they're talking to a machine, what its limits are, and how their information is being used to make sure they aren't being scammed or put at risk.",
+    "date": "2026-07-23",
+    "sourceUrl": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-introduces-bipartisan-senior-chatbot-protection-act/",
+    "sourceLabel": "Senior Chatbot Protection Act"
+  },
+  {
+    "name": "Roger F. Wicker",
+    "state": "MS",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Any government regulations on AI must begin with a \"light touch\" so that innovators can experiment, prototype, and compete.",
+    "date": "2025-05-01",
+    "sourceUrl": "https://www.wicker.senate.gov/2025/5/wicker-helping-maintain-america-s-ai-edge",
+    "sourceLabel": "Wicker column: Maintaining America's AI Edge",
+    "notes": "Cosponsored NO FAKES Act (S.1367) per actions.json; no x-risk or frontier-reg quotes found."
+  },
+  {
+    "name": "Susan M. Collins",
+    "state": "ME",
+    "stanceImplied": "mundane_risk",
+    "quote": "In a rapidly evolving digital landscape, we must ensure that voters are not manipulated by purposely misleading AI-generated content.",
+    "date": "2024-02-01",
+    "sourceUrl": "https://www.collins.senate.gov/newsroom/senator-collins-bipartisan-group-introduce-bill-to-ban-deceptive-ai-generated-content-in-elections",
+    "sourceLabel": "Protect Elections from Deceptive AI Act press release",
+    "notes": "No x-risk, frontier-reg, or China-beat innovation framing quotes found."
+  },
+  {
+    "name": "James E. Risch",
+    "state": "ID",
+    "stanceImplied": "mundane_risk",
+    "quote": "In recent years, we have had people come in here and predict what was going to happen as far as demand for electricity for America because of AI and other things that are coming on board.",
+    "date": "2025-07-25",
+    "sourceUrl": "https://www.risch.senate.gov/news/press-releases/risch-touts-significance-of-nuclear-energy-to-growing-energy-demand/",
+    "sourceLabel": "Senate ENR hearing remarks",
+    "notes": "Editorial cites AI in cyber defense context; no direct x-risk or domestic-regulation quotes."
+  },
+  {
+    "name": "Jeanne Shaheen",
+    "state": "NH",
+    "stanceImplied": "mundane_risk",
+    "quote": "I am concerned that future uses of deepfake technology will be harder to detect and fend off as AI technology progresses.",
+    "date": "2024-02-01",
+    "sourceUrl": "https://www.shaheen.senate.gov/news/press/shaheen-urges-department-of-justice-and-cisa-to-address-ai-generated-deepfake-technology-and-its-impact-on-the-democratic-process-after-new-hampshire-voters-received-fake-robocalls-ahead-of-primary",
+    "sourceLabel": "Letter on NH AI deepfake robocalls",
+    "notes": "Cosponsored NO FAKES Act per actions.json; no x-risk quotes found."
+  },
+  {
+    "name": "Mike Crapo",
+    "state": "ID",
+    "stanceImplied": "mundane_risk",
+    "quote": "Without the proper structure and guidelines for the procurement, deployment, and monitoring of AI systems, SSA's use of AI could reduce the effectiveness of its benefit administration processes, exacerbate improper payments, and jeopardize beneficiaries' financial security.",
+    "date": "2024-06-01",
+    "sourceUrl": "https://www.crapo.senate.gov/media/newsreleases/crapo-wyden-seek-details-on-ai-safeguards-in-social-security",
+    "sourceLabel": "Letter on SSA AI safeguards",
+    "notes": "No x-risk or frontier-reg quotes found."
+  },
+  {
+    "name": "Martin Heinrich",
+    "state": "NM",
+    "stanceImplied": "xrisk_concern",
+    "quote": "We each recognized the potential risks AI could present, including altering our workforce in the short-term and long term, raising questions about the application of existing laws in an AI-enabled world, changing the dynamics of our national security, and raising the threat of potential doomsday scenarios.",
+    "date": "2024-05-15",
+    "sourceUrl": "https://www.heinrich.senate.gov/imo/media/doc/ai_roadmap_text.pdf",
+    "sourceLabel": "Bipartisan Senate AI Working Group roadmap",
+    "notes": "Cosponsored multiple ethics bills per actions.json; roadmap co-authored as AI Working Group co-founder."
+  },
+  {
+    "name": "Ben Ray Luján",
+    "state": "NM",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "The TEST AI Act addresses these shortcomings by creating government testbeds to better evaluate AI systems. This will help leverage the talent of our National Laboratories and strengthen the federal government's ability to implement responsible guardrails that protect our national security and the American people.",
+    "date": "2025-05-21",
+    "sourceUrl": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-colleagues-introduce-bipartisan-legislation-to-improve-ai-testing-and-evaluation-systems-safeguard-americans-against-risks-2/",
+    "sourceLabel": "TEST AI Act press release",
+    "notes": "Cosponsored ethics bills per actions.json."
+  },
+  {
+    "name": "Jerry Moran",
+    "state": "KS",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "The Federal Artificial Intelligence Risk Management Act would require federal agencies to incorporate the NIST framework into their AI management efforts to help limit the risks that could be associated with AI technology.",
+    "date": "2023-11-01",
+    "sourceUrl": "https://www.moran.senate.gov/public/index.cfm/2023/11/sens-moran-warner-introduce-legislation-to-establish-ai-guidelines-for-federal-government",
+    "sourceLabel": "Federal AI Risk Management Act press release",
+    "notes": "Co-leads Preserving American Dominance in AI Act with King/Romney per King press releases."
+  },
+  {
+    "name": "Rand Paul",
+    "state": "KY",
+    "stanceImplied": "mundane_risk",
+    "quote": "I think a lot of these decisions will be made by the state legislature.",
+    "date": "2026-01-22",
+    "sourceUrl": "https://kentuckylantern.com/2026/01/22/kentuckys-paul-says-states-will-decide-policies-on-the-future-of-artificial-intelligence/",
+    "sourceLabel": "Kentucky Lantern: Paul on state AI policy",
+    "notes": "Publicly opposed 2025 federal AI state-regulation moratorium per multiple reports; no direct Paul quote on moratorium vote located on paul.senate.gov."
+  },
+  {
+    "name": "Gary C. Peters",
+    "state": "MI",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "As federal agencies are seeking to ramp up their purchase and use of AI systems, there is a pressing need to set standards and safeguards that will ensure the adoption of safe, secure and trustworthy AI to serve the American public.",
+    "date": "2024-06-01",
+    "sourceUrl": "https://www.peters.senate.gov/newsroom/press-releases/peters-introduces-bipartisan-bill-to-ensure-the-federal-government-safely-and-responsibly-purchases-and-uses-artificial-intelligence",
+    "sourceLabel": "PREPARED for AI Act press release",
+    "notes": "Cosponsored TAKE IT DOWN Act per actions.json."
+  },
+  {
+    "name": "Chris Van Hollen",
+    "state": "MD",
+    "stanceImplied": "mundane_risk",
+    "quote": "Anthropic requested two limitations before signing: no use of its AI model for mass domestic surveillance or for autonomous kinetic operations.",
+    "date": "2026-02-27",
+    "sourceUrl": "https://www.vanhollen.senate.gov/news/press-releases/senators-van-hollen-markey-demand-hegseth-stop-pressure-campaign-against-anthropic-for-refusing-to-enable-mass-surveillance-and-autonomous-warfare",
+    "sourceLabel": "Letter to Secretary Hegseth on DOD AI safeguards",
+    "notes": "Data-center/energy oversight statements found; no x-risk or opposes_domestic quotes."
+  },
+  {
+    "name": "Todd Young",
+    "state": "IN",
+    "stanceImplied": "opposes_domestic",
+    "quote": "The Trump Administration has rightly emphasized winning the AI competition against the PRC, and the development of AI use case applications for the U.S. economy and national security is a top priority.",
+    "date": "2025-08-01",
+    "sourceUrl": "https://www.young.senate.gov/newsroom/press-releases/young-budd-urge-commerce-department-to-probe-deepseek-ais-connections-to-china/",
+    "sourceLabel": "DeepSeek probe letter",
+    "notes": "Sponsored Future of AI Innovation Act (international category) per actions.json."
+  },
+  {
+    "name": "Angus S. King, Jr.",
+    "state": "ME",
+    "stanceImplied": "xrisk_concern",
+    "quote": "This AI framework provides critical guidelines for federal oversight of AI technology so that it cannot be misused by bad actors looking to cause harm.",
+    "date": "2024-04-15",
+    "sourceUrl": "https://www.king.senate.gov/newsroom/press-releases/king-colleagues-unveil-bipartisan-framework-to-identify-minimize-artificial-intelligence-risks",
+    "sourceLabel": "Extreme AI risks framework letter",
+    "notes": "Cosponsored DEFIANCE Act per actions.json."
+  },
+  {
+    "name": "Steve Daines",
+    "state": "MT",
+    "stanceImplied": "opposes_domestic",
+    "quote": "We've got to beat China. We've got to maintain our advantage in terms of quantum computing and science.",
+    "date": "2026-01-09",
+    "sourceUrl": "https://www.daines.senate.gov/2026/01/09/in-the-news-daines-leads-5-2b-quantum-computing-funding-redux/",
+    "sourceLabel": "Daines press release quoting Missoulian interview",
+    "notes": "Endless Frontier Act cosponsorship; no x-risk quotes."
+  },
+  {
+    "name": "Kevin Cramer",
+    "state": "ND",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Today's corollary is Artificial Intelligence (AI)—the Great Power which dominates AI will gain the upper hand easily in any conflict just like the North did, dominating the South which clung to the morally repugnant—but also ineffective—manual labor.",
+    "date": "2025-01-01",
+    "sourceUrl": "https://www.cramer.senate.gov/news/press-releases/icymi-cramer-publishes-op-ed-calling-for-permitting-reform",
+    "sourceLabel": "Fox News op-ed via Cramer press release",
+    "notes": "Cosponsored chip-security S.1705 per actions.json."
+  },
+  {
+    "name": "Deb Fischer",
+    "state": "NE",
+    "stanceImplied": "mundane_risk",
+    "quote": "To position the United States for ongoing economic and security leadership, the U.S. needs AI-supportive and AI-enhanced networks.",
+    "date": "2025-03-01",
+    "sourceUrl": "https://www.fischer.senate.gov/public/index.cfm/news?ID=AAD85614-B4CA-40AC-8503-5607095356D5",
+    "sourceLabel": "Telecom subcommittee hearing on AI in communications",
+    "notes": "American COMPETE Act sponsor; no x-risk quotes found."
+  },
+  {
+    "name": "Catherine Cortez Masto",
+    "state": "NV",
+    "stanceImplied": "mundane_risk",
+    "quote": "I've seen firsthand how technology can drive our economy and deliver incredible innovations, but we have to make sure that there are guardrails in place to keep people safe.",
+    "date": "2025-05-20",
+    "sourceUrl": "https://www.cortezmasto.senate.gov/news/press-releases/signed-cortez-masto-backed-legislation-to-stop-spread-of-revenge-porn-and-deepfakes/",
+    "sourceLabel": "TAKE IT DOWN Act signing statement",
+    "notes": "Cosponsored ethics and chip-security bills per actions.json."
+  },
+  {
+    "name": "Roger Marshall",
+    "state": "KS",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "My biggest concern we hope to address today is AI's application and biosecurity and how it could be used to enable bioterrorism. After all, AI can help us prepare or react to the next pandemic, or it could also be used intentionally or unintentionally to develop novel pathogens, viruses, bioweapons, or chemical weapons.",
+    "date": "2025-03-01",
+    "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-chairs-help-subcommittee-hearing-on-artificial-intelligence-and-health-care/",
+    "sourceLabel": "HELP subcommittee AI in health care hearing",
+    "notes": "Said federal preemption on AI is 'impossible right now' at same event."
+  },
+  {
+    "name": "Jacky Rosen",
+    "state": "NV",
+    "stanceImplied": "opposes_domestic",
+    "quote": "With the field of artificial intelligence rapidly evolving, it's critical that we work with our closest intelligence partners to develop shared AI strategies and stay ahead of our adversaries.",
+    "date": "2024-05-10",
+    "sourceUrl": "https://www.rosen.senate.gov/2024/05/10/rosen-budd-introduce-bipartisan-bill-to-increase-ai-collaboration-with-closest-intelligence-allies/",
+    "sourceLabel": "Five AIs Act press release",
+    "notes": "Cosponsored TAKE IT DOWN Act per actions.json."
+  },
+  {
+    "name": "Elissa Slotkin",
+    "state": "MI",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "My bill ensures a human is involved when deadly autonomous weapons are fired, AI cannot be used to spy on the American people, and that a human is on the switch to launch nuclear weapons.",
+    "date": "2026-03-17",
+    "sourceUrl": "https://www.slotkin.senate.gov/2026/03/17/slotkin-legislation-puts-common-sense-guardrails-on-dod-ai-use-around-lethal-force-spying-on-americans-and-nuclear-weapons/",
+    "sourceLabel": "AI Guardrails Act press release",
+    "notes": "Cosponsored NO FAKES and chip-security bills per actions.json."
+  },
+  {
+    "name": "Eric Schmitt",
+    "state": "MO",
+    "stanceImplied": "opposes_domestic",
+    "quote": "I'm proud to introduce the AI and Critical Technology Workforce Framework Act with Senator Gary Peters. This bill will ensure that America continues to have a strong and increasingly skilled workforce, will utilize AI to bolster American industry, and will incentivize companies to keep their jobs in the United States rather than outsourcing them overseas.",
+    "date": "2025-06-01",
+    "sourceUrl": "https://www.schmitt.senate.gov/media/press-releases/senators-schmitt-and-peters-introduce-bipartisan-bill-to-bolster-americas-ai-workforce/",
+    "sourceLabel": "AI workforce bill press release",
+    "notes": "Cosponsored chip-security S.1705 per actions.json."
+  },
+  {
+    "name": "Angela D. Alsobrooks",
+    "state": "MD",
+    "stanceImplied": "opposes_domestic",
+    "quote": "I believe that the United States should lead the world in this technology…But we also have to remember that innovation is most successful when people have confidence in it.",
+    "date": "2026-06-11",
+    "sourceUrl": "https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-ai-cannot-be-happening-to-us-it-has-to-expand-opportunity/",
+    "sourceLabel": "Banking Committee AI hearing statement",
+    "notes": "Cosponsored chip-security S.1705 per actions.json."
+  },
+  {
+    "name": "Tim Sheehy",
+    "state": "MT",
+    "stanceImplied": "mundane_risk",
+    "quote": "Artificial intelligence will help unleash innovation, opportunity, and prosperity in the 21st century economy, but we must ensure it is not a tool for fraud.",
+    "date": "2026-01-01",
+    "sourceUrl": "https://www.sheehy.senate.gov/news/press-releases/sheehy-blunt-rochester-introduce-ai-fraud-accountability-act/",
+    "sourceLabel": "AI Fraud Accountability Act press release",
+    "notes": "Cosponsored TAKE IT DOWN Act per actions.json."
+  },
+  {
+    "name": "Alan Armstrong",
+    "state": "OK",
+    "stanceImplied": "opposes_domestic",
+    "quote": "The United States cannot pursue AI dominance, industrial reshoring, advanced manufacturing, and long-term energy reliability while tolerating a permitting regime that is fertile ground for procedural obstruction and endless litigation.",
+    "date": "2026-01-01",
+    "sourceUrl": "https://www.armstrong.senate.gov/the-same-permit-snare-that-stops-pipelines-will-stop-the-grid-buildout-too/",
+    "sourceLabel": "Armstrong column on permitting and AI grid buildout",
+    "notes": "No x-risk quotes found."
+  },
+  {
+    "name": "Richard J. Durbin",
+    "state": "IL",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "Artificial intelligence is here, and it is changing the way we approach our world. It holds enormous positive potential, but like with any new technology, AI must be tested thoroughly to ensure it is used responsibly.",
+    "date": "2023-10-01",
+    "sourceUrl": "https://www.durbin.senate.gov/newsroom/press-releases/durbin-joins-colleagues-to-introduce-bipartisan-legislation-to-improve-ai-testing-and-evaluation-systems-safeguard-americans-against-risks",
+    "sourceLabel": "TEST AI Act press release",
+    "notes": "Existing evidence is DEFIANCE Act sponsor record."
+  },
+  {
+    "name": "Bill Cassidy",
+    "state": "LA",
+    "stanceImplied": "mundane_risk",
+    "quote": "AI is a powerful tool which can be used to enhance things like medicine and education. But in the wrong hands, it can be weaponized. By feeding sensitive data into systems like DeepSeek, we give China another weapon.",
+    "date": "2025-05-09",
+    "sourceUrl": "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-rosen-introduce-legislation-to-protect-sensitive-federal-data-from-deepseek-adversarial-ai-technologies/",
+    "sourceLabel": "Protection Against Foreign Adversarial AI Act",
+    "notes": "Existing evidence is NO FAKES cosponsorship only."
+  },
+  {
+    "name": "James Lankford",
+    "state": "OK",
+    "stanceImplied": "opposes_domestic",
+    "quote": "America's long-term scientific advancements and national security depend on the US winning the global race for technology.",
+    "date": "2025-11-01",
+    "sourceUrl": "https://www.lankford.senate.gov/news/press-releases/lankford-cotton-and-colleagues-urge-department-of-energy-to-ban-chinese-nationals-from-american-laboratories/",
+    "sourceLabel": "Genesis Mission / China AI competition letter",
+    "notes": "Existing evidence is NO FAKES cosponsorship only."
+  },
+  {
+    "name": "Edward J. Markey",
+    "state": "MA",
+    "stanceImplied": "xrisk_concern",
+    "quote": "What is known about the potential risks from increasingly powerful AI that could lead to injury, death, or other outcomes — up to human extinction — and how can such risks be addressed?",
+    "date": "2023-06-23",
+    "sourceUrl": "https://www.markey.senate.gov/imo/media/doc/senator_markey_letter_to_gao_on_generative_ai_-_062223pdf.pdf",
+    "sourceLabel": "GAO generative AI assessment letter",
+    "notes": "Existing evidence is AI Accountability Agenda (mundane_risk)."
+  },
+  {
+    "name": "Cory A. Booker",
+    "state": "NJ",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "I'm glad to see that the Executive Order includes many of the principles and priorities I shared with the White House earlier this year, including the need for provisions to bolster AI research and development, promote innovation, combat AI-enabled discrimination, advance equity and civil rights, and otherwise maximize the benefits of AI for all people — not just the most fortunate.",
+    "date": "2023-10-30",
+    "sourceUrl": "https://www.booker.senate.gov/news/press/booker-applauds-biden-executive-order-on-artificial-intelligence",
+    "sourceLabel": "Statement on Biden AI Executive Order",
+    "notes": "Existing evidence is bill cosponsorship summary."
+  },
+  {
+    "name": "Ted Budd",
+    "state": "NC",
+    "stanceImplied": "opposes_domestic",
+    "quote": "As the U.S. continues our fight to maintain American leadership in AI, CAISI has also played a leading role in highlighting, in a public fashion, the relative capability of leading Chinese AI models compared to U.S. offerings.",
+    "date": "2026-06-26",
+    "sourceUrl": "https://www.budd.senate.gov/wp-content/uploads/2026/06/CAISI-Letter_.pdf",
+    "sourceLabel": "Letter to National Cyber Director on CAISI frontier-model evaluations",
+    "notes": "Existing evidence covers free-market/innovation hearing quote."
+  },
+  {
+    "name": "Charles E. Schumer",
+    "state": "NY",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Each insight forum will focus on the biggest issues in AI, including… guarding against doomsday scenarios.",
+    "date": "2023-06-21",
+    "sourceUrl": "https://www.democrats.senate.gov/news/press-releases/majority-leader-schumer-delivers-remarks-to-launch-safe-innovation-framework-for-artificial-intelligence-at-csis",
+    "sourceLabel": "SAFE Innovation Framework launch remarks",
+    "notes": "Existing evidence includes insight-forum opening statement and SAFE framework summary."
+  },
+  {
+    "name": "Josh Hawley",
+    "state": "MO",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "It is the sense of Congress that rapidly advancing artificial intelligence capabilities present both opportunities and significant risks to national security, public safety, economic competitiveness, civil liberties, and healthy labor and other markets, and that, as artificial intelligence advances toward human-level capabilities in virtually all domains, the United States must establish a secure testing and evaluation program to generate data-driven options for managing emerging risks.",
+    "date": "2025-09-29",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2938/text",
+    "sourceLabel": "Artificial Intelligence Risk Evaluation Act (S.2938) — Hawley sponsor text",
+    "notes": "Existing evidence includes existential-risk hearing exchange."
+  }
+]

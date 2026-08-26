@@ -10,7 +10,40 @@ import shapefile from 'shapefile'
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const root = path.join(__dirname, '..')
 const dataDir = path.join(root, 'data')
-const today = '2026-08-11'
+const researchDir = path.join(dataDir, 'research')
+const today = new Date().toISOString().slice(0, 10)
+
+function loadJsonIfExists(filePath, fallback) {
+  if (!fs.existsSync(filePath)) return fallback
+  return JSON.parse(fs.readFileSync(filePath, 'utf8'))
+}
+
+function mergeCuratedEvidence(members, evidence, entries, eidRef) {
+  for (const e of entries) {
+    const m = findByNameState(members, e.name, e.state)
+    if (!m) {
+      console.log('Curated evidence unmatched:', e.name, e.state)
+      continue
+    }
+    const already = evidence.some(
+      (x) =>
+        x.bioguideId === m.bioguideId &&
+        x.sourceUrl === e.sourceUrl &&
+        x.quote === e.quote,
+    )
+    if (already) continue
+    evidence.push({
+      id: `ev-${eidRef.v++}`,
+      bioguideId: m.bioguideId,
+      stanceImplied: e.stanceImplied || 'mundane_risk',
+      quote: e.quote,
+      date: e.date,
+      sourceUrl: e.sourceUrl,
+      sourceLabel: e.sourceLabel,
+      notes: e.notes,
+    })
+  }
+}
 
 const STATE_FIPS = {
   AL: '01', AK: '02', AZ: '04', AR: '05', CA: '06', CO: '08', CT: '09', DE: '10',
@@ -52,7 +85,21 @@ function parseAipnQuotes(html) {
   for (const line of slice.split('\n')) {
     const trimmed = line.trim()
     if (trimmed === '];' || trimmed === ']') break
-    const m = trimmed.match(lineRe)
+    let m = trimmed.match(lineRe)
+    if (!m) {
+      try {
+        const row = JSON.parse(trimmed.replace(/,\s*$/, ''))
+        if (Array.isArray(row) && row.length >= 5) {
+          const header = String(row[0])
+          const hm = header.match(/^([🔴🔵])\s+(Sen\.|Rep\.)\s+(.+)$/u)
+          if (hm) {
+            m = [null, hm[1], hm[2], hm[3], row[1], row[2], row[3], row[4]]
+          }
+        }
+      } catch {
+        /* fall through */
+      }
+    }
     if (!m) continue
     const partyEmoji = m[1]
     const title = m[2]
@@ -281,48 +328,18 @@ async function main() {
     console.log('Unmatched AIPN quotes:', [...new Set(unmatched)].join('; '))
   }
 
-  // Extra curated x-risk / strong-risk evidence beyond AIPN parse misses
-  const extraEvidence = [
-    {
-      name: 'Ted Lieu',
-      state: 'CA',
-      stanceImplied: 'xrisk_concern',
-      quote:
-        'Unfortunately, powerful AI systems can go rogue, behave in extremely dangerous ways, or even resist human intervention. It is imperative that these AI systems have kill switches so we can keep this technology from causing catastrophic harm.',
-      date: '2026-07-23',
-      sourceUrl:
-        'https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can',
-      sourceLabel: 'AI Kill Switch Act press release',
-    },
-    {
-      name: 'Lori Trahan',
-      state: 'MA',
-      stanceImplied: 'strong_risk_reg',
-      quote:
-        'The FRONTIER Act establishes federal transparency, auditing, and emergency-restriction authority for the largest AI developers to manage catastrophic risks from frontier models.',
-      date: '2026-07-23',
-      sourceUrl: 'https://www.congress.gov/bill/119th-congress/house-bill/9925',
-      sourceLabel: 'FRONTIER Act (H.R. 9925)',
-    },
-  ]
-
-  for (const e of extraEvidence) {
-    const m = findByNameState(members, e.name, e.state)
-    if (!m) continue
-    const already = evidence.some(
-      (x) => x.bioguideId === m.bioguideId && x.sourceUrl === e.sourceUrl,
-    )
-    if (already) continue
-    evidence.push({
-      id: `ev-${eid++}`,
-      bioguideId: m.bioguideId,
-      stanceImplied: e.stanceImplied,
-      quote: e.quote,
-      date: e.date,
-      sourceUrl: e.sourceUrl,
-      sourceLabel: e.sourceLabel,
-    })
-  }
+  const eidRef = { v: eid }
+  const houseCurated = loadJsonIfExists(
+    path.join(researchDir, 'curated-evidence-house.json'),
+    [],
+  )
+  mergeCuratedEvidence(members, evidence, houseCurated, eidRef)
+  const senateCurated = loadJsonIfExists(
+    path.join(researchDir, 'curated-evidence-senate.json'),
+    [],
+  )
+  mergeCuratedEvidence(members, evidence, senateCurated, eidRef)
+  eid = eidRef.v
 
   // Opposition to domestic AI regulation (sourced). Natsec-only bills excluded.
   const opposeEvidence = [
@@ -358,6 +375,18 @@ async function main() {
       sourceLabel: 'Axios: Thune urges light-touch AI rules and state-regulation freeze',
       notes:
         'Supported keeping a freeze on state AI regulations in the 2025 reconciliation package. National-security chip/export controls are excluded from this taxonomy.',
+    },
+    {
+      name: 'Bernie Moreno',
+      state: 'OH',
+      quote:
+        'If we really want to compete with China, the real advantage we have is that we can tap into the private sector… what we want to do is create an environment for the private sector to succeed. The way I think we dominate is by creating an environment where private companies can really contract with government.',
+      date: '2025-09-10',
+      sourceUrl:
+        'https://www.govinfo.gov/content/pkg/CHRG-119shrg62739/html/CHRG-119shrg62739.htm',
+      sourceLabel: "Senate Commerce hearing: America's AI Action Plan",
+      notes:
+        'Framed AI policy around beating China via private-sector-led innovation rather than heavier domestic regulation. National-security chip/export controls are excluded from this taxonomy.',
     },
   ]
 
@@ -408,26 +437,6 @@ async function main() {
       sourceUrl: 'https://www.democrats.senate.gov/imo/media/doc/schumer_ai_framework.pdf',
       sourceLabel: 'SAFE Innovation Framework',
       stanceImplied: 'mundane_risk',
-    },
-    {
-      name: 'Maxwell Frost',
-      state: 'FL',
-      quote:
-        'At a House Oversight roundtable on AI, Frost and colleagues aired anxieties about AI’s rapid societal impacts and the need for proactive congressional attention to harms people will feel in their districts.',
-      date: '2026-04-17',
-      sourceUrl:
-        'https://apnews.com/article/artificial-intelligence-safety-concerns-congress-fears-hearing-6d00921e57c9489b1f5a92c9a27e087c',
-      sourceLabel: 'AP News: House AI angst roundtable',
-    },
-    {
-      name: 'Dave Min',
-      state: 'CA',
-      quote:
-        'People in our districts across this country are going to start feeling impacts very soon… If we don’t start thinking proactively about the challenges that AI creates, I fear that we’re going to have a revolution on our hands.',
-      date: '2026-04-17',
-      sourceUrl:
-        'https://apnews.com/article/artificial-intelligence-safety-concerns-congress-fears-hearing-6d00921e57c9489b1f5a92c9a27e087c',
-      sourceLabel: 'AP News: House AI angst roundtable',
     },
     {
       name: 'Elizabeth Warren',
@@ -654,6 +663,33 @@ async function main() {
       title: 'AI Kill Switch Act',
       category: 'strong_risk',
       congressGovUrl: 'https://www.congress.gov/bill/119th-congress/house-bill/9917',
+    },
+    {
+      id: 'hr2794-119',
+      congress: 119,
+      billType: 'hr',
+      number: 2794,
+      title: 'NO FAKES Act of 2025',
+      category: 'ethics',
+      congressGovUrl: 'https://www.congress.gov/bill/119th-congress/house-bill/2794',
+    },
+    {
+      id: 'hr8915-119',
+      congress: 119,
+      billType: 'hr',
+      number: 8915,
+      title: 'NO FAKES Act of 2026',
+      category: 'ethics',
+      congressGovUrl: 'https://www.congress.gov/bill/119th-congress/house-bill/8915',
+    },
+    {
+      id: 'hr5511-119',
+      congress: 119,
+      billType: 'hr',
+      number: 5511,
+      title: 'Algorithmic Accountability Act of 2025',
+      category: 'ethics',
+      congressGovUrl: 'https://www.congress.gov/bill/119th-congress/house-bill/5511',
     },
     {
       id: 's2081-119',
@@ -914,14 +950,34 @@ async function main() {
   ]
 
   const actions = []
-  for (const [name, state, billId, action, date] of actionRows) {
+  const actionSeen = new Set()
+  function addAction(row) {
+    const key = `${row.bioguideId}|${row.billId}|${row.action}`
+    if (actionSeen.has(key)) return
+    actionSeen.add(key)
+    actions.push(row)
+  }
+
+  const congressRaw = loadJsonIfExists(
+    path.join(researchDir, 'congress-actions-raw.json'),
+    { actions: [] },
+  )
+  for (const a of congressRaw.actions || []) {
+    addAction(a)
+  }
+
+  const manualHouse = loadJsonIfExists(
+    path.join(researchDir, 'manual-actions-house.json'),
+    [],
+  )
+  for (const [name, state, billId, action, date] of manualHouse) {
     const m = findByNameState(members, name, state)
     if (!m) {
-      console.log('Action unmatched:', name, state)
+      console.log('Manual house action unmatched:', name, state)
       continue
     }
     const bill = bills.find((b) => b.id === billId)
-    actions.push({
+    addAction({
       bioguideId: m.bioguideId,
       billId,
       action,
@@ -930,8 +986,43 @@ async function main() {
     })
   }
 
+  for (const [name, state, billId, action, date] of actionRows) {
+    const m = findByNameState(members, name, state)
+    if (!m) {
+      console.log('Action unmatched:', name, state)
+      continue
+    }
+    const bill = bills.find((b) => b.id === billId)
+    addAction({
+      bioguideId: m.bioguideId,
+      billId,
+      action,
+      date,
+      sourceUrl: bill?.congressGovUrl,
+    })
+  }
+
+  const houseProgress = loadJsonIfExists(
+    path.join(researchDir, 'house-progress.json'),
+    { members: {} },
+  )
+  const senateProgress = loadJsonIfExists(
+    path.join(researchDir, 'senate-progress.json'),
+    { members: {} },
+  )
+  const progressById = {
+    ...(houseProgress.members || {}),
+    ...(senateProgress.members || {}),
+  }
+
   // Strip internal fields and write
-  const cleanMembers = members.map(({ _firstName, _lastName, ...m }) => m)
+  let cleanMembers = members.map(({ _firstName, _lastName, ...m }) => {
+    const progress = progressById[m.bioguideId]
+    if (progress?.reviewedAt) {
+      return { ...m, lastReviewed: progress.reviewedAt }
+    }
+    return m
+  })
 
   fs.writeFileSync(path.join(dataDir, 'members.json'), JSON.stringify(cleanMembers, null, 2))
   fs.writeFileSync(path.join(dataDir, 'evidence.json'), JSON.stringify(evidence, null, 2))

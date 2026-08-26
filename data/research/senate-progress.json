@@ -1,0 +1,992 @@
+{
+  "schema": "1",
+  "currentState": "DONE",
+  "members": {
+    "C000127": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Maria Cantwell",
+      "state": "WA",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "K000367": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Amy Klobuchar",
+      "state": "MN",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "W000802": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Sheldon Whitehouse",
+      "state": "RI",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "B001261": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "John Barrasso",
+      "state": "WY",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "W000437": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Roger F. Wicker",
+      "state": "MS",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "C001035": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Susan M. Collins",
+      "state": "ME",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "C001056": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "John Cornyn",
+      "state": "TX",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "D000563": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Richard J. Durbin",
+      "state": "IL",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "strong_risk_reg",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "M000355": {
+      "status": "no_signal",
+      "stanceAtStart": "unknown",
+      "name": "Mitch McConnell",
+      "state": "KY",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "unknown",
+      "signalsFound": [],
+      "notes": "Official remarks reference AI in defense innovation and Kentucky facility funding only; no qualifying x-risk, frontier-reg, opposes_domestic, or ethics quotes found."
+    },
+    "M001176": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Jeff Merkley",
+      "state": "OR",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "R000122": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Jack Reed",
+      "state": "RI",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "xrisk_concern",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "R000584": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "James E. Risch",
+      "state": "ID",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "S001181": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Jeanne Shaheen",
+      "state": "NH",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "W000805": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Mark R. Warner",
+      "state": "VA",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "G000555": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Kirsten E. Gillibrand",
+      "state": "NY",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "C001088": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Christopher A. Coons",
+      "state": "DE",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "B001230": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Tammy Baldwin",
+      "state": "WI",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "B001236": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "John Boozman",
+      "state": "AR",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "C001075": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Bill Cassidy",
+      "state": "LA",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "C000880": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Mike Crapo",
+      "state": "ID",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "G000386": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Chuck Grassley",
+      "state": "IA",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "H001046": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Martin Heinrich",
+      "state": "NM",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "xrisk_concern",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "H001061": {
+      "status": "no_signal",
+      "stanceAtStart": "unknown",
+      "name": "John Hoeven",
+      "state": "ND",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "unknown",
+      "signalsFound": [],
+      "notes": "Senate releases focus on UAS, precision agriculture, and infrastructure; no direct AI policy quotes meeting taxonomy found."
+    },
+    "J000293": {
+      "status": "no_signal",
+      "stanceAtStart": "unknown",
+      "name": "Ron Johnson",
+      "state": "WI",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "unknown",
+      "signalsFound": [],
+      "notes": "Reviewed; opposes federal preemption of state AI laws but no clear risk-regulation stance signal."
+    },
+    "L000575": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "James Lankford",
+      "state": "OK",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "L000570": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Ben Ray Luján",
+      "state": "NM",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "strong_risk_reg",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "M000133": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Edward J. Markey",
+      "state": "MA",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "xrisk_concern",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "M000934": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Jerry Moran",
+      "state": "KS",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "strong_risk_reg",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "M001153": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Lisa Murkowski",
+      "state": "AK",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "M001111": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Patty Murray",
+      "state": "WA",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "P000603": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Rand Paul",
+      "state": "KY",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "P000595": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Gary C. Peters",
+      "state": "MI",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "strong_risk_reg",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "S001150": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Adam B. Schiff",
+      "state": "CA",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "S001184": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Tim Scott",
+      "state": "SC",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "V000128": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Chris Van Hollen",
+      "state": "MD",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "W000800": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Peter Welch",
+      "state": "VT",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "W000779": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Ron Wyden",
+      "state": "OR",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "Y000064": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Todd Young",
+      "state": "IN",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "S001194": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Brian Schatz",
+      "state": "HI",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "C001095": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Tom Cotton",
+      "state": "AR",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "D000622": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Tammy Duckworth",
+      "state": "IL",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "W000817": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Elizabeth Warren",
+      "state": "MA",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "K000383": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Angus S. King, Jr.",
+      "state": "ME",
+      "party": "I",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "xrisk_concern",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "D000618": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Steve Daines",
+      "state": "MT",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "C001096": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Kevin Cramer",
+      "state": "ND",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "F000463": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Deb Fischer",
+      "state": "NE",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "K000384": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Tim Kaine",
+      "state": "VA",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "B001288": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Cory A. Booker",
+      "state": "NJ",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "strong_risk_reg",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "G000574": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Ruben Gallego",
+      "state": "AZ",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "S001198": {
+      "status": "no_signal",
+      "stanceAtStart": "unknown",
+      "name": "Dan Sullivan",
+      "state": "AK",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "unknown",
+      "signalsFound": [],
+      "notes": "Only outbound investment/chip-security AI statements found; excluded from domestic regulation taxonomy."
+    },
+    "E000295": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Joni Ernst",
+      "state": "IA",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "R000605": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Mike Rounds",
+      "state": "SD",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "xrisk_concern",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "H001076": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Margaret Wood Hassan",
+      "state": "NH",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "C001113": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Catherine Cortez Masto",
+      "state": "NV",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "B001303": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Lisa Blunt Rochester",
+      "state": "DE",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "M001198": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Roger Marshall",
+      "state": "KS",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "strong_risk_reg",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "B001305": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Ted Budd",
+      "state": "NC",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "R000608": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Jacky Rosen",
+      "state": "NV",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "C001114": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "John R. Curtis",
+      "state": "UT",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "bill_action"
+      ]
+    },
+    "S001203": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Tina Smith",
+      "state": "MN",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "H001079": {
+      "status": "no_signal",
+      "stanceAtStart": "unknown",
+      "name": "Cindy Hyde-Smith",
+      "state": "MS",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "unknown",
+      "signalsFound": [],
+      "notes": "Press releases mention AI in agriculture/infrastructure contexts only; reported vote to strike AI preemption moratorium but no official Hyde-Smith AI-policy quote with URL found."
+    },
+    "S001208": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Elissa Slotkin",
+      "state": "MI",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "strong_risk_reg",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "K000394": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Andy Kim",
+      "state": "NJ",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "S001217": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Rick Scott",
+      "state": "FL",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "K000377": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Mark Kelly",
+      "state": "AZ",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "T000278": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Tommy Tuberville",
+      "state": "AL",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "H000601": {
+      "status": "updated",
+      "stanceAtStart": "mundane_risk",
+      "name": "Bill Hagerty",
+      "state": "TN",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "P000145": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Alex Padilla",
+      "state": "CA",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "W000790": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Raphael G. Warnock",
+      "state": "GA",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "B001319": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Katie Boyd Britt",
+      "state": "AL",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "S001227": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Eric Schmitt",
+      "state": "MO",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "A000382": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Angela D. Alsobrooks",
+      "state": "MD",
+      "party": "D",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "S001232": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Tim Sheehy",
+      "state": "MT",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "M001243": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "David McCormick",
+      "state": "PA",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "J000312": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "James C. Justice",
+      "state": "WV",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "H001104": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Jon Husted",
+      "state": "OH",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "M001244": {
+      "status": "complete",
+      "stanceAtStart": "mundane_risk",
+      "name": "Ashley Moody",
+      "state": "FL",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ]
+    },
+    "A000383": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Alan Armstrong",
+      "state": "OK",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "opposes_domestic",
+      "signalsFound": [
+        "evidence"
+      ]
+    },
+    "G000608": {
+      "status": "updated",
+      "stanceAtStart": "unknown",
+      "name": "Darline Graham",
+      "state": "SC",
+      "party": "R",
+      "reviewedAt": "2026-08-26",
+      "stanceAfter": "mundane_risk",
+      "signalsFound": [
+        "evidence"
+      ]
+    }
+  }
+}

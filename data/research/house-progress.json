@@ -1,0 +1,3170 @@
+{
+  "schema": "1",
+  "currentState": "DONE",
+  "members": {
+    "A000055": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "R000575": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001185": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Cosponsored AI Data Center Moratorium Act; press release on federal guardrails."
+    },
+    "P000609": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "House chatbot hearing question on platform liability for harmful AI companions."
+    },
+    "M001212": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "FAIR Act cosponsor; supports federal child-safety guardrails for AI."
+    },
+    "S001220": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "F000481": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Cosponsor Algorithmic Accountability Act (H.R. 5511)."
+    },
+    "B001323": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000565": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001183": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Sponsors pro-AI healthcare innovation bills (H.R. 238); not tracked in project taxonomy."
+    },
+    "B001302": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced x-risk concern quotes from House Judiciary hearing."
+    },
+    "S001211": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "No public AI-risk or tracked-bill signals found."
+    },
+    "C001132": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced x-risk concern quotes on singularity and AI destruction risks."
+    },
+    "C001133": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "A000381": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "No public AI-risk or tracked-bill signals found."
+    },
+    "H001098": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000606": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Listed cosponsor of AI Data Center Moratorium Act (untracked bill); no sourced personal quote found."
+    },
+    "C001087": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "W000809": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "H001072": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "W000821": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001067": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "D000096": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "L000562": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "N000147": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "S000344": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "W000797": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "W000808": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "W000804": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr8915-119"
+    },
+    "F000454": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "H001068": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "P000608": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr9925-119"
+    },
+    "P000605": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "V000131": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "K000385": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "L000582": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ],
+      "notes": "AIPN-sourced evidence in dataset. Tracked bill actions: hr9917-119"
+    },
+    "M001196": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "B001292": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "E000296": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "K000389": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "B001300": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "D000628": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "K000391": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "J000298": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "M001206": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr2794-119, hr8915-119"
+    },
+    "G000586": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "C001117": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "T000482": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ],
+      "notes": "Evidence already in dataset from prior research. Tracked bill actions: hr9925-119"
+    },
+    "T000481": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "L000590": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr8915-119"
+    },
+    "D000631": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr2794-119, hr8915-119"
+    },
+    "J000301": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "O000019": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ],
+      "notes": "AIPN-sourced evidence in dataset. Tracked bill actions: hr9925-119"
+    },
+    "J000305": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "F000472": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr9925-119"
+    },
+    "S000168": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr2794-119, hr8915-119"
+    },
+    "M000194": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "B001313": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "K000401": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "F000476": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Evidence already in dataset from prior research."
+    },
+    "L000597": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr8915-119"
+    },
+    "M001217": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr8915-119"
+    },
+    "T000487": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "J000309": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "R000617": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "H001093": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr9925-119"
+    },
+    "B001316": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "F000477": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "L000602": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "D000530": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "M001224": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence",
+        "bill_action"
+      ],
+      "notes": "AIPN-sourced evidence in dataset. Tracked bill actions: hr9917-119, hr2794-119, hr8915-119"
+    },
+    "C001131": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "B001318": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119, hr2794-119, hr8915-119"
+    },
+    "L000607": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "W000830": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "F000483": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr8915-119"
+    },
+    "M001241": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Evidence already in dataset from prior research."
+    },
+    "B001324": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr5511-119"
+    },
+    "M001239": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AIPN-sourced evidence in dataset."
+    },
+    "S001230": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "bill_action"
+      ],
+      "notes": "Tracked bill actions: hr9925-119"
+    },
+    "R000600": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Commended TAKE IT DOWN Act; not a tracked-bill cosponsor."
+    },
+    "M001238": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Supports sectoral AI regulation; opposed moratorium in NDAA letter."
+    },
+    "M001219": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Lead sponsor of deepfake labeling bill H.R. 8479 (untracked)."
+    },
+    "C001055": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Supports federal AI standards without hindering responsible development."
+    },
+    "K000404": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "General pro-innovation AI remarks at committee hearing; no tracked-bill actions or risk-regulation quotes."
+    },
+    "H001103": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Pro-AI infrastructure development framing; no tracked-bill cosponsorship."
+    },
+    "P000610": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "House lead on enacted TAKE IT DOWN Act (tracked Senate bill s146-119)."
+    },
+    "F000482": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AI competition/national-security framing; voted for H.R. 1 moratorium."
+    },
+    "H001096": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "FAIR Act sponsor; voted for H.R. 1 moratorium."
+    },
+    "D000197": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Supports AI privacy guardrails; voted Nay on H.R. 1."
+    },
+    "N000191": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "No tracked-bill actions or sourced AI-risk-regulation quotes found."
+    },
+    "C001121": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "No tracked-bill actions or sourced AI-risk-regulation quotes found."
+    },
+    "B000825": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Deepfake criminalization focus; voted for H.R. 1 moratorium."
+    },
+    "P000620": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Supports federal preemption over state AI patchwork; deepfake scam legislation."
+    },
+    "H001100": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Criticized Colorado AI law; voted for H.R. 1 moratorium."
+    },
+    "C001137": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for H.R. 1 moratorium."
+    },
+    "E000300": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Urged national AI framework over state patchwork; voted for H.R. 1 moratorium."
+    },
+    "C001069": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AI industry accountability on child exploitation."
+    },
+    "D000216": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Concerns about AI costs for working people."
+    },
+    "H001047": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Cosponsors AI PLAN Act (H.R. 2152, untracked); no sourced AI-risk quote found."
+    },
+    "L000557": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "No tracked-bill actions or sourced AI-risk quotes found."
+    },
+    "H001081": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "No tracked-bill actions or sourced AI-risk quotes found."
+    },
+    "P000597": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AI job-displacement concerns."
+    },
+    "G000592": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "No AI-specific public statements or tracked-bill actions found."
+    },
+    "P000614": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "No tracked-bill actions or sourced AI-risk quotes found."
+    },
+    "G000604": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Freshman; no tracked-bill actions or sourced AI-risk quotes found."
+    },
+    "Z000018": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "AI/data-center energy framing; voted for H.R. 1 moratorium."
+    },
+    "D000634": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Prefers permissive AI regulation; voted for H.R. 1 moratorium."
+    },
+    "M001205": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for H.R. 1 moratorium."
+    },
+    "M001235": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for H.R. 1 moratorium."
+    },
+    "S001148": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for H.R. 1 moratorium."
+    },
+    "F000469": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for H.R. 1 moratorium."
+    },
+    "B001257": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B000490": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001260": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C000059": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001072": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001051": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001066": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001080": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001061": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C000537": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001068": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001053": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001059": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001063": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "D000616": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "D000600": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "D000399": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "F000459": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "F000450": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000559": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "G000546": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000553": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "G000568": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000558": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "H001052": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Present on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "H000874": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "H001058": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "J000288": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "J000289": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "K000009": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "K000375": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "K000376": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "L000560": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "L000566": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "L000397": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "L000491": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001163": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001157": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001177": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001143": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M000312": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001137": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001160": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "N000002": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "N000015": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "P000034": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "P000197": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "Q000023": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "R000395": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001176": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001145": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001189": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S000185": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S000510": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001172": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S000522": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001156": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "T000193": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "T000460": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "T000467": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "T000469": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "T000463": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "V000081": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "W000798": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "W000187": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "W000806": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "W000795": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "A000369": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B001278": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "D000617": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001184": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "T000468": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001287": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001285": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "R000599": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "T000472": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "V000130": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "F000462": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001282": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "W000812": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "H001067": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001188": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "J000294": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001281": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "J000295": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "W000814": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001091": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "W000816": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "P000607": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001195": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001101": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "N000188": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "A000370": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "D000623": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "A000371": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "T000474": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001103": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "L000583": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "A000372": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B001295": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001194": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "D000624": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "E000294": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "R000603": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "W000822": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001196": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B001296": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001291": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "N000189": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000576": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "K000388": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "L000585": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "D000626": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001108": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001190": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "P000613": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001112": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001110": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "R000609": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001200": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001199": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "H001077": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "J000299": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "R000606": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001301": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B001298": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000583": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "E000297": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "F000466": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001199": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "K000392": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000581": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "A000375": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "E000298": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "N000190": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000585": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001115": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B001306": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "H001082": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001205": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "H001066": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "H001090": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "L000593": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001214": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001208": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "U000040": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001307": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "D000629": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "P000617": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001215": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001119": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "O000173": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001212": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000591": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "V000133": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "O000172": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "H001085": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001204": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "J000302": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "R000610": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "T000480": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B001309": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "R000612": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001120": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000589": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "F000468": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "E000299": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "R000614": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000587": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001118": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001216": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001213": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001210": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M000687": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "T000165": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "I000056": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S000250": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "V000129": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "K000397": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001039": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "D000032": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000593": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "W000788": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "C001116": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "H001091": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001215": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "F000446": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001211": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001214": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S000929": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M000871": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "A000148": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001136": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "F000470": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "R000305": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "L000273": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "G000597": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Not Voting on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M000317": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "T000486": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B000740": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B000668": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "H001086": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "F000246": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "P000048": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "J000304": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "N000026": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "V000134": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001213": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "O000086": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001159": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "F000471": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "T000478": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "L000595": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001125": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001218": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "E000071": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001126": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "F000474": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "F000475": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "R000579": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "Y000067": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001225": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "K000400": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "G000598": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001314": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001216": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "L000596": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001218": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001129": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "N000193": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B001315": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001225": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001220": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "I000058": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001221": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "J000307": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "T000488": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "A000379": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "E000235": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "D000230": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "E000246": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "K000398": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001226": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "V000136": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "L000598": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000599": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "L000599": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "L000600": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "L000601": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001222": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001223": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001317": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "H001094": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001226": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001223": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "F000478": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "O000175": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001224": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "L000603": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "D000594": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001130": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "H001095": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "K000399": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000600": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "V000135": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001227": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "A000380": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001228": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001201": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "K000402": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "F000480": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "R000619": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001229": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "W000829": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "F000110": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001188": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001123": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "S001231": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "G000605": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "R000620": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "T000491": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "H001099": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "J000311": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001229": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001233": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "S001228": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "O000176": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "E000301": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001232": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001321": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001237": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001234": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "O000177": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001240": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "H001102": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "H001101": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "K000405": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "M001236": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "C001136": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "P000621": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "G000602": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "L000606": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "R000622": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001231": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "T000490": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "D000635": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001326": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "M001230": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B001327": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "B001325": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000601": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "G000603": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "J000310": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "K000403": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "V000138": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "B001322": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "R000621": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Voted Nay on H.R. 1 (Roll 145); no additional AI-risk evidence in automated pass."
+    },
+    "P000622": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "F000484": {
+      "status": "complete",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [
+        "evidence"
+      ],
+      "notes": "Voted for House reconciliation package with 10-year state AI regulation moratorium."
+    },
+    "W000831": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Delegate or not voting on H.R. 1 Roll 145; no other signals found in automated pass."
+    },
+    "V000139": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Delegate or not voting on H.R. 1 Roll 145; no other signals found in automated pass."
+    },
+    "M001245": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Delegate or not voting on H.R. 1 Roll 145; no other signals found in automated pass."
+    },
+    "F000485": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Delegate or not voting on H.R. 1 Roll 145; no other signals found in automated pass."
+    },
+    "M001246": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Delegate or not voting on H.R. 1 Roll 145; no other signals found in automated pass."
+    },
+    "G000607": {
+      "status": "no_signal",
+      "reviewedAt": "2026-08-26",
+      "signalsFound": [],
+      "notes": "Delegate or not voting on H.R. 1 Roll 145; no other signals found in automated pass."
+    }
+  }
+}

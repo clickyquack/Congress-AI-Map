@@ -18,6 +18,33 @@
     "congressGovUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9917"
   },
   {
+    "id": "hr2794-119",
+    "congress": 119,
+    "billType": "hr",
+    "number": 2794,
+    "title": "NO FAKES Act of 2025",
+    "category": "ethics",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2794"
+  },
+  {
+    "id": "hr8915-119",
+    "congress": 119,
+    "billType": "hr",
+    "number": 8915,
+    "title": "NO FAKES Act of 2026",
+    "category": "ethics",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8915"
+  },
+  {
+    "id": "hr5511-119",
+    "congress": 119,
+    "billType": "hr",
+    "number": 5511,
+    "title": "Algorithmic Accountability Act of 2025",
+    "category": "ethics",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5511"
+  },
+  {
     "id": "s2081-119",
     "congress": 119,
     "billType": "s",
