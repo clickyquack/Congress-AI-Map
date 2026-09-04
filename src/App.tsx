@@ -17,9 +17,10 @@ import type {
   Evidence,
   LayoutMode,
   LegislativeAction,
-  MapView as MapViewType,
+  MapChamber,
   Member,
   PartyFilter,
+  SenateSeatFilter,
   Stance,
 } from './lib/types'
 import { STANCE_ORDER, STANCE_SHORT } from './lib/types'
@@ -37,7 +38,8 @@ function pageFromHash(): 'home' | 'about' {
 export default function App() {
   const [page, setPage] = useState<'home' | 'about'>(pageFromHash)
   const [layout, setLayout] = useState<LayoutMode>('map')
-  const [view, setView] = useState<MapViewType>('senior')
+  const [chamber, setChamber] = useState<MapChamber>('senate')
+  const [senateSeat, setSenateSeat] = useState<SenateSeatFilter>('both')
   const [partyFilter, setPartyFilter] = useState<PartyFilter>('All')
   const [stanceFilter, setStanceFilter] = useState<Stance | 'All'>('All')
   const [chamberFilter, setChamberFilter] = useState<ChamberFilter>('All')
@@ -123,7 +125,12 @@ export default function App() {
         <ModeToggle value={layout} onChange={setLayout} />
         {layout === 'map' ? (
           <>
-            <ViewToggle value={view} onChange={setView} />
+            <ViewToggle
+              chamber={chamber}
+              onChamber={setChamber}
+              senateSeat={senateSeat}
+              onSenateSeat={setSenateSeat}
+            />
             <div className="filters">
               <label>
                 Party
@@ -165,7 +172,8 @@ export default function App() {
       <main className="main">
         {layout === 'map' ? (
           <MapView
-            view={view}
+            chamber={chamber}
+            senateSeat={senateSeat}
             members={members}
             stanceById={stanceById}
             partyFilter={partyFilter}

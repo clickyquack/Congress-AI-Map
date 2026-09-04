@@ -112,6 +112,12 @@ a {
   margin: 0 0.65rem 0.85rem 0;
 }
 
+.view-toggles {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
 .view-toggle button {
   border: 0;
   background: transparent;
@@ -221,6 +227,20 @@ a {
   place-items: center;
   color: var(--muted);
   font-weight: 600;
+}
+
+.map-caption {
+  position: absolute;
+  left: 0.85rem;
+  bottom: 0.7rem;
+  margin: 0;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--muted);
+  background: rgba(247, 244, 238, 0.88);
+  padding: 0.25rem 0.5rem;
+  border-radius: 6px;
+  pointer-events: none;
 }
 
 .district {

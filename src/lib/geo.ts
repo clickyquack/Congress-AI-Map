@@ -1,5 +1,5 @@
 import type { Feature, FeatureCollection, Geometry } from 'geojson'
-import type { Member, MapView, Stance } from './types'
+import type { Member, SenateRank, SenateSeatFilter, Stance } from './types'
 
 export interface ColoredFeatureProps {
   id: string
@@ -10,6 +10,8 @@ export interface ColoredFeatureProps {
   stance: Stance
   state: string
   district?: number
+  split?: 'west' | 'east'
+  senateRank?: SenateRank
 }
 
 const STATE_NAMES: Record<string, string> = {
@@ -42,52 +44,98 @@ export function stateName(abbr: string): string {
   return STATE_NAMES[abbr] || abbr
 }
 
-export function memberForView(
+export function memberForHouse(
   members: Member[],
-  view: MapView,
   state: string,
   district?: number,
 ): Member | undefined {
-  if (view === 'house') {
-    return members.find(
-      (m) =>
-        m.chamber === 'house' &&
-        m.state === state &&
-        Number(m.district) === Number(district),
-    )
-  }
-  const rank = view === 'junior' ? 'junior' : 'senior'
+  return members.find(
+    (m) =>
+      m.chamber === 'house' &&
+      m.state === state &&
+      Number(m.district) === Number(district),
+  )
+}
+
+export function memberForSenate(
+  members: Member[],
+  state: string,
+  rank: SenateRank,
+): Member | undefined {
   return members.find(
     (m) => m.chamber === 'senate' && m.state === state && m.senateRank === rank,
   )
+}
+
+function senateFeature(
+  geometry: Geometry,
+  state: string,
+  member: Member | undefined,
+  stanceById: Map<string, Stance>,
+  rank: SenateRank,
+  split?: 'west' | 'east',
+): Feature {
+  const stance = member ? stanceById.get(member.bioguideId) || 'unknown' : 'unknown'
+  const rankLabel = rank === 'senior' ? 'Senior senator' : 'Junior senator'
+  return {
+    type: 'Feature',
+    geometry,
+    properties: {
+      id: split ? `${state}-${rank}-${split}` : `${state}-${rank}`,
+      label: `${stateName(state)} · ${rankLabel}`,
+      memberId: member?.bioguideId,
+      memberName: member?.name,
+      party: member?.party,
+      stance,
+      state,
+      split,
+      senateRank: rank,
+    } satisfies ColoredFeatureProps,
+  }
 }
 
 export function joinSenateFeatures(
   statesGeo: FeatureCollection,
   members: Member[],
   stanceById: Map<string, Stance>,
-  view: 'junior' | 'senior',
+  seat: SenateSeatFilter,
 ): FeatureCollection {
   const features: Feature[] = []
   for (const f of statesGeo.features) {
     const fips = String(f.id ?? f.properties?.STATEFP ?? '').padStart(2, '0')
     const state = FIPS_TO_STATE[fips]
     if (!state || state === 'PR' || state === 'DC') continue
-    const member = memberForView(members, view, state)
-    const stance = member ? stanceById.get(member.bioguideId) || 'unknown' : 'unknown'
-    features.push({
-      type: 'Feature',
-      geometry: f.geometry as Geometry,
-      properties: {
-        id: `${state}-${view}`,
-        label: `${stateName(state)} · ${view} senator`,
-        memberId: member?.bioguideId,
-        memberName: member?.name,
-        party: member?.party,
-        stance,
+    const geometry = f.geometry as Geometry
+    if (seat === 'both') {
+      features.push(
+        senateFeature(
+          geometry,
+          state,
+          memberForSenate(members, state, 'senior'),
+          stanceById,
+          'senior',
+          'west',
+        ),
+        senateFeature(
+          geometry,
+          state,
+          memberForSenate(members, state, 'junior'),
+          stanceById,
+          'junior',
+          'east',
+        ),
+      )
+      continue
+    }
+    features.push(
+      senateFeature(
+        geometry,
         state,
-      } satisfies ColoredFeatureProps,
-    })
+        memberForSenate(members, state, seat),
+        stanceById,
+        seat,
+      ),
+    )
   }
   return { type: 'FeatureCollection', features }
 }
@@ -102,7 +150,7 @@ export function joinHouseFeatures(
     const state = f.properties?.state as string
     const district = Number(f.properties?.district)
     if (!state) continue
-    const member = memberForView(members, 'house', state, district)
+    const member = memberForHouse(members, state, district)
     const stance = member ? stanceById.get(member.bioguideId) || 'unknown' : 'unknown'
     const distLabel = district === 0 ? 'At-Large' : `District ${district}`
     features.push({

@@ -25,8 +25,8 @@ The app is configured for a project site at `/Congress-AI-Map/`.
 
 ## Map views
 
-- **Junior senator** / **Senior senator** — each state colored by that seat (seniority = earlier continuous Senate start date within the state)
-- **House districts** — 119th Congress cartographic boundaries (Census `cb_2025_us_cd119_20m`)
+- **Senate** — by default each state is split (left = senior senator, right = junior). Toggle Both / Junior / Senior to show both seats or one at a time (seniority = earlier continuous Senate start date within the state)
+- **House** — 119th Congress cartographic boundaries (Census `cb_2025_us_cd119_20m`)
 
 Click a seat for quotes/evidence and tracked bill actions with source links.
 

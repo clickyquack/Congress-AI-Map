@@ -1,15 +1,22 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import * as d3 from 'd3'
-import type { FeatureCollection } from 'geojson'
+import type { Feature, FeatureCollection } from 'geojson'
 import { feature } from 'topojson-client'
 import type { Topology, GeometryCollection } from 'topojson-specification'
 import type { ColoredFeatureProps } from '../lib/geo'
 import { joinHouseFeatures, joinSenateFeatures } from '../lib/geo'
-import type { MapView as MapViewMode, Member, PartyFilter, Stance } from '../lib/types'
+import type {
+  MapChamber,
+  Member,
+  PartyFilter,
+  SenateSeatFilter,
+  Stance,
+} from '../lib/types'
 import { STANCE_COLORS, STANCE_SHORT } from '../lib/types'
 
 interface Props {
-  view: MapViewMode
+  chamber: MapChamber
+  senateSeat: SenateSeatFilter
   members: Member[]
   stanceById: Map<string, Stance>
   partyFilter: PartyFilter
@@ -18,8 +25,23 @@ interface Props {
   onSelect: (memberId: string | null) => void
 }
 
+function fillFor(
+  p: ColoredFeatureProps,
+  partyFilter: PartyFilter,
+  stanceFilter: Stance | 'All',
+): string {
+  if (partyFilter !== 'All' && p.party && p.party !== partyFilter) {
+    return '#ebe7de'
+  }
+  if (stanceFilter !== 'All' && p.stance !== stanceFilter) {
+    return '#ebe7de'
+  }
+  return STANCE_COLORS[p.stance] || STANCE_COLORS.unknown
+}
+
 export function MapView({
-  view,
+  chamber,
+  senateSeat,
   members,
   stanceById,
   partyFilter,
@@ -64,13 +86,13 @@ export function MapView({
   }, [])
 
   const joined = useMemo(() => {
-    if (view === 'house') {
+    if (chamber === 'house') {
       if (!districts) return null
       return joinHouseFeatures(districts, members, stanceById)
     }
     if (!statesTopo) return null
-    return joinSenateFeatures(statesTopo, members, stanceById, view)
-  }, [view, members, stanceById, statesTopo, districts])
+    return joinSenateFeatures(statesTopo, members, stanceById, senateSeat)
+  }, [chamber, senateSeat, members, stanceById, statesTopo, districts])
 
   useEffect(() => {
     if (!joined || !svgRef.current) return
@@ -80,58 +102,155 @@ export function MapView({
 
     const projection = d3.geoAlbersUsa().fitSize([size.w, size.h], joined)
     const path = d3.geoPath(projection)
+    const defs = svg.append('defs')
     const g = svg.append('g')
 
-    g.selectAll('path')
-      .data(joined.features)
-      .join('path')
-      .attr('d', (d) => path(d) || '')
-      .attr('fill', (d) => {
-        const p = d.properties as ColoredFeatureProps
-        if (partyFilter !== 'All' && p.party && p.party !== partyFilter) {
-          return '#ebe7de'
-        }
-        if (stanceFilter !== 'All' && p.stance !== stanceFilter) {
-          return '#ebe7de'
-        }
-        return STANCE_COLORS[p.stance] || STANCE_COLORS.unknown
-      })
-      .attr('stroke', (d) => {
-        const p = d.properties as ColoredFeatureProps
-        return p.memberId && p.memberId === selectedId ? '#1a1a1a' : '#f7f4ee'
-      })
-      .attr('stroke-width', (d) => {
-        const p = d.properties as ColoredFeatureProps
-        return p.memberId && p.memberId === selectedId
-          ? 2.2
-          : view === 'house'
-            ? 0.35
-            : 0.8
-      })
-      .style('cursor', (d) =>
-        (d.properties as ColoredFeatureProps).memberId ? 'pointer' : 'default',
-      )
-      .on('mousemove', (event, d) => {
-        const p = d.properties as ColoredFeatureProps
-        if (!p.memberId) return
-        const rect = wrapRef.current!.getBoundingClientRect()
-        setHover({
-          x: event.clientX - rect.left,
-          y: event.clientY - rect.top,
-          props: p,
+    const splitMode = chamber === 'senate' && senateSeat === 'both'
+
+    const bindHover = (
+      selection: d3.Selection<SVGPathElement, Feature, SVGGElement, unknown>,
+    ) => {
+      selection
+        .style('cursor', (d) =>
+          (d.properties as ColoredFeatureProps).memberId ? 'pointer' : 'default',
+        )
+        .on('mousemove', (event, d) => {
+          const p = d.properties as ColoredFeatureProps
+          if (!p.memberId) return
+          const rect = wrapRef.current!.getBoundingClientRect()
+          setHover({
+            x: event.clientX - rect.left,
+            y: event.clientY - rect.top,
+            props: p,
+          })
         })
-      })
-      .on('mouseleave', () => setHover(null))
-      .on('click', (_, d) => {
+        .on('mouseleave', () => setHover(null))
+        .on('click', (_, d) => {
+          const p = d.properties as ColoredFeatureProps
+          if (p.memberId) onSelect(p.memberId)
+        })
+    }
+
+    if (splitMode) {
+      for (const d of joined.features) {
         const p = d.properties as ColoredFeatureProps
-        if (p.memberId) onSelect(p.memberId)
-      })
-  }, [joined, partyFilter, stanceFilter, selectedId, onSelect, view, size])
+        if (!p.split) continue
+        const bounds = path.bounds(d)
+        const centroid = path.centroid(d)
+        if (!bounds || !centroid || Number.isNaN(centroid[0])) continue
+        const pad = 4
+        const [[x0, y0], [x1, y1]] = bounds
+        const cx = centroid[0]
+        const clip = defs.append('clipPath').attr('id', `clip-${p.id}`)
+        if (p.split === 'west') {
+          clip
+            .append('rect')
+            .attr('x', x0 - pad)
+            .attr('y', y0 - pad)
+            .attr('width', Math.max(0, cx - (x0 - pad)))
+            .attr('height', y1 - y0 + pad * 2)
+        } else {
+          clip
+            .append('rect')
+            .attr('x', cx)
+            .attr('y', y0 - pad)
+            .attr('width', Math.max(0, x1 + pad - cx))
+            .attr('height', y1 - y0 + pad * 2)
+        }
+      }
+
+      bindHover(
+        g
+          .selectAll<SVGPathElement, Feature>('path.state-fill')
+          .data(joined.features)
+          .join('path')
+          .attr('class', 'state-fill')
+          .attr('d', (d) => path(d) || '')
+          .attr('clip-path', (d) => {
+            const p = d.properties as ColoredFeatureProps
+            return p.split ? `url(#clip-${p.id})` : null
+          })
+          .attr('fill', (d) =>
+            fillFor(d.properties as ColoredFeatureProps, partyFilter, stanceFilter),
+          )
+          .attr('stroke', 'none') as d3.Selection<
+          SVGPathElement,
+          Feature,
+          SVGGElement,
+          unknown
+        >,
+      )
+
+      const outlined = new Map<string, Feature>()
+      for (const d of joined.features) {
+        const p = d.properties as ColoredFeatureProps
+        if (!outlined.has(p.state)) outlined.set(p.state, d)
+      }
+      g.selectAll('path.state-outline')
+        .data([...outlined.values()])
+        .join('path')
+        .attr('class', 'state-outline')
+        .attr('d', (d) => path(d) || '')
+        .attr('fill', 'none')
+        .attr('stroke', (d) => {
+          const p = d.properties as ColoredFeatureProps
+          const selected = joined.features.some((f) => {
+            const fp = f.properties as ColoredFeatureProps
+            return fp.state === p.state && fp.memberId && fp.memberId === selectedId
+          })
+          return selected ? '#1a1a1a' : '#f7f4ee'
+        })
+        .attr('stroke-width', (d) => {
+          const p = d.properties as ColoredFeatureProps
+          const selected = joined.features.some((f) => {
+            const fp = f.properties as ColoredFeatureProps
+            return fp.state === p.state && fp.memberId && fp.memberId === selectedId
+          })
+          return selected ? 2.2 : 0.8
+        })
+        .style('pointer-events', 'none')
+    } else {
+      bindHover(
+        g
+          .selectAll<SVGPathElement, Feature>('path')
+          .data(joined.features)
+          .join('path')
+          .attr('d', (d) => path(d) || '')
+          .attr('fill', (d) =>
+            fillFor(d.properties as ColoredFeatureProps, partyFilter, stanceFilter),
+          )
+          .attr('stroke', (d) => {
+            const p = d.properties as ColoredFeatureProps
+            return p.memberId && p.memberId === selectedId ? '#1a1a1a' : '#f7f4ee'
+          })
+          .attr('stroke-width', (d) => {
+            const p = d.properties as ColoredFeatureProps
+            return p.memberId && p.memberId === selectedId
+              ? 2.2
+              : chamber === 'house'
+                ? 0.35
+                : 0.8
+          }) as d3.Selection<SVGPathElement, Feature, SVGGElement, unknown>,
+      )
+    }
+  }, [
+    joined,
+    partyFilter,
+    stanceFilter,
+    selectedId,
+    onSelect,
+    chamber,
+    senateSeat,
+    size,
+  ])
 
   return (
     <div className="map-wrap" ref={wrapRef}>
       {!joined && <div className="map-loading">Loading map…</div>}
       <svg ref={svgRef} className="map-svg" role="img" aria-label="US Congress AI stance map" />
+      {chamber === 'senate' && senateSeat === 'both' ? (
+        <p className="map-caption">Left half = senior senator · Right half = junior senator</p>
+      ) : null}
       {hover && (
         <div className="tooltip" style={{ left: hover.x + 12, top: hover.y + 12 }}>
           <div className="tooltip-name">

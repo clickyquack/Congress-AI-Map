@@ -71,8 +71,10 @@ export function AboutPage() {
         <h2>Map and list</h2>
         <ul>
           <li>
-            <strong>Junior / senior senator</strong> — each state is colored by that seat.
-            Seniority is the earlier continuous Senate start date within the state.
+            <strong>Senate</strong> — by default each state is split vertically: left (west)
+            is the senior senator, right (east) is the junior. Use Both / Junior / Senior to
+            show both seats or one at a time. Seniority is the earlier continuous Senate start
+            date within the state.
           </li>
           <li>
             <strong>House districts</strong> — 119th Congress cartographic boundaries (Census{' '}
