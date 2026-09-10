@@ -634,5 +634,95 @@
     "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2938/text",
     "sourceLabel": "Artificial Intelligence Risk Evaluation Act (S.2938) — Hawley sponsor text",
     "notes": "Existing evidence includes existential-risk hearing exchange."
+  },
+  {
+    "name": "Bernie Sanders",
+    "state": "VT",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Nearly every day, there is a frightening new story about how Big Tech companies are losing control of the technology they are developing, with potentially cataclysmic results. The leaders of the major AI companies publicly acknowledge that they do not fully understand the technology and that it is escaping their control. [...] That's why I am introducing legislation to immediately pause the development of increasingly powerful AI and ban the creation of systems that humanity cannot fully control — at home and around the world. The future of humanity cannot be left in the hands of a handful of Big Tech oligarchs.",
+    "date": "2026-09-03",
+    "sourceUrl": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+    "sourceLabel": "Ban Artificial Superintelligence Act press release",
+    "notes": "Announced forthcoming Ban Artificial Superintelligence Act with Rep. Greg Casar. No Congress.gov bill number as of 2026-09-10. Also covered by Washington Post, 2026-09-03."
+  },
+  {
+    "name": "Bernie Sanders",
+    "state": "VT",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Mr. Coxon is right. The very people building this technology admit that it could threaten the future of humanity. That is why I will soon be introducing legislation to ban superintelligence and pause AI development.",
+    "date": "2026-09-09",
+    "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
+    "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
+    "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
+  },
+  {
+    "name": "Chris Murphy",
+    "state": "CT",
+    "stanceImplied": "xrisk_concern",
+    "quote": "If you read anything today, read this. And remember, the problem he articulates - AI companies in a blind race to build a death machine first - can easily be solved. Through a regulatory system that allows the research to continue, but in a way that doesn't destroy us.",
+    "date": "2026-09-09",
+    "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
+    "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
+    "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
+  },
+  {
+    "name": "Patty Murray",
+    "state": "WA",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "If we are smart enough to create such powerful AI, then we are smart enough to regulate it. America can meet the moment, but the clock is ticking. Congress needs to step up and move NOW to protect American lives and safeguard our future.",
+    "date": "2026-09-09",
+    "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
+    "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
+    "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
+  },
+  {
+    "name": "Ted Cruz",
+    "state": "TX",
+    "stanceImplied": "xrisk_concern",
+    "quote": "AI is advancing at an extraordinary pace, and some of the risks are dangerous and frightening. I've been on the forefront of this issue in the Senate. I wrote and passed the TAKE IT DOWN Act, the only legislation Congress has enacted restricting AI [...]. We cannot stick our heads in the sand and pretend this technology isn't happening. We need guardrails. But America needs to lead.",
+    "date": "2026-09-09",
+    "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
+    "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
+    "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread. Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+  },
+  {
+    "name": "Chris Van Hollen",
+    "state": "MD",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Anyone still denying the risks posed by unregulated AI should read this thread. It's time to pump the brakes & take action NOW. We need: - Mandatory safeguards - A comprehensive testing regime - Urgent dialogue with China, before & during President Xi's visit to DC this month.",
+    "date": "2026-09-09",
+    "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
+    "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
+    "notes": "Public post amplifying Jacob Coxon's warning that labs are racing to superintelligence that could kill everyone this decade; compiled in @daniel_271828 congressional-response thread."
+  },
+  {
+    "name": "Mark Kelly",
+    "state": "AZ",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "AI is moving fast and we need to act now. Almost a year ago, I released AI for America because I believe we need to be proactive on AI, both harnessing its potential so it benefits working people and protecting against the worst outcomes it could lead to. The reality is that the Big Tech approach of 'build fast and break things' is not the right one for AI, and Washington needs to wake up and take this seriously.",
+    "date": "2026-09-09",
+    "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
+    "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
+    "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
+  },
+  {
+    "name": "Ruben Gallego",
+    "state": "AZ",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Most recently, an Anthropic researcher who previously worked at OpenAI resigned from the AI industry, warning about a race to develop increasingly powerful and potentially uncontrollable systems and arguing that government intervention may ultimately be necessary. [...] Leading AI researchers have warned that increasingly autonomous systems could create risks ranging from large-scale misuse to circumstances in which humans have difficulty maintaining meaningful control over advanced systems. That warning follows a broader 2023 public statement [...] declaring that mitigating the risk of extinction from AI should be a global priority on par with pandemics and nuclear war.",
+    "date": "2026-09-09",
+    "sourceUrl": "https://www.gallego.senate.gov/wp-content/uploads/2026/09/9-9-2026-AI-Select-Committee-Letter.pdf",
+    "sourceLabel": "Letter urging a Senate Select Committee on AI",
+    "notes": "Also posted the CAIS extinction-risk statement on X while urging an immediate bipartisan Senate Select Committee on Artificial Intelligence."
+  },
+  {
+    "name": "Lisa Blunt Rochester",
+    "state": "DE",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Even if there was a 1% chance AI could wipe out human life, we should be pumping the brakes to make sure we have the proper safeguards in place, not racing blindly into disaster. It's time for Congress to step in and find the balance between safety and innovation, before it's too late.",
+    "date": "2026-09-09",
+    "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
+    "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
+    "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
   }
 ]

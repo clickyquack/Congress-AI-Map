@@ -645,6 +645,31 @@ async function main() {
     })
   }
 
+  // X-risk quotes that also stress not losing an AI race with China.
+  const chinaRaceNote =
+    'Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous.'
+  const chinaRaceAmbiguous = [
+    ['Ted Cruz', 'TX'],
+    ['Dusty Johnson', 'SD'],
+    ['Pete Ricketts', 'NE'],
+    ['Nathaniel Moran', 'TX'],
+    ['Kevin Kiley', 'CA'],
+    ['Raja Krishnamoorthi', 'IL'],
+    ['Elijah Crane', 'AZ'],
+  ]
+  for (const [name, state] of chinaRaceAmbiguous) {
+    const m = findByNameState(members, name, state)
+    if (!m) {
+      console.log('China-race note unmatched:', name, state)
+      continue
+    }
+    for (const e of evidence) {
+      if (e.bioguideId !== m.bioguideId || e.stanceImplied !== 'xrisk_concern') continue
+      if (e.notes?.includes(chinaRaceNote)) continue
+      e.notes = e.notes ? `${e.notes} ${chinaRaceNote}` : chinaRaceNote
+    }
+  }
+
   const bills = [
     {
       id: 'hr9925-119',
