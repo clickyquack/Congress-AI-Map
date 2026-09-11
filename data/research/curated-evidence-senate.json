@@ -678,12 +678,22 @@
   {
     "name": "Ted Cruz",
     "state": "TX",
-    "stanceImplied": "xrisk_concern",
+    "stanceImplied": "opposes_domestic",
     "quote": "AI is advancing at an extraordinary pace, and some of the risks are dangerous and frightening. I've been on the forefront of this issue in the Senate. I wrote and passed the TAKE IT DOWN Act, the only legislation Congress has enacted restricting AI [...]. We cannot stick our heads in the sand and pretend this technology isn't happening. We need guardrails. But America needs to lead.",
     "date": "2026-09-09",
     "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
     "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
     "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread. Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+  },
+  {
+    "name": "Ted Cruz",
+    "state": "TX",
+    "stanceImplied": "opposes_domestic",
+    "quote": "If we allow Dems to strangle American AI—and hand global AI leadership to China—it would be utterly catastrophic.",
+    "date": "2026-09-10",
+    "sourceUrl": "https://x.com/tedcruz/status/2098073695864430868",
+    "sourceLabel": "X post opposing Democratic AI regulation",
+    "notes": "Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
   },
   {
     "name": "Chris Van Hollen",

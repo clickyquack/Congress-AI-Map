@@ -645,10 +645,14 @@ async function main() {
     })
   }
 
-  // X-risk quotes that also stress not losing an AI race with China.
+  // X-risk language whose main concern is China winning the AI race → red
+  // (opposes_domestic). Keep a caveat on the quote. Stay x-risk if they also
+  // call for international governance agreements with China.
   const chinaRaceNote =
     'Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous.'
-  const chinaRaceAmbiguous = [
+  const chinaGovernanceRe =
+    /agreement with china|agreements with china|dialogue with china|international agreements?.{0,80}\bchina\b|\bchina\b.{0,80}(safety|containment|liability|governance) agreement/i
+  const chinaRacePrimary = [
     ['Ted Cruz', 'TX'],
     ['Dusty Johnson', 'SD'],
     ['Pete Ricketts', 'NE'],
@@ -657,16 +661,23 @@ async function main() {
     ['Raja Krishnamoorthi', 'IL'],
     ['Elijah Crane', 'AZ'],
   ]
-  for (const [name, state] of chinaRaceAmbiguous) {
+  for (const [name, state] of chinaRacePrimary) {
     const m = findByNameState(members, name, state)
     if (!m) {
       console.log('China-race note unmatched:', name, state)
       continue
     }
+    const wantsChinaDeal = evidence.some(
+      (e) =>
+        e.bioguideId === m.bioguideId &&
+        chinaGovernanceRe.test(`${e.quote} ${e.notes || ''} ${e.sourceLabel || ''}`),
+    )
     for (const e of evidence) {
       if (e.bioguideId !== m.bioguideId || e.stanceImplied !== 'xrisk_concern') continue
-      if (e.notes?.includes(chinaRaceNote)) continue
-      e.notes = e.notes ? `${e.notes} ${chinaRaceNote}` : chinaRaceNote
+      if (!e.notes?.includes(chinaRaceNote)) {
+        e.notes = e.notes ? `${e.notes} ${chinaRaceNote}` : chinaRaceNote
+      }
+      if (!wantsChinaDeal) e.stanceImplied = 'opposes_domestic'
     }
   }
 
