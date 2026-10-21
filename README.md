@@ -33,7 +33,7 @@ Click a seat for quotes/evidence and tracked bill actions with source links.
 ## Stance taxonomy (highest wins)
 
 1. **Long-term / existential risk concern** — explicit public discussion of AGI, superintelligence, loss of control, existential risk, recursive self-improvement, or the Singularity (primarily [AIPN Congress on Superintelligence](https://theaipn.org/issue/quotes/))
-2. **Supports stronger-risk regulation** — sponsor/cosponsor/support for frontier catastrophic-risk bills (e.g. FRONTIER Act, AI Kill Switch Act, RISE Act) without public x-risk concern
+2. **Supports stronger-risk regulation** — sponsor/cosponsor/support for frontier catastrophic-risk bills (e.g. FRONTIER Act, AI Kill Switch Act, RISE Act) without public x-risk concern. Cosponsors of the Ban Artificial Superintelligence Act (S.5493 / H.R.10538) are classified as x-risk concern because the bill is explicitly framed around banning superintelligence.
 3. **Opposes domestic AI regulation** — sourced opposition to domestic AI rulemaking (e.g. state AI regulation moratorium). Chip/compute security and international governance bills are tracked in the list but **do not** move stance. Outranks AI ethical-concern support when both exist.
 4. **AI ethical concerns** — deepfakes, consumer harms, likeness protection (e.g. NO FAKES Act), etc.
 5. **Unknown** — no sourced signal yet (majority of members after this research pass)
@@ -48,7 +48,7 @@ Display stance is **recomputed** in `src/lib/classify.ts` from `evidence.json` +
 |------|--------|
 | `data/members.json` | [unitedstates/congress-legislators](https://unitedstates.github.io/congress-legislators/legislators-current.json) |
 | `data/evidence.json` | AIPN quotes page (`RAW_DATA`) + curated statements |
-| `data/bills.json` / `actions.json` | Congress.gov / press (FRONTIER H.R.9925, Kill Switch H.R.9917, RISE S.2081, NO FAKES S.1367 / S.4591, Chip Security S.1705, Future of AI Innovation S.3952, …) |
+| `data/bills.json` / `actions.json` | Congress.gov / press (FRONTIER H.R.9925, Kill Switch H.R.9917, Ban ASI S.5493 / H.R.10538, RISE S.2081, NO FAKES S.1367 / S.4591, Chip Security S.1705, Future of AI Innovation S.3952, …) |
 | `public/geo/districts-119.json` | Census CD119 shapefile → GeoJSON via `scripts/build-data.mjs` |
 
 Refresh: `npm run build:data` (re-parses saved AIPN HTML in `data/aipn-quotes.json` and legislators JSON).

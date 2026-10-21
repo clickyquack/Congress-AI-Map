@@ -643,7 +643,7 @@
     "date": "2026-09-03",
     "sourceUrl": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
     "sourceLabel": "Ban Artificial Superintelligence Act press release",
-    "notes": "Announced forthcoming Ban Artificial Superintelligence Act with Rep. Greg Casar. No Congress.gov bill number as of 2026-09-10. Also covered by Washington Post, 2026-09-03."
+    "notes": "Introduced S.5493 (Ban Artificial Superintelligence Act of 2026) with Rep. Greg Casar. Also covered by Washington Post, 2026-09-03."
   },
   {
     "name": "Bernie Sanders",
@@ -734,5 +734,115 @@
     "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
     "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
     "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
+  },
+  {
+    "name": "Bernie Sanders",
+    "state": "VT",
+    "stanceImplied": "xrisk_concern",
+    "quote": "Scientists have been clear: AI is an existential threat to humanity. It must be treated as such. This legislation will permanently ban the development of artificial superintelligence and would put in place an immediate pause on advanced AI development until we have clear safety rules in place.",
+    "date": "2026-09-23",
+    "sourceUrl": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development/",
+    "sourceLabel": "Ban Artificial Superintelligence Act introduction (S.5493)"
+  },
+  {
+    "name": "Ted Cruz",
+    "state": "TX",
+    "stanceImplied": "xrisk_concern",
+    "quote": "AI poses a catastrophic risk.",
+    "date": "2026-09-10",
+    "sourceUrl": "https://aipolicydaily.org/archive/daily/2026-09-10/",
+    "sourceLabel": "AI Policy Daily (ABC The View interview, via Guardian)",
+    "notes": "Also recounted Elon Musk putting odds of AI wiping out humanity at 10–20%. Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+  },
+  {
+    "name": "John Thune",
+    "state": "SD",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Called for a light-touch framework on AI.",
+    "date": "2026-10-09",
+    "sourceUrl": "https://www.transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation",
+    "sourceLabel": "Transformer Weekly (Oct 9, 2026)"
+  },
+  {
+    "name": "Chuck Schumer",
+    "state": "NY",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "Americans are calling for real solutions, real guardrails, real solutions on AI. [...] Democrats would require safety standards to protect the American people. A guardrail without teeth isn't a guardrail.",
+    "date": "2026-09-30",
+    "sourceUrl": "https://www.democrats.senate.gov/news/press-releases/leader-schumer-floor-remarks-urging-senate-republicans-to-join-democrats-to-take-real-action-on-ai",
+    "sourceLabel": "Senate floor remarks after White House AI summit"
+  },
+  {
+    "name": "Josh Hawley",
+    "state": "MO",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "Announced a Homeland Security Subcommittee on Disaster Management investigation into the OpenAI Hugging Face hack.",
+    "date": "2026-09-11",
+    "sourceUrl": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+    "sourceLabel": "Transformer Weekly (Sep 11, 2026)"
+  },
+  {
+    "name": "Bernie Moreno",
+    "state": "OH",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Warned Dario Amodei against alarmist and panic-inducing AI commentary.",
+    "date": "2026-10-09",
+    "sourceUrl": "https://www.transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation",
+    "sourceLabel": "Transformer Weekly (Oct 9, 2026)"
+  },
+  {
+    "name": "Maria Cantwell",
+    "state": "WA",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "Published a legislative framework calling for constant oversight of frontier models by both the government and independent experts.",
+    "date": "2026-10-09",
+    "sourceUrl": "https://www.transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation",
+    "sourceLabel": "Transformer Weekly (Oct 9, 2026)"
+  },
+  {
+    "name": "Mark R. Warner",
+    "state": "VA",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "The whole world has recognized that we've got to do something.",
+    "date": "2026-09-29",
+    "sourceUrl": "https://www.politico.com/live-updates/2026/09/29/congress/cruz-blocks-senate-democrats-bid-to-pass-ai-safety-bill-01097480",
+    "sourceLabel": "Senate floor (Artificial Intelligence Risk Management and Security Act UC request)"
+  },
+  {
+    "name": "Brian Schatz",
+    "state": "HI",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "Cosponsored the Artificial Intelligence Risk Management and Security Act unanimous-consent request blocked on the Senate floor.",
+    "date": "2026-09-29",
+    "sourceUrl": "https://www.politico.com/live-updates/2026/09/29/congress/cruz-blocks-senate-democrats-bid-to-pass-ai-safety-bill-01097480",
+    "sourceLabel": "Politico Live Updates"
+  },
+  {
+    "name": "Andy Kim",
+    "state": "NJ",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "Cosponsored the Artificial Intelligence Risk Management and Security Act unanimous-consent request blocked on the Senate floor.",
+    "date": "2026-09-29",
+    "sourceUrl": "https://www.politico.com/live-updates/2026/09/29/congress/cruz-blocks-senate-democrats-bid-to-pass-ai-safety-bill-01097480",
+    "sourceLabel": "Politico Live Updates"
+  },
+  {
+    "name": "John Kennedy",
+    "state": "LA",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "Tried to pass an AI kill switch bill by unanimous consent on the Senate floor.",
+    "date": "2026-09-18",
+    "sourceUrl": "https://www.transformernews.ai/p/trump-ai-stance-is-politically-toxic",
+    "sourceLabel": "Transformer Weekly (Sep 18, 2026)",
+    "notes": "Blocked by Sen. Rand Paul."
+  },
+  {
+    "name": "Susan M. Collins",
+    "state": "ME",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "The best path forward will balance a recognition of AI's promise … with its risks.",
+    "date": "2026-09-18",
+    "sourceUrl": "https://www.transformernews.ai/p/trump-ai-stance-is-politically-toxic",
+    "sourceLabel": "Transformer Weekly (Sep 18, 2026)"
   }
 ]

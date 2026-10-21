@@ -160,5 +160,25 @@
     "title": "U.S. Leadership in Standards Act of 2025",
     "category": "international",
     "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1269"
+  },
+  {
+    "id": "s5493-119",
+    "congress": 119,
+    "billType": "s",
+    "number": 5493,
+    "title": "Ban Artificial Superintelligence Act of 2026",
+    "category": "strong_risk",
+    "supportStance": "xrisk_concern",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5493"
+  },
+  {
+    "id": "hr10538-119",
+    "congress": 119,
+    "billType": "hr",
+    "number": 10538,
+    "title": "Ban Artificial Superintelligence Act of 2026",
+    "category": "strong_risk",
+    "supportStance": "xrisk_concern",
+    "congressGovUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10538"
   }
 ]

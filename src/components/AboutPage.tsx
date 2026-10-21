@@ -48,9 +48,9 @@ export function AboutPage() {
                   {i + 1}. {STANCE_LABELS[s]}
                 </strong>
                 {s === 'xrisk_concern' &&
-                  ' — explicit public discussion of AGI, superintelligence, loss of control, existential risk, recursive self-improvement, or the Singularity (primarily AIPN Congress on Superintelligence).'}
+                  ' — explicit public discussion of AGI, superintelligence, loss of control, existential risk, recursive self-improvement, or the Singularity (primarily AIPN Congress on Superintelligence), or sponsor/cosponsor of the Ban Artificial Superintelligence Act (S.5493 / H.R.10538), which opens with that focus.'}
                 {s === 'strong_risk_reg' &&
-                  ' — sponsor, cosponsor, or support for frontier catastrophic-risk bills (for example the FRONTIER Act, AI Kill Switch Act, or RISE Act) without a public x-risk statement.'}
+                  ' — sponsor, cosponsor, or support for other frontier catastrophic-risk bills (for example the FRONTIER Act, AI Kill Switch Act, or RISE Act) without a public x-risk statement.'}
                 {s === 'mundane_risk' &&
                   ' — support for addressing AI ethical concerns such as deepfakes, consumer harms, likeness protection, and similar issues (for example the NO FAKES Act).'}
                 {s === 'opposes_domestic' &&
@@ -112,7 +112,8 @@ export function AboutPage() {
             , plus other curated public statements
           </li>
           <li>
-            Bills and actions: Congress.gov and press (including FRONTIER H.R.9925, Kill
+            Bills and actions: Congress.gov and press (including FRONTIER H.R.9925, Ban
+            ASI S.5493 / H.R.10538, Kill
             Switch H.R.9917, RISE S.2081, NO FAKES S.1367 / S.4591, Chip Security S.1705,
             Future of AI Innovation S.3952)
           </li>

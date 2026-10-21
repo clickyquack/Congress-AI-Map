@@ -47,6 +47,8 @@ export interface Bill {
   title: string
   category: BillCategory
   congressGovUrl: string
+  /** Stance implied by sponsor/cosponsor/vote_yea; defaults from category. */
+  supportStance?: Stance
 }
 
 export type LegislativeActionType =

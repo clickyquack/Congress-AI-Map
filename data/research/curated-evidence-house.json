@@ -2181,7 +2181,7 @@
     "date": "2026-09-03",
     "sourceUrl": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
     "sourceLabel": "Ban Artificial Superintelligence Act press release",
-    "notes": "House lead on forthcoming Ban Artificial Superintelligence Act with Sen. Bernie Sanders. No Congress.gov bill number as of 2026-09-10."
+    "notes": "Sponsor of H.R.10538 (Ban Artificial Superintelligence Act of 2026) with Sen. Bernie Sanders."
   },
   {
     "name": "Greg Casar",
@@ -2372,5 +2372,69 @@
     "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
     "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
     "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
+  },
+  {
+    "name": "Greg Casar",
+    "state": "TX",
+    "stanceImplied": "xrisk_concern",
+    "quote": "You can think of superintelligent AI as like an AI superweapon — artificial intelligence that becomes smarter than humans, impossible for us to control, able to defy commands to be turned off and that could have the capability of developing nuclear weapons or other weapons of mass destruction.",
+    "date": "2026-09-14",
+    "sourceUrl": "https://www.npr.org/2026/09/14/nx-s1-5968058/texas-rep-greg-casar-discusses-bill-to-temporarily-pause-advanced-ai-development",
+    "sourceLabel": "NPR Morning Edition interview"
+  },
+  {
+    "name": "Ro Khanna",
+    "state": "CA",
+    "stanceImplied": "xrisk_concern",
+    "quote": "I agree with that, but we need more. I mean, why would we want superintelligence without any federal agency? [...] we should certainly ban it, and we should pause what I call recursive self-improvement AI. [...] if the model starts training itself and gets better and better and better, there's no potential end to it. And that's where we could lose control.",
+    "date": "2026-09-16",
+    "sourceUrl": "https://exa.ai/library/podcast/cvtp9rcf0n3/episode/pfmxwhdx8bv",
+    "sourceLabel": "Make It Make Sense podcast"
+  },
+  {
+    "name": "Ro Khanna",
+    "state": "CA",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "The truth is for too long, too many of us did not give enough weight to the warnings of AI safety activists, thinking the extreme scenarios were science fiction. I was one of those many, and I was wrong. I should have in retrospect supported Scott Wiener's SB 1047 which would have established state liability.",
+    "date": "2026-09-11",
+    "sourceUrl": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+    "sourceLabel": "Transformer Weekly (Sep 11, 2026)"
+  },
+  {
+    "name": "Brett Guthrie",
+    "state": "KY",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "If [a model] goes rogue, you can stop it. [...] to make sure they have those [kill switches] in place to do it.",
+    "date": "2026-10-08",
+    "sourceUrl": "https://punchbowl.news/article/tech/guthrie-kill-switch-ai/",
+    "sourceLabel": "Punchbowl News Tech Summit",
+    "notes": "Also said halting AI development is not an option and opposed a development moratorium (MeriTalk, Oct 8, 2026)."
+  },
+  {
+    "name": "Hakeem Jeffries",
+    "state": "NY",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "Congress must take decisive action now to slow down the pace of development on AI to protect Americans.",
+    "date": "2026-09-18",
+    "sourceUrl": "https://www.transformernews.ai/p/trump-ai-stance-is-politically-toxic",
+    "sourceLabel": "Transformer Weekly (Sep 18, 2026)"
+  },
+  {
+    "name": "Josh Gottheimer",
+    "state": "NJ",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "Called for mandatory government review of frontier AI models before public release.",
+    "date": "2026-09-18",
+    "sourceUrl": "https://www.transformernews.ai/p/trump-ai-stance-is-politically-toxic",
+    "sourceLabel": "Transformer Weekly (Sep 18, 2026)"
+  },
+  {
+    "name": "Sam Liccardo",
+    "state": "CA",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "An exponential 'intelligence explosion' could leave us with a dystopian tyranny of AI agents we only imagined in sci-fi novels … Congress should enact sensible measures mandating AI transparency, pre-release evaluation, ongoing testing, third-party auditing, and the like.",
+    "date": "2026-09-04",
+    "sourceUrl": "https://www.transformernews.ai/p/congress-goes-quiet-as-ai-safety-concerns-grow",
+    "sourceLabel": "Transformer Weekly (Sep 4, 2026)"
   }
 ]

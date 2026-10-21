@@ -27,6 +27,7 @@ function stanceFromAction(
     action.action === 'cosponsor' ||
     action.action === 'vote_yea'
   ) {
+    if (bill.supportStance) return bill.supportStance
     if (bill.category === 'strong_risk') return 'strong_risk_reg'
     if (bill.category === 'ethics') return 'mundane_risk'
   }

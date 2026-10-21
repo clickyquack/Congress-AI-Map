@@ -18,6 +18,76 @@ function loadJsonIfExists(filePath, fallback) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'))
 }
 
+const STANCE_RANK = {
+  xrisk_concern: 5,
+  strong_risk_reg: 4,
+  opposes_domestic: 3,
+  mundane_risk: 2,
+  unknown: 1,
+}
+
+function stanceFromActionForBuild(action, bill) {
+  if (!bill || bill.category === 'other' || bill.category === 'chip_security' || bill.category === 'international') {
+    return null
+  }
+  if (action.action === 'vote_nay') {
+    if (bill.category === 'strong_risk' || bill.category === 'ethics') return 'opposes_domestic'
+    return null
+  }
+  if (['sponsor', 'cosponsor', 'vote_yea'].includes(action.action)) {
+    if (bill.supportStance) return bill.supportStance
+    if (bill.category === 'strong_risk') return 'strong_risk_reg'
+    if (bill.category === 'ethics') return 'mundane_risk'
+  }
+  return null
+}
+
+function classifyMemberForPac(bioguideId, evidence, actions, bills) {
+  const billById = new Map(bills.map((b) => [b.id, b]))
+  let best = 'unknown'
+  for (const e of evidence) {
+    if (e.bioguideId !== bioguideId) continue
+    if (e.stanceImplied === 'unknown') continue
+    if (STANCE_RANK[e.stanceImplied] > STANCE_RANK[best]) best = e.stanceImplied
+  }
+  for (const a of actions) {
+    if (a.bioguideId !== bioguideId) continue
+    const implied = stanceFromActionForBuild(a, billById.get(a.billId))
+    if (!implied) continue
+    if (STANCE_RANK[implied] > STANCE_RANK[best]) best = implied
+  }
+  return best
+}
+
+function mergePacInferredEvidence(members, evidence, actions, bills, entries, eidRef) {
+  for (const e of entries) {
+    const m = findByNameState(members, e.name, e.state)
+    if (!m) {
+      console.log('PAC inferred unmatched:', e.name, e.state)
+      continue
+    }
+    const stance = classifyMemberForPac(m.bioguideId, evidence, actions, bills)
+    if (stance !== 'unknown' && stance !== 'mundane_risk') continue
+    const already = evidence.some(
+      (x) =>
+        x.bioguideId === m.bioguideId &&
+        x.sourceUrl === e.sourceUrl &&
+        x.quote === e.quote,
+    )
+    if (already) continue
+    evidence.push({
+      id: `ev-${eidRef.v++}`,
+      bioguideId: m.bioguideId,
+      stanceImplied: e.stanceImplied || 'unknown',
+      quote: e.quote,
+      date: e.date,
+      sourceUrl: e.sourceUrl,
+      sourceLabel: e.sourceLabel,
+      notes: e.notes,
+    })
+  }
+}
+
 function mergeCuratedEvidence(members, evidence, entries, eidRef) {
   for (const e of entries) {
     const m = findByNameState(members, e.name, e.state)
@@ -844,6 +914,26 @@ async function main() {
       category: 'international',
       congressGovUrl: 'https://www.congress.gov/bill/119th-congress/senate-bill/1269',
     },
+    {
+      id: 's5493-119',
+      congress: 119,
+      billType: 's',
+      number: 5493,
+      title: 'Ban Artificial Superintelligence Act of 2026',
+      category: 'strong_risk',
+      supportStance: 'xrisk_concern',
+      congressGovUrl: 'https://www.congress.gov/bill/119th-congress/senate-bill/5493',
+    },
+    {
+      id: 'hr10538-119',
+      congress: 119,
+      billType: 'hr',
+      number: 10538,
+      title: 'Ban Artificial Superintelligence Act of 2026',
+      category: 'strong_risk',
+      supportStance: 'xrisk_concern',
+      congressGovUrl: 'https://www.congress.gov/bill/119th-congress/house-bill/10538',
+    },
   ]
 
   // Sponsors / cosponsors from public reporting (Congress.gov / press)
@@ -983,6 +1073,21 @@ async function main() {
     // U.S. Leadership in Standards Act (international AI standards)
     ['Marsha Blackburn', 'TN', 's1269-119', 'sponsor', '2025-04-02'],
     ['Mark R. Warner', 'VA', 's1269-119', 'cosponsor', '2025-04-02'],
+    // Ban Artificial Superintelligence Act of 2026
+    ['Bernie Sanders', 'VT', 's5493-119', 'sponsor', '2026-09-23'],
+    ['Greg Casar', 'TX', 'hr10538-119', 'sponsor', '2026-09-24'],
+    ['Ro Khanna', 'CA', 'hr10538-119', 'cosponsor', '2026-09-24'],
+    ['Analilia Mejia', 'NJ', 'hr10538-119', 'cosponsor', '2026-09-24'],
+    ['Yassamin Ansari', 'AZ', 'hr10538-119', 'cosponsor', '2026-09-24'],
+    ['Val T. Hoyle', 'OR', 'hr10538-119', 'cosponsor', '2026-09-24'],
+    ['Stephen F. Lynch', 'MA', 'hr10538-119', 'cosponsor', '2026-09-24'],
+    ['Jesús G. "Chuy" García', 'IL', 'hr10538-119', 'cosponsor', '2026-09-24'],
+    ['Christopher R. Deluzio', 'PA', 'hr10538-119', 'cosponsor', '2026-09-24'],
+    ['Adelita S. Grijalva', 'AZ', 'hr10538-119', 'cosponsor', '2026-09-24'],
+    ['Nydia M. Velázquez', 'NY', 'hr10538-119', 'cosponsor', '2026-09-24'],
+    ['Alexandria Ocasio-Cortez', 'NY', 'hr10538-119', 'cosponsor', '2026-09-28'],
+    ['Emily Randall', 'WA', 'hr10538-119', 'cosponsor', '2026-10-01'],
+    ['Paul Tonko', 'NY', 'hr10538-119', 'cosponsor', '2026-10-13'],
   ]
 
   const actions = []
@@ -1037,6 +1142,14 @@ async function main() {
       sourceUrl: bill?.congressGovUrl,
     })
   }
+
+  const pacCurated = loadJsonIfExists(
+    path.join(researchDir, 'pac-inferred-evidence.json'),
+    [],
+  )
+  const pacEidRef = { v: eid }
+  mergePacInferredEvidence(members, evidence, actions, bills, pacCurated, pacEidRef)
+  eid = pacEidRef.v
 
   const houseProgress = loadJsonIfExists(
     path.join(researchDir, 'house-progress.json'),

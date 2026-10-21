@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Richard McCormick",
+    "state": "GA",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from American Mission, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-10-16",
+    "sourceUrl": "https://elections.transformernews.ai/",
+    "sourceLabel": "Transformer AI Campaign Finance Tracker",
+    "notes": "FEC independent expenditure supporting Richard McCormick in GA House District 07 ($12,500, Oct 16, 2026)."
+  },
+  {
+    "name": "Jay Obernolte",
+    "state": "CA",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from American Mission, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-10-14",
+    "sourceUrl": "https://elections.transformernews.ai/",
+    "sourceLabel": "Transformer AI Campaign Finance Tracker",
+    "notes": "FEC independent expenditure supporting Jay Obernolte in CA House District 23 ($140,448, Oct 14, 2026)."
+  },
+  {
+    "name": "John Joyce",
+    "state": "PA",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from American Mission, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-10-12",
+    "sourceUrl": "https://elections.transformernews.ai/",
+    "sourceLabel": "Transformer AI Campaign Finance Tracker",
+    "notes": "FEC independent expenditure supporting John Joyce in PA House District 13 ($196,078, Oct 12, 2026)."
+  },
+  {
+    "name": "Guy Reschenthaler",
+    "state": "PA",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from American Mission, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-10-12",
+    "sourceUrl": "https://elections.transformernews.ai/",
+    "sourceLabel": "Transformer AI Campaign Finance Tracker",
+    "notes": "FEC independent expenditure supporting Guy Reschenthaler in PA House District 14 ($199,369, Oct 12, 2026)."
+  },
+  {
+    "name": "Mike Haridopolos",
+    "state": "FL",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from American Mission, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-10-10",
+    "sourceUrl": "https://elections.transformernews.ai/",
+    "sourceLabel": "Transformer AI Campaign Finance Tracker",
+    "notes": "FEC independent expenditure supporting Mike Haridopolos in FL House District 08 ($194,627, Oct 10, 2026)."
+  },
+  {
+    "name": "Darline Graham",
+    "state": "SC",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from Building the Future, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-10-15",
+    "sourceUrl": "https://elections.transformernews.ai/",
+    "sourceLabel": "Transformer AI Campaign Finance Tracker",
+    "notes": "FEC independent expenditures supporting Darline Graham in SC Senate ($888,914 and $407,500, Oct 15, 2026)."
+  },
+  {
+    "name": "Joseph D. Morelle",
+    "state": "NY",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from Think Big, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-10-13",
+    "sourceUrl": "https://elections.transformernews.ai/",
+    "sourceLabel": "Transformer AI Campaign Finance Tracker",
+    "notes": "FEC independent expenditure supporting Joseph D. Morelle in NY House District 25 ($55,581, Oct 13, 2026). Leading the Future network also announced six-figure general-election support (Sep 25, 2026)."
+  },
+  {
+    "name": "Emilia Strong Sykes",
+    "state": "OH",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from Leading the Future, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-09-25",
+    "sourceUrl": "https://www.transformernews.ai/p/trump-cant-stop-ai-governance",
+    "sourceLabel": "Transformer Weekly (Sep 25, 2026)",
+    "notes": "Leading the Future super PAC announced six-figure general-election support for Rep. Emilia Sykes."
+  },
+  {
+    "name": "Steven Horsford",
+    "state": "NV",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from Leading the Future, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-09-25",
+    "sourceUrl": "https://www.transformernews.ai/p/trump-cant-stop-ai-governance",
+    "sourceLabel": "Transformer Weekly (Sep 25, 2026)",
+    "notes": "Leading the Future super PAC announced six-figure general-election support for Rep. Steven Horsford."
+  },
+  {
+    "name": "Greg Stanton",
+    "state": "AZ",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from Leading the Future, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-09-25",
+    "sourceUrl": "https://www.transformernews.ai/p/trump-cant-stop-ai-governance",
+    "sourceLabel": "Transformer Weekly (Sep 25, 2026)",
+    "notes": "Leading the Future super PAC announced six-figure general-election support for Rep. Greg Stanton."
+  },
+  {
+    "name": "Nathaniel Moran",
+    "state": "TX",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from American Mission, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-10-01",
+    "sourceUrl": "https://aivoteguide.org/pacs",
+    "sourceLabel": "Transformer-aligned FEC tracker (via AI Vote Guide)",
+    "notes": "Reported ~$200K American Mission independent expenditure supporting Nathaniel Moran in TX-01 (Oct 2026 filings)."
+  },
+  {
+    "name": "Jared Moskowitz",
+    "state": "FL",
+    "stanceImplied": "opposes_domestic",
+    "quote": "Inferred: received support from American Mission, a pro-industry super PAC (pro-innovation).",
+    "date": "2026-06-01",
+    "sourceUrl": "https://elections.transformernews.ai/",
+    "sourceLabel": "Transformer AI Campaign Finance Tracker",
+    "notes": "FEC independent expenditure supporting Jared Moskowitz in FL House District 25 ($321,574, per tracker race summary)."
+  },
+  {
+    "name": "Valerie P. Foushee",
+    "state": "NC",
+    "stanceImplied": "strong_risk_reg",
+    "quote": "Inferred: received support from Tomorrow Together, a pro-safety super PAC.",
+    "date": "2026-06-01",
+    "sourceUrl": "https://elections.transformernews.ai/",
+    "sourceLabel": "Transformer AI Campaign Finance Tracker",
+    "notes": "Pro-safety independent expenditures supporting Valerie Foushee in NC House District 04 ($1.62M total per tracker race summary)."
+  }
+]
