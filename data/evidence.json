@@ -97,27 +97,27 @@
     "date": "2025-06-25",
     "sourceUrl": "https://www.youtube.com/live/GDNrUZBZDA4?si=J5X6EcYy1t_qcNam&t=3587",
     "sourceLabel": "Committee on the CCP hearing, Authoritarians and Algorithms: Why U.S. AI Must Lead.",
-    "notes": "Sourced via AIPN Congress on Superintelligence Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Sourced via AIPN Congress on Superintelligence Classified as opposing domestic AI regulation because this statement prioritizes U.S. winning the global AI race over existential-risk framing."
   },
   {
     "id": "ev-11",
     "bioguideId": "C001132",
-    "stanceImplied": "opposes_domestic",
+    "stanceImplied": "xrisk_concern",
     "quote": "Can you clarify to us what singularity means in the past? [...] It's Skynet. Skynet? Is that what we're thinking?",
     "date": "2025-07-22",
     "sourceUrl": "https://www.youtube.com/live/q4iMl7iUD6E?si=VFCKaCLPQWGJH4Mq&t=1632",
     "sourceLabel": "From a bipartisan roundtable on AI.",
-    "notes": "Sourced via AIPN Congress on Superintelligence Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Sourced via AIPN Congress on Superintelligence"
   },
   {
     "id": "ev-12",
     "bioguideId": "C001132",
-    "stanceImplied": "opposes_domestic",
+    "stanceImplied": "xrisk_concern",
     "quote": "Does anyone on this panel feel or believe in any way as we are going down the road in this AI race we might be simultaneously engineering our own destruction? [...] We're seeing reports that Anthropic's Claude [Mythos] has been deemed too powerful and dangerous for public release and how it could be weaponized against banks, hospitals, energy grids, etc. [...] In the event that this some of this technology was to fall into the wrong hands, what keeps you guys up at night in relation to these powerful AI systems?",
     "date": "2026-04-17",
     "sourceUrl": "https://oversight.house.gov/roundtable/artificial-intelligence-and-american-power-leadership-security-and-prosperity/",
     "sourceLabel": "AI and American Power roundtable",
-    "notes": "Sourced via AIPN Congress on Superintelligence Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Sourced via AIPN Congress on Superintelligence"
   },
   {
     "id": "ev-13",
@@ -152,12 +152,12 @@
   {
     "id": "ev-16",
     "bioguideId": "K000401",
-    "stanceImplied": "opposes_domestic",
+    "stanceImplied": "xrisk_concern",
     "quote": "This is something that we have to get right, and we only get one shot at. There's a widely shared view that once AI capability crosses a certain threshold, whether that be recursive self-improvement or some other threshold, there's going to be an escape velocity. That has implications for the narrower geopolitical context of which country leads in the technology, but also for the broader idea of, 'Is this technology going to be aligned with and beneficial to humanity?'",
     "date": "2025-09-18",
     "sourceUrl": "https://youtu.be/Dny8dVjWS_k?si=Qaf8-Z0nmOD0b8o9&t=249",
     "sourceLabel": "Public statement",
-    "notes": "Sourced via AIPN Congress on Superintelligence Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Sourced via AIPN Congress on Superintelligence"
   },
   {
     "id": "ev-17",
@@ -182,22 +182,22 @@
   {
     "id": "ev-19",
     "bioguideId": "M001224",
-    "stanceImplied": "opposes_domestic",
+    "stanceImplied": "xrisk_concern",
     "quote": "It's my understanding that AI systems will soon have the capability to conduct its own research and development and effectively write its own rules and programming. AI will be able to predict then the issues it will need to solve and do it in ways sometimes that we can't control.",
     "date": "2025-06-25",
     "sourceUrl": "https://www.youtube.com/live/GDNrUZBZDA4?si=36AeDbUbn9d-Veea&t=5745",
     "sourceLabel": "Committee on the CCP hearing, Authoritarians and Algorithms: Why U.S. AI Must Lead.",
-    "notes": "Sourced via AIPN Congress on Superintelligence Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Sourced via AIPN Congress on Superintelligence"
   },
   {
     "id": "ev-20",
     "bioguideId": "M001224",
-    "stanceImplied": "opposes_domestic",
+    "stanceImplied": "xrisk_concern",
     "quote": "AI models don't just respond to queries from users, but increasingly augment and in some cases even replace the tasks carried out by technical staff at leading AI companies. [...] The implications for U.S. national security, economic competitiveness and civil society could be vast. If these models can learn from their mistakes, adapt autonomously, and eventually design and train their own successors, then who controls that process matters. A lot.",
     "date": "2025-10-07",
     "sourceUrl": "https://thehill.com/opinion/technology/5542073-us-china-ai-competition/",
     "sourceLabel": "Public statement",
-    "notes": "Sourced via AIPN Congress on Superintelligence Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Sourced via AIPN Congress on Superintelligence"
   },
   {
     "id": "ev-21",
@@ -252,12 +252,12 @@
   {
     "id": "ev-26",
     "bioguideId": "R000618",
-    "stanceImplied": "opposes_domestic",
+    "stanceImplied": "xrisk_concern",
     "quote": "Unlike the moon landing, the finish line in the AI race is far less clear for the U.S.—it may be achieving Artificial General Intelligence, human-level or greater machine cognition.",
     "date": "2025-12-03",
     "sourceUrl": "https://www.ricketts.senate.gov/news/press-releases/ricketts-chairs-subcommittee-hearing-on-american-ai-leadership-countering-communist-china/",
     "sourceLabel": "Senate Foreign Relations Subcommittee hearing, Countering China's Challenge to American AI Leadership.",
-    "notes": "Sourced via AIPN Congress on Superintelligence Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Sourced via AIPN Congress on Superintelligence"
   },
   {
     "id": "ev-27",
@@ -382,12 +382,12 @@
   {
     "id": "ev-39",
     "bioguideId": "K000391",
-    "stanceImplied": "opposes_domestic",
+    "stanceImplied": "xrisk_concern",
     "quote": "This is a famous clip. What you just saw is the last of humankind fighting a rogue AI army that is broken loose from human control. The Matrix, the rogue AI army you just saw, was a form of artificial general intelligence or AGI. [...] China is making an all-out push to dominate AGI, which will inevitably seek to surveil and suppress us at every turn. [...] Rather than building bunkers, we should be building safer AI. Whether it's American AI or Chinese AI, it should not be released until we know it's safe.",
     "date": "2025-06-25",
     "sourceUrl": "https://www.youtube.com/live/GDNrUZBZDA4?si=mekua7KXozjitExo&t=644",
     "sourceLabel": "Committee on the CCP hearing.",
-    "notes": "Sourced via AIPN Congress on Superintelligence Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Sourced via AIPN Congress on Superintelligence"
   },
   {
     "id": "ev-40",
@@ -3975,16 +3975,6 @@
   },
   {
     "id": "ev-405",
-    "bioguideId": "H001089",
-    "stanceImplied": "strong_risk_reg",
-    "quote": "It is the sense of Congress that rapidly advancing artificial intelligence capabilities present both opportunities and significant risks to national security, public safety, economic competitiveness, civil liberties, and healthy labor and other markets, and that, as artificial intelligence advances toward human-level capabilities in virtually all domains, the United States must establish a secure testing and evaluation program to generate data-driven options for managing emerging risks.",
-    "date": "2025-09-29",
-    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2938/text",
-    "sourceLabel": "Artificial Intelligence Risk Evaluation Act (S.2938) — Hawley sponsor text",
-    "notes": "Existing evidence includes existential-risk hearing exchange."
-  },
-  {
-    "id": "ev-406",
     "bioguideId": "S000033",
     "stanceImplied": "xrisk_concern",
     "quote": "Nearly every day, there is a frightening new story about how Big Tech companies are losing control of the technology they are developing, with potentially cataclysmic results. The leaders of the major AI companies publicly acknowledge that they do not fully understand the technology and that it is escaping their control. [...] That's why I am introducing legislation to immediately pause the development of increasingly powerful AI and ban the creation of systems that humanity cannot fully control — at home and around the world. The future of humanity cannot be left in the hands of a handful of Big Tech oligarchs.",
@@ -3994,7 +3984,7 @@
     "notes": "Introduced S.5493 (Ban Artificial Superintelligence Act of 2026) with Rep. Greg Casar. Also covered by Washington Post, 2026-09-03."
   },
   {
-    "id": "ev-407",
+    "id": "ev-406",
     "bioguideId": "S000033",
     "stanceImplied": "xrisk_concern",
     "quote": "Mr. Coxon is right. The very people building this technology admit that it could threaten the future of humanity. That is why I will soon be introducing legislation to ban superintelligence and pause AI development.",
@@ -4004,7 +3994,7 @@
     "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
   },
   {
-    "id": "ev-408",
+    "id": "ev-407",
     "bioguideId": "M001169",
     "stanceImplied": "xrisk_concern",
     "quote": "If you read anything today, read this. And remember, the problem he articulates - AI companies in a blind race to build a death machine first - can easily be solved. Through a regulatory system that allows the research to continue, but in a way that doesn't destroy us.",
@@ -4014,7 +4004,7 @@
     "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
   },
   {
-    "id": "ev-409",
+    "id": "ev-408",
     "bioguideId": "M001111",
     "stanceImplied": "strong_risk_reg",
     "quote": "If we are smart enough to create such powerful AI, then we are smart enough to regulate it. America can meet the moment, but the clock is ticking. Congress needs to step up and move NOW to protect American lives and safeguard our future.",
@@ -4024,27 +4014,26 @@
     "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
   },
   {
-    "id": "ev-410",
+    "id": "ev-409",
     "bioguideId": "C001098",
     "stanceImplied": "opposes_domestic",
     "quote": "AI is advancing at an extraordinary pace, and some of the risks are dangerous and frightening. I've been on the forefront of this issue in the Senate. I wrote and passed the TAKE IT DOWN Act, the only legislation Congress has enacted restricting AI [...]. We cannot stick our heads in the sand and pretend this technology isn't happening. We need guardrails. But America needs to lead.",
     "date": "2026-09-09",
     "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
     "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
-    "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread. Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
   },
   {
-    "id": "ev-411",
+    "id": "ev-410",
     "bioguideId": "C001098",
     "stanceImplied": "opposes_domestic",
     "quote": "If we allow Dems to strangle American AI—and hand global AI leadership to China—it would be utterly catastrophic.",
     "date": "2026-09-10",
     "sourceUrl": "https://x.com/tedcruz/status/2098073695864430868",
-    "sourceLabel": "X post opposing Democratic AI regulation",
-    "notes": "Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "sourceLabel": "X post opposing Democratic AI regulation"
   },
   {
-    "id": "ev-412",
+    "id": "ev-411",
     "bioguideId": "V000128",
     "stanceImplied": "xrisk_concern",
     "quote": "Anyone still denying the risks posed by unregulated AI should read this thread. It's time to pump the brakes & take action NOW. We need: - Mandatory safeguards - A comprehensive testing regime - Urgent dialogue with China, before & during President Xi's visit to DC this month.",
@@ -4054,7 +4043,7 @@
     "notes": "Public post amplifying Jacob Coxon's warning that labs are racing to superintelligence that could kill everyone this decade; compiled in @daniel_271828 congressional-response thread."
   },
   {
-    "id": "ev-413",
+    "id": "ev-412",
     "bioguideId": "K000377",
     "stanceImplied": "strong_risk_reg",
     "quote": "AI is moving fast and we need to act now. Almost a year ago, I released AI for America because I believe we need to be proactive on AI, both harnessing its potential so it benefits working people and protecting against the worst outcomes it could lead to. The reality is that the Big Tech approach of 'build fast and break things' is not the right one for AI, and Washington needs to wake up and take this seriously.",
@@ -4064,7 +4053,7 @@
     "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
   },
   {
-    "id": "ev-414",
+    "id": "ev-413",
     "bioguideId": "G000574",
     "stanceImplied": "xrisk_concern",
     "quote": "Most recently, an Anthropic researcher who previously worked at OpenAI resigned from the AI industry, warning about a race to develop increasingly powerful and potentially uncontrollable systems and arguing that government intervention may ultimately be necessary. [...] Leading AI researchers have warned that increasingly autonomous systems could create risks ranging from large-scale misuse to circumstances in which humans have difficulty maintaining meaningful control over advanced systems. That warning follows a broader 2023 public statement [...] declaring that mitigating the risk of extinction from AI should be a global priority on par with pandemics and nuclear war.",
@@ -4074,7 +4063,7 @@
     "notes": "Also posted the CAIS extinction-risk statement on X while urging an immediate bipartisan Senate Select Committee on Artificial Intelligence."
   },
   {
-    "id": "ev-415",
+    "id": "ev-414",
     "bioguideId": "B001303",
     "stanceImplied": "xrisk_concern",
     "quote": "Even if there was a 1% chance AI could wipe out human life, we should be pumping the brakes to make sure we have the proper safeguards in place, not racing blindly into disaster. It's time for Congress to step in and find the balance between safety and innovation, before it's too late.",
@@ -4084,7 +4073,7 @@
     "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
   },
   {
-    "id": "ev-416",
+    "id": "ev-415",
     "bioguideId": "S000033",
     "stanceImplied": "xrisk_concern",
     "quote": "Scientists have been clear: AI is an existential threat to humanity. It must be treated as such. This legislation will permanently ban the development of artificial superintelligence and would put in place an immediate pause on advanced AI development until we have clear safety rules in place.",
@@ -4093,17 +4082,17 @@
     "sourceLabel": "Ban Artificial Superintelligence Act introduction (S.5493)"
   },
   {
-    "id": "ev-417",
+    "id": "ev-416",
     "bioguideId": "C001098",
-    "stanceImplied": "opposes_domestic",
+    "stanceImplied": "xrisk_concern",
     "quote": "AI poses a catastrophic risk.",
     "date": "2026-09-10",
     "sourceUrl": "https://aipolicydaily.org/archive/daily/2026-09-10/",
     "sourceLabel": "AI Policy Daily (ABC The View interview, via Guardian)",
-    "notes": "Also recounted Elon Musk putting odds of AI wiping out humanity at 10–20%. Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Also recounted Elon Musk putting odds of AI wiping out humanity at 10–20%."
   },
   {
-    "id": "ev-418",
+    "id": "ev-417",
     "bioguideId": "T000250",
     "stanceImplied": "opposes_domestic",
     "quote": "Called for a light-touch framework on AI.",
@@ -4112,7 +4101,7 @@
     "sourceLabel": "Transformer Weekly (Oct 9, 2026)"
   },
   {
-    "id": "ev-419",
+    "id": "ev-418",
     "bioguideId": "S000148",
     "stanceImplied": "strong_risk_reg",
     "quote": "Americans are calling for real solutions, real guardrails, real solutions on AI. [...] Democrats would require safety standards to protect the American people. A guardrail without teeth isn't a guardrail.",
@@ -4121,7 +4110,7 @@
     "sourceLabel": "Senate floor remarks after White House AI summit"
   },
   {
-    "id": "ev-420",
+    "id": "ev-419",
     "bioguideId": "H001089",
     "stanceImplied": "strong_risk_reg",
     "quote": "Announced a Homeland Security Subcommittee on Disaster Management investigation into the OpenAI Hugging Face hack.",
@@ -4130,7 +4119,7 @@
     "sourceLabel": "Transformer Weekly (Sep 11, 2026)"
   },
   {
-    "id": "ev-421",
+    "id": "ev-420",
     "bioguideId": "M001242",
     "stanceImplied": "opposes_domestic",
     "quote": "Warned Dario Amodei against alarmist and panic-inducing AI commentary.",
@@ -4139,7 +4128,7 @@
     "sourceLabel": "Transformer Weekly (Oct 9, 2026)"
   },
   {
-    "id": "ev-422",
+    "id": "ev-421",
     "bioguideId": "C000127",
     "stanceImplied": "strong_risk_reg",
     "quote": "Published a legislative framework calling for constant oversight of frontier models by both the government and independent experts.",
@@ -4148,7 +4137,7 @@
     "sourceLabel": "Transformer Weekly (Oct 9, 2026)"
   },
   {
-    "id": "ev-423",
+    "id": "ev-422",
     "bioguideId": "W000805",
     "stanceImplied": "strong_risk_reg",
     "quote": "The whole world has recognized that we've got to do something.",
@@ -4157,7 +4146,7 @@
     "sourceLabel": "Senate floor (Artificial Intelligence Risk Management and Security Act UC request)"
   },
   {
-    "id": "ev-424",
+    "id": "ev-423",
     "bioguideId": "S001194",
     "stanceImplied": "strong_risk_reg",
     "quote": "Cosponsored the Artificial Intelligence Risk Management and Security Act unanimous-consent request blocked on the Senate floor.",
@@ -4166,7 +4155,7 @@
     "sourceLabel": "Politico Live Updates"
   },
   {
-    "id": "ev-425",
+    "id": "ev-424",
     "bioguideId": "K000394",
     "stanceImplied": "strong_risk_reg",
     "quote": "Cosponsored the Artificial Intelligence Risk Management and Security Act unanimous-consent request blocked on the Senate floor.",
@@ -4175,7 +4164,7 @@
     "sourceLabel": "Politico Live Updates"
   },
   {
-    "id": "ev-426",
+    "id": "ev-425",
     "bioguideId": "K000393",
     "stanceImplied": "strong_risk_reg",
     "quote": "Tried to pass an AI kill switch bill by unanimous consent on the Senate floor.",
@@ -4185,7 +4174,7 @@
     "notes": "Blocked by Sen. Rand Paul."
   },
   {
-    "id": "ev-427",
+    "id": "ev-426",
     "bioguideId": "C001035",
     "stanceImplied": "strong_risk_reg",
     "quote": "The best path forward will balance a recognition of AI's promise … with its risks.",
@@ -4194,7 +4183,7 @@
     "sourceLabel": "Transformer Weekly (Sep 18, 2026)"
   },
   {
-    "id": "ev-428",
+    "id": "ev-427",
     "bioguideId": "C001098",
     "stanceImplied": "opposes_domestic",
     "quote": "Championed a 10-year federal moratorium that would have punished states for enforcing their own AI regulations, arguing fragmented domestic AI rules would harm U.S. competitiveness.",
@@ -4204,7 +4193,7 @@
     "notes": "Classified as opposing domestic AI regulation (state/federal rulemaking). National-security chip/export controls are excluded from this taxonomy."
   },
   {
-    "id": "ev-429",
+    "id": "ev-428",
     "bioguideId": "T000476",
     "stanceImplied": "opposes_domestic",
     "quote": "Cast the sole Senate vote against striking the AI state-regulation moratorium from the 2025 reconciliation package (99–1), supporting the effort to block state AI laws.",
@@ -4213,7 +4202,7 @@
     "sourceLabel": "Ars Technica: Cruz AI moratorium defeated 99–1"
   },
   {
-    "id": "ev-430",
+    "id": "ev-429",
     "bioguideId": "T000250",
     "stanceImplied": "opposes_domestic",
     "quote": "We want to be the leaders in AI and quantum and all these new technologies. And the way to do that is not to come in with a heavy hand of government, it's to come in with a light touch.",
@@ -4223,7 +4212,7 @@
     "notes": "Supported keeping a freeze on state AI regulations in the 2025 reconciliation package. National-security chip/export controls are excluded from this taxonomy."
   },
   {
-    "id": "ev-431",
+    "id": "ev-430",
     "bioguideId": "M001242",
     "stanceImplied": "opposes_domestic",
     "quote": "If we really want to compete with China, the real advantage we have is that we can tap into the private sector… what we want to do is create an environment for the private sector to succeed. The way I think we dominate is by creating an environment where private companies can really contract with government.",
@@ -4233,7 +4222,7 @@
     "notes": "Framed AI policy around beating China via private-sector-led innovation rather than heavier domestic regulation. National-security chip/export controls are excluded from this taxonomy."
   },
   {
-    "id": "ev-432",
+    "id": "ev-431",
     "bioguideId": "K000367",
     "stanceImplied": "mundane_risk",
     "quote": "Has repeatedly pressed for legislation addressing deepfakes, election deepfake harms, and consumer AI transparency — AI ethical concerns.",
@@ -4242,7 +4231,7 @@
     "sourceLabel": "NO FAKES / deepfake legislative advocacy"
   },
   {
-    "id": "ev-433",
+    "id": "ev-432",
     "bioguideId": "C000127",
     "stanceImplied": "mundane_risk",
     "quote": "Has focused Commerce Committee work on AI consumer protection, data privacy, and near-term marketplace harms from AI systems.",
@@ -4251,7 +4240,7 @@
     "sourceLabel": "Senate Commerce AI consumer-protection focus"
   },
   {
-    "id": "ev-434",
+    "id": "ev-433",
     "bioguideId": "S000148",
     "stanceImplied": "mundane_risk",
     "quote": "SAFE Innovation framework emphasizes security, accountability, and foundations for AI policy including near-term societal harms alongside longer-term issues.",
@@ -4260,7 +4249,7 @@
     "sourceLabel": "SAFE Innovation Framework"
   },
   {
-    "id": "ev-435",
+    "id": "ev-434",
     "bioguideId": "W000817",
     "stanceImplied": "mundane_risk",
     "quote": "On December 29, 2025, Elon Musk’s X unveiled a new feature allowing users to use Grok, X’s AI chatbot, to create and edit images with just one click. This tool sparked a wave of users requesting explicit deepfake images, enabling widespread sexual harassment — much of which targeted women and children.",
@@ -4269,7 +4258,7 @@
     "sourceLabel": "Warren letter on Grok deepfakes and AI deregulation"
   },
   {
-    "id": "ev-436",
+    "id": "ev-435",
     "bioguideId": "H001076",
     "stanceImplied": "mundane_risk",
     "quote": "In recent years, AI voice-generating tools have enabled global criminal networks to produce deepfake materials to target more people with increasingly personalized and believable digital scams, including fictitious voices and calls used for imposter and romance scams.",
@@ -4278,7 +4267,7 @@
     "sourceLabel": "Hassan inquiry into AI voice-cloning scams"
   },
   {
-    "id": "ev-437",
+    "id": "ev-436",
     "bioguideId": "D000622",
     "stanceImplied": "mundane_risk",
     "quote": "These AI chatbots were never meant to be used by young children, yet they’re being embedded inside toys by the thousands. We’ve already seen far too many instances where AI-enabled toys have imparted information to our children that could put them in immediate danger and have long-term impacts on their development.",
@@ -4287,7 +4276,7 @@
     "sourceLabel": "Children’s Artificial Intelligence Toy Safety Act"
   },
   {
-    "id": "ev-438",
+    "id": "ev-437",
     "bioguideId": "M001153",
     "stanceImplied": "mundane_risk",
     "quote": "AI-enabled toys have the potential to significantly impact the physical, mental, and emotional development of our children. It is imperative we equip policymakers and America’s families with the knowledge they need to make informed choices about these devices.",
@@ -4296,7 +4285,7 @@
     "sourceLabel": "Children’s Artificial Intelligence Toy Safety Act"
   },
   {
-    "id": "ev-439",
+    "id": "ev-438",
     "bioguideId": "G000574",
     "stanceImplied": "mundane_risk",
     "quote": "It’s absurd that AI companies are letting their chatbots run unchecked, exposing kids and teens to sexual abuse and encouraging self-harm. I’m proud to work with my colleagues across the aisle to hold Big Tech accountable and put real safeguards in place to protect our children.",
@@ -4305,7 +4294,7 @@
     "sourceLabel": "GUARD Act (AI companions for minors)"
   },
   {
-    "id": "ev-440",
+    "id": "ev-439",
     "bioguideId": "G000555",
     "stanceImplied": "mundane_risk",
     "quote": "As policymakers, we are working to address this issue for our constituents. To better understand your current and planned efforts to curb the rise of non-nude sexualized deepfakes on your platforms, we request additional detail on the steps you are taking now and intend to take going forward.",
@@ -4314,7 +4303,7 @@
     "sourceLabel": "Letter to tech platforms on sexualized AI images"
   },
   {
-    "id": "ev-441",
+    "id": "ev-440",
     "bioguideId": "B001230",
     "stanceImplied": "mundane_risk",
     "quote": "Joined colleagues in calling on some of America’s largest tech and social media companies to address the rise of non-consensual, sexualized, AI-generated images appearing on their platforms.",
@@ -4323,7 +4312,7 @@
     "sourceLabel": "Letter to tech platforms on sexualized AI images"
   },
   {
-    "id": "ev-442",
+    "id": "ev-441",
     "bioguideId": "M001243",
     "stanceImplied": "mundane_risk",
     "quote": "Outlined federal child-safety rules for AI, including safeguards against systems designed to exploit or groom minors, alongside a relatively limited domestic regulatory framework.",
@@ -4332,7 +4321,7 @@
     "sourceLabel": "Manhattan Institute AI policy address"
   },
   {
-    "id": "ev-443",
+    "id": "ev-442",
     "bioguideId": "B001303",
     "stanceImplied": "mundane_risk",
     "quote": "With more Americans using AI every day, we need to do all we can to cut down on AI-related fraud. Our AI Fraud Accountability Act would ensure our statutes are updated to meet this current moment.",
@@ -4341,7 +4330,7 @@
     "sourceLabel": "AI Fraud Accountability Act"
   },
   {
-    "id": "ev-444",
+    "id": "ev-443",
     "bioguideId": "K000394",
     "stanceImplied": "mundane_risk",
     "quote": "Co-led the CHAT Act 2.0, a federal framework to protect minors from companion AI chatbots that encourage self-harm, generate sexual content, or engage in romantic interactions with children.",
@@ -4350,7 +4339,7 @@
     "sourceLabel": "CHAT Act 2.0"
   },
   {
-    "id": "ev-445",
+    "id": "ev-444",
     "bioguideId": "H001104",
     "stanceImplied": "mundane_risk",
     "quote": "We need to protect children in the digital world the same way we do in the physical world. The CHAT Act 2.0 would put guardrails in place to keep parents informed, protect children from harm and ensure their safety comes before unchecked technology.",
@@ -4359,7 +4348,7 @@
     "sourceLabel": "CHAT Act 2.0"
   },
   {
-    "id": "ev-446",
+    "id": "ev-445",
     "bioguideId": "W000802",
     "stanceImplied": "mundane_risk",
     "quote": "Joined colleagues urging DOJ and the FTC to investigate whether generative AI features on dominant platforms misappropriate journalism and other creative work in ways that harm competition and local news.",
@@ -4368,7 +4357,7 @@
     "sourceLabel": "Letter on generative AI and competition"
   },
   {
-    "id": "ev-447",
+    "id": "ev-446",
     "bioguideId": "W000779",
     "stanceImplied": "mundane_risk",
     "quote": "Introduced the Algorithmic Accountability Act of 2025 to require impact assessments of automated decision systems used in housing, employment, credit, insurance, education, and healthcare.",
@@ -4377,7 +4366,7 @@
     "sourceLabel": "Algorithmic Accountability Act of 2025"
   },
   {
-    "id": "ev-448",
+    "id": "ev-447",
     "bioguideId": "G000386",
     "stanceImplied": "mundane_risk",
     "quote": "Today, too many people working in AI feel they’re unable to speak up when they see something wrong. Whistleblowers are one of the best ways to ensure Congress keeps pace as the AI industry rapidly develops.",
@@ -4386,7 +4375,7 @@
     "sourceLabel": "AI Whistleblower Protection Act"
   },
   {
-    "id": "ev-449",
+    "id": "ev-448",
     "bioguideId": "M000133",
     "stanceImplied": "mundane_risk",
     "quote": "The risks are the lived reality of AI for millions of Americans — and they deserve policymakers who are paying attention to their lives, not Big Tech’s bottom line.",
@@ -4395,7 +4384,7 @@
     "sourceLabel": "AI Accountability Agenda"
   },
   {
-    "id": "ev-450",
+    "id": "ev-449",
     "bioguideId": "W000805",
     "stanceImplied": "mundane_risk",
     "quote": "As the capabilities of GenAI continue to evolve, maliciously manipulated media poses a significant risk to vulnerable communities, public trust, and democratic institutions, particularly during competitive election cycles.",
@@ -4404,7 +4393,7 @@
     "sourceLabel": "Warner letter on deepfakes and manipulated media"
   },
   {
-    "id": "ev-451",
+    "id": "ev-450",
     "bioguideId": "P000145",
     "stanceImplied": "mundane_risk",
     "quote": "As the use of AI spreads rapidly, we must ensure there are guardrails in place to prevent it from becoming a tool to suppress votes, spread disinformation, or purge eligible voters from the rolls.",
@@ -4413,7 +4402,7 @@
     "sourceLabel": "FAIR Elections Act"
   },
   {
-    "id": "ev-452",
+    "id": "ev-451",
     "bioguideId": "S001203",
     "stanceImplied": "mundane_risk",
     "quote": "Joined colleagues urging DOJ and the FTC to investigate whether generative AI features on dominant platforms misappropriate journalism and other creative work in ways that harm competition and local news.",
@@ -4422,7 +4411,7 @@
     "sourceLabel": "Letter on generative AI and competition"
   },
   {
-    "id": "ev-453",
+    "id": "ev-452",
     "bioguideId": "K000377",
     "stanceImplied": "mundane_risk",
     "quote": "AI tools are increasingly becoming part of older Americans’ daily lives, but we still don’t fully understand their impact. This bill will help us better assess both the opportunities and risks of AI so we can ensure these technologies support older people’s independence, safety, and well-being.",
@@ -4431,7 +4420,7 @@
     "sourceLabel": "Aging with Artificial Intelligence Act"
   },
   {
-    "id": "ev-454",
+    "id": "ev-453",
     "bioguideId": "G000608",
     "stanceImplied": "opposes_domestic",
     "quote": "Inferred: received support from Building the Future, a pro-industry super PAC (pro-innovation).",
@@ -4441,7 +4430,7 @@
     "notes": "FEC independent expenditures supporting Darline Graham in SC Senate ($888,914 and $407,500, Oct 15, 2026)."
   },
   {
-    "id": "ev-455",
+    "id": "ev-454",
     "bioguideId": "M001206",
     "stanceImplied": "opposes_domestic",
     "quote": "Inferred: received support from Think Big, a pro-industry super PAC (pro-innovation).",
@@ -4451,7 +4440,7 @@
     "notes": "FEC independent expenditure supporting Joseph D. Morelle in NY House District 25 ($55,581, Oct 13, 2026). Leading the Future network also announced six-figure general-election support (Sep 25, 2026)."
   },
   {
-    "id": "ev-456",
+    "id": "ev-455",
     "bioguideId": "S001223",
     "stanceImplied": "opposes_domestic",
     "quote": "Inferred: received support from Leading the Future, a pro-industry super PAC (pro-innovation).",
@@ -4461,7 +4450,7 @@
     "notes": "Leading the Future super PAC announced six-figure general-election support for Rep. Emilia Sykes."
   },
   {
-    "id": "ev-457",
+    "id": "ev-456",
     "bioguideId": "H001066",
     "stanceImplied": "opposes_domestic",
     "quote": "Inferred: received support from Leading the Future, a pro-industry super PAC (pro-innovation).",
@@ -4471,7 +4460,7 @@
     "notes": "Leading the Future super PAC announced six-figure general-election support for Rep. Steven Horsford."
   },
   {
-    "id": "ev-458",
+    "id": "ev-457",
     "bioguideId": "S001211",
     "stanceImplied": "opposes_domestic",
     "quote": "Inferred: received support from Leading the Future, a pro-industry super PAC (pro-innovation).",
@@ -4481,7 +4470,7 @@
     "notes": "Leading the Future super PAC announced six-figure general-election support for Rep. Greg Stanton."
   },
   {
-    "id": "ev-459",
+    "id": "ev-458",
     "bioguideId": "M001217",
     "stanceImplied": "opposes_domestic",
     "quote": "Inferred: received support from American Mission, a pro-industry super PAC (pro-innovation).",
@@ -4491,7 +4480,7 @@
     "notes": "FEC independent expenditure supporting Jared Moskowitz in FL House District 25 ($321,574, per tracker race summary)."
   },
   {
-    "id": "ev-460",
+    "id": "ev-459",
     "bioguideId": "F000477",
     "stanceImplied": "strong_risk_reg",
     "quote": "Inferred: received support from Tomorrow Together, a pro-safety super PAC.",

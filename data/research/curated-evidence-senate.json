@@ -626,16 +626,6 @@
     "notes": "Existing evidence includes insight-forum opening statement and SAFE framework summary."
   },
   {
-    "name": "Josh Hawley",
-    "state": "MO",
-    "stanceImplied": "strong_risk_reg",
-    "quote": "It is the sense of Congress that rapidly advancing artificial intelligence capabilities present both opportunities and significant risks to national security, public safety, economic competitiveness, civil liberties, and healthy labor and other markets, and that, as artificial intelligence advances toward human-level capabilities in virtually all domains, the United States must establish a secure testing and evaluation program to generate data-driven options for managing emerging risks.",
-    "date": "2025-09-29",
-    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2938/text",
-    "sourceLabel": "Artificial Intelligence Risk Evaluation Act (S.2938) — Hawley sponsor text",
-    "notes": "Existing evidence includes existential-risk hearing exchange."
-  },
-  {
     "name": "Bernie Sanders",
     "state": "VT",
     "stanceImplied": "xrisk_concern",
@@ -683,7 +673,7 @@
     "date": "2026-09-09",
     "sourceUrl": "https://x.com/daniel_271828/status/2097866883307602163",
     "sourceLabel": "X post on Jacob Coxon Anthropic resignation",
-    "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread. Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Public post responding to Jacob Coxon's Anthropic resignation; compiled in @daniel_271828 congressional-response thread."
   },
   {
     "name": "Ted Cruz",
@@ -692,8 +682,7 @@
     "quote": "If we allow Dems to strangle American AI—and hand global AI leadership to China—it would be utterly catastrophic.",
     "date": "2026-09-10",
     "sourceUrl": "https://x.com/tedcruz/status/2098073695864430868",
-    "sourceLabel": "X post opposing Democratic AI regulation",
-    "notes": "Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "sourceLabel": "X post opposing Democratic AI regulation"
   },
   {
     "name": "Chris Van Hollen",
@@ -752,7 +741,7 @@
     "date": "2026-09-10",
     "sourceUrl": "https://aipolicydaily.org/archive/daily/2026-09-10/",
     "sourceLabel": "AI Policy Daily (ABC The View interview, via Guardian)",
-    "notes": "Also recounted Elon Musk putting odds of AI wiping out humanity at 10–20%. Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous."
+    "notes": "Also recounted Elon Musk putting odds of AI wiping out humanity at 10–20%."
   },
   {
     "name": "John Thune",

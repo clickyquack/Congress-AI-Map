@@ -715,39 +715,43 @@ async function main() {
     })
   }
 
-  // X-risk language whose main concern is China winning the AI race → red
-  // (opposes_domestic). Keep a caveat on the quote. Stay x-risk if they also
-  // call for international governance agreements with China.
-  const chinaRaceNote =
-    'Also expresses strong concern about the U.S. not coming second to China, so this x-risk signal is a bit ambiguous.'
-  const chinaGovernanceRe =
-    /agreement with china|agreements with china|dialogue with china|international agreements?.{0,80}\bchina\b|\bchina\b.{0,80}(safety|containment|liability|governance) agreement/i
-  const chinaRacePrimary = [
-    ['Ted Cruz', 'TX'],
+  // Mixed x-risk + China-competition rhetoric: default x-risk unless the statement
+  // clearly prioritizes winning the global AI race over safety/x-risk framing.
+  const racePrioritizerNote =
+    'Classified as opposing domestic AI regulation because this statement prioritizes U.S. winning the global AI race over existential-risk framing.'
+  function quotePrioritizesWinningRace(quote) {
+    const q = String(quote || '').toLowerCase()
+    const safetyFirst =
+      /\b(pump the brakes|existential|wipe out|superintelligence|loss of control|can't control|write its own rules)\b/.test(
+        q,
+      )
+    if (safetyFirst) return false
+    return (
+      /\blose this race\b/.test(q) ||
+      /\bhand global ai leadership to china\b/.test(q) ||
+      /\bstrangle american ai\b/.test(q) ||
+      /\bamerica needs to lead\b/.test(q) ||
+      /\bnot lose our edge\b.*\bchina\b/.test(q) ||
+      /\bchina\b.*\b(national security threat|must lead|leadership)\b/.test(q)
+    )
+  }
+  const racePrioritizerMembers = [
     ['Dusty Johnson', 'SD'],
-    ['Pete Ricketts', 'NE'],
-    ['Nathaniel Moran', 'TX'],
-    ['Kevin Kiley', 'CA'],
-    ['Raja Krishnamoorthi', 'IL'],
-    ['Elijah Crane', 'AZ'],
+    ['Ted Cruz', 'TX'],
   ]
-  for (const [name, state] of chinaRacePrimary) {
+  for (const [name, state] of racePrioritizerMembers) {
     const m = findByNameState(members, name, state)
     if (!m) {
-      console.log('China-race note unmatched:', name, state)
+      console.log('Race-prioritizer note unmatched:', name, state)
       continue
     }
-    const wantsChinaDeal = evidence.some(
-      (e) =>
-        e.bioguideId === m.bioguideId &&
-        chinaGovernanceRe.test(`${e.quote} ${e.notes || ''} ${e.sourceLabel || ''}`),
-    )
     for (const e of evidence) {
       if (e.bioguideId !== m.bioguideId || e.stanceImplied !== 'xrisk_concern') continue
-      if (!e.notes?.includes(chinaRaceNote)) {
-        e.notes = e.notes ? `${e.notes} ${chinaRaceNote}` : chinaRaceNote
+      if (!quotePrioritizesWinningRace(e.quote)) continue
+      e.stanceImplied = 'opposes_domestic'
+      if (!e.notes?.includes(racePrioritizerNote)) {
+        e.notes = e.notes ? `${e.notes} ${racePrioritizerNote}` : racePrioritizerNote
       }
-      if (!wantsChinaDeal) e.stanceImplied = 'opposes_domestic'
     }
   }
 
