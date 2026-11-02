@@ -7,6 +7,9 @@
 
 body {
   margin: 0;
+  font-family: var(--serif);
+  font-size: 1.125rem;
+  -webkit-font-smoothing: antialiased;
 }
 
 #root {

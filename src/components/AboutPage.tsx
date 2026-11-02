@@ -5,7 +5,7 @@ const ISSUES_URL = 'https://github.com/clickyquack/Congress-AI-Map/issues'
 export function AboutPage() {
   return (
     <article className="about">
-      <a className="about-back" href="#map">
+      <a className="about-back" href="/congress-map/">
         ← Back to map
       </a>
       <h1>About this project</h1>

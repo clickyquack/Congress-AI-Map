@@ -8,6 +8,7 @@ import { ListView, type ListSort } from './components/ListView'
 import { MapView } from './components/MapView'
 import { MemberPanel } from './components/MemberPanel'
 import { ModeToggle } from './components/ModeToggle'
+import { SiteFooter, SiteHeader } from './components/SiteHeader'
 import { StanceLegend } from './components/StanceLegend'
 import { ViewToggle } from './components/ViewToggle'
 import { classifyAll } from './lib/classify'
@@ -89,40 +90,32 @@ export default function App() {
 
   if (page === 'about') {
     return (
-      <div className="app">
-        <header className="hero">
-          <div className="hero-top">
-            <p className="brand">
-              <a href="#map">AI Risk in Congress</a>
-            </p>
-            <a href="#map" className="hero-nav-link">
-              Map
-            </a>
+      <div className="app is-wide">
+        <SiteHeader page="about" />
+        <main className="site-main">
+          <div className="shell">
+            <AboutPage />
           </div>
-        </header>
-        <main className="main about-main">
-          <AboutPage />
         </main>
+        <SiteFooter />
       </div>
     )
   }
 
   return (
-    <div className={`app ${selected ? 'has-panel' : ''}`}>
-      <header className="hero">
-        <div className="hero-top">
-          <p className="brand">AI Risk in Congress</p>
-          <a href="#about" className="hero-nav-link">
-            About
-          </a>
-        </div>
-        <h1>Where members stand on AI risk and regulation</h1>
-        <p className="sub">
-          Color-coded map and directory of the 119th Congress. Click a seat or row for
-          sourced quotes and bill actions. Chip/compute security and international
-          governance bills are tracked in the list but do not move stance.
-        </p>
-        <ModeToggle value={layout} onChange={setLayout} />
+    <div className={`app is-wide ${selected ? 'has-panel' : ''}`}>
+      <SiteHeader page="home" />
+      <main className="site-main">
+        <div className="shell">
+          <header className="page-header map-intro">
+            <h1>AI risk in Congress</h1>
+            <p className="byline">
+              Where members stand on AI risk and regulation in the 119th Congress. Click a seat or
+              row for sourced quotes and bill actions. Chip/compute security and international
+              governance bills are tracked in the list but do not move stance.
+            </p>
+          </header>
+          <ModeToggle value={layout} onChange={setLayout} />
         {layout === 'map' ? (
           <>
             <ViewToggle
@@ -167,9 +160,8 @@ export default function App() {
           regs · {counts.opposes_domestic} oppose · {counts.mundane_risk} ethics ·{' '}
           {counts.unknown} unknown
         </p>
-      </header>
 
-      <main className="main">
+          <div className="map-main">
         {layout === 'map' ? (
           <MapView
             chamber={chamber}
@@ -213,7 +205,10 @@ export default function App() {
           bills={bills}
           onClose={() => setSelectedId(null)}
         />
+          </div>
+        </div>
       </main>
+      <SiteFooter />
     </div>
   )
 }
