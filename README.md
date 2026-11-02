@@ -12,16 +12,14 @@ npm run dev
 
 Production build: `npm run build` → `dist/`.
 
-## GitHub Pages
+## Production URL
 
-The app is configured for a project site at `/Congress-AI-Map/`.
+Published at **[politicalwillai.org/congress-map/](https://www.politicalwillai.org/congress-map/)** via the [political-will-ai](https://github.com/clickyquack/political-will-ai) site repo.
 
-1. Push this repo to GitHub.
-2. In repo **Settings → Pages**, set **Source** to **GitHub Actions**.
-3. Pushes to `main` run `.github/workflows/deploy.yml` (build + deploy `dist/`).
-4. Site URL: `https://<user>.github.io/Congress-AI-Map/`
+- Vite `base`: `/congress-map/`
+- Pushes to `main` run `.github/workflows/deploy.yml`, which builds and pushes `dist/` to `public/congress-map/` on political-will-ai (Astro then deploys that folder with the rest of the site).
 
-`public/.nojekyll` is copied into `dist/` so GitHub does not process the site with Jekyll.
+Setup (deploy token, nav link): [docs/deploy-politicalwillai.md](docs/deploy-politicalwillai.md).
 
 ## Map views
 

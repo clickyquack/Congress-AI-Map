@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy to politicalwillai.org
 
 on:
   push:
@@ -7,34 +7,39 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: deploy-congress-map
   cancel-in-progress: true
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
+
       - run: npm ci
       - run: npm run build
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      # GitHub Pages subpath: direct loads of nested routes fall back to the app shell.
+      - name: Add SPA fallback for subpath hosting
+        shell: bash
+        run: cp dist/index.html dist/404.html
+
+      # Astro copies public/ into the Pages artifact; main site workflow rebuilds on push.
+      - name: Publish to clickyquack/political-will-ai/public/congress-map/
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.POLITICAL_WILL_AI_DEPLOY_TOKEN }}
+          repository: clickyquack/political-will-ai
+          branch: main
+          folder: dist
+          target-folder: public/congress-map
+          clean: true
+          single-commit: true
+          commit-message: Deploy congress map (${{ github.sha }})
