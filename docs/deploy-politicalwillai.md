@@ -1,46 +1,36 @@
-# Deploy at politicalwillai.org/congress-map
+# Congress map on politicalwillai.org
 
-The map lives in **[Congress AI Map](https://github.com/clickyquack/Congress-AI-Map)**. Built files are pushed into **[political-will-ai](https://github.com/clickyquack/political-will-ai)** at `public/congress-map/`.
+The map app lives in **[Congress AI Map](https://github.com/clickyquack/Congress-AI-Map)**. It is **not** deployed from that repo anymore.
 
-The main site is Astro with GitHub Pages from **Actions** (not raw `main`). Astro copies everything under `public/` into the published `dist/`, so the map is served at:
+**[political-will-ai](https://github.com/clickyquack/political-will-ai)** builds a copy into `public/congress-map/` and publishes it at:
 
 **https://www.politicalwillai.org/congress-map/**
 
-(Use the same path on the apex domain if DNS redirects `politicalwillai.org` → `www`.)
+## Update the live map
 
-Each map deploy commits to `main` on political-will-ai, which **re-runs that repo’s deploy workflow** and republishes the full site including the updated map.
+1. Push changes to Congress AI Map `main` (data, UI, etc.).
+2. Trigger a rebuild of the main site—either push anything to political-will-ai `main`, or run **Deploy to GitHub Pages** manually on political-will-ai.
 
-## One-time setup (Congress AI Map repo)
+CI checks out `clickyquack/Congress-AI-Map` at the latest `main` on each site deploy. No PAT or cross-repo secret is required.
 
-1. Create a [fine-grained personal access token](https://github.com/settings/tokens?type=beta) with **Contents: Read and write** on **only** `clickyquack/political-will-ai`.
-2. In **Congress AI Map** → **Settings → Secrets and variables → Actions**, add:
-   - Name: `POLITICAL_WILL_AI_DEPLOY_TOKEN`
-   - Value: the token
-3. Push to `main` on Congress AI Map (or run **Deploy to politicalwillai.org** manually under Actions).
+## Local build (political-will-ai)
 
-The workflow replaces only `public/congress-map/`; Astro source and the rest of `public/` are untouched.
-
-## Link from the main site (political-will-ai)
-
-Add a nav entry in `src/site.ts`, for example under Resources:
-
-```ts
-{
-  id: "congress-map",
-  href: "/congress-map/",
-  label: "Congress AI map",
-},
-```
-
-Use a root-absolute `href` (not `sitePath(...)`) so the link targets the static app, not an Astro route.
-
-## Local dev (Congress AI Map)
-
-Vite `base` is `/congress-map/`:
+With both repos as siblings (`../Congress AI Map`):
 
 ```bash
-npm run dev
-npm run build && npm run preview
+cd political-will-ai
+npm run build:congress-map   # only the map → public/congress-map/
+npm run build                # map + Astro site
 ```
 
-Preview URLs include the `/congress-map/` prefix, matching production.
+Or set an explicit path:
+
+```bash
+CONGRESS_MAP_DIR="C:/Users/you/Documents/GitHub/Congress AI Map" npm run build:congress-map
+```
+
+Vite in the map repo uses `base: '/congress-map/'` so asset paths match production.
+
+## Nav link
+
+The site nav entry is in political-will-ai `src/site.ts` (`href: "/congress-map/"`).

@@ -14,12 +14,7 @@ Production build: `npm run build` → `dist/`.
 
 ## Production URL
 
-Published at **[politicalwillai.org/congress-map/](https://www.politicalwillai.org/congress-map/)** via the [political-will-ai](https://github.com/clickyquack/political-will-ai) site repo.
-
-- Vite `base`: `/congress-map/`
-- Pushes to `main` run `.github/workflows/deploy.yml`, which builds and pushes `dist/` to `public/congress-map/` on political-will-ai (Astro then deploys that folder with the rest of the site).
-
-Setup (deploy token, nav link): [docs/deploy-politicalwillai.md](docs/deploy-politicalwillai.md).
+Published at **[politicalwillai.org/congress-map/](https://www.politicalwillai.org/congress-map/)** from the [political-will-ai](https://github.com/clickyquack/political-will-ai) repo (`npm run build:congress-map` → `public/congress-map/`). Push map changes here, then redeploy the main site—see [docs/deploy-politicalwillai.md](docs/deploy-politicalwillai.md).
 
 ## Map views
 
